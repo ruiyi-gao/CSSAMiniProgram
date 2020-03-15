@@ -1,0 +1,35 @@
+/**app.wxss**/
+@import "colorui/main.wxss";
+@import "colorui/icon.wxss";
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+.bg_wrap{
+ width: 750rpx;
+ margin: 50rpx auto
+}
+
+.title{
+  margin-top: 30rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40rpx;
+}
+
+.basic{
+  margin: 50rpx;
+  display: flex;
+}
+
+page {
+  background: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}

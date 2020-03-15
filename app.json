@@ -1,0 +1,50 @@
+{
+  "pages": [
+    "pages/homePage/homePage",
+    "pages/CSSA_home/CSSA_home",
+    "pages/freshman_manual_home/freshman_manual_home",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundColor": "#f67a6d",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#f6eff3",
+    "navigationBarTitleText": "GT CSSA",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+    "tabBar": {
+      "color": "#ccc",
+      "selectedColor": "#f67b6d",
+      "borderStyle": "white",
+      "backgroundColor": "#f9f9f9",
+      "list": [
+        {
+          "text": "主页",
+          "pagePath": "pages/homePage/homePage",
+          "iconPath": "images/home.png",
+          "selectedIconPath": "images/home.png"
+        },
+        {
+          "text": "论坛",
+          "pagePath": "pages/homePage/homePage",
+          "iconPath": "images/forum.png",
+          "selectedIconPath": "images/forum.png"
+        },
+        {
+          "text": "交易信息",
+          "pagePath": "pages/homePage/homePage",
+          "iconPath": "images/second_hand.png",
+          "selectedIconPath": "images/second_hand.png"
+        },
+        {
+          "text": "我的",
+          "pagePath": "pages/homePage/homePage",
+          "iconPath": "images/me.png",
+          "selectedIconPath": "images/me.png"
+        }
+      ]
+    }
+}
