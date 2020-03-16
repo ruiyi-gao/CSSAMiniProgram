@@ -3,7 +3,23 @@
 # Pages结构
 - homePage: 主页面 内容见主页面设计
 - CSSA_home: CSSA主页面 内容为CSSA简介和每个部门的button
+- CSSA：储存所有CSSA page的文件夹
+  - ZhuXiTuan: 主席团主页面
+  - JiShuBu： 技术部主页面
+  - QiHuaBu：企划部主页面
+  - ZhiYeBu：职业部主页面
+  - NeiLianBu：内联部主页面
+  - WaiLianBu：外联部主页面
+  - CaiWuBu：财务部主页面
+  - XuanChuanBu：宣传部主页面
 - freshman_manual_home: 新生手册主页面
+- freshman_manual：储存所有新生手册page的文件夹
+  - XiaoYuanZhouBian：校园周边主页面
+  - ZhuSu：住宿主页面
+  - BaoXian：保险主页面
+  - XuanKe：选课主页面
+  - JieJi：接机主页面
+  - YinHang：银行主页面
 
 # UI Cheat Sheet
 app.wxss可调用内容
@@ -47,7 +63,7 @@ cssa 主界面
 - 主界面B
   - 顶部写CSSA宗旨及简单介绍
   - 下面分区部分给各个部门(8个button)
-    - 主席团 技术部 企划部 宣传部 内联部 外联部 职业部 附属社团
+    - 主席团 技术部 企划部 宣传部 内联部 外联部 职业部 财务部
 
 部门页面
 - 参照CSSA官网设计以及成团推文
