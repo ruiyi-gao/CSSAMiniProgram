@@ -6,21 +6,25 @@ Page({
    */
   data: {
     iconList: [{
+      id: 0,
       icon: 'discoverfill',
       color: 'red',
       name: '校园周边',
       bindtap: 'redirect1'
     }, {
+      id: 1,
       icon: 'shopfill',
       color: 'orange',
       name: '二手物品',
       bindtap: 'redirect2'
     }, {
+      id: 2,
       icon: 'locationfill',
       color: 'yellow',
       name: '接机',
       bindtap: 'redirect3'
     }, {
+      id: 3,
       icon: 'noticefill',
       color: 'olive',
       name: '选课',
@@ -75,7 +79,7 @@ Page({
 
   freshman_manual: function () {
     wx.redirectTo({
-      url: '../CSSA_home/CSSA_home'
+      url: '../freshman_manual_home/freshman_manual_home'
     })
   },
 
