@@ -1,2 +1,11 @@
 <!--pages/CSSA_home/CSSA_home.wxml-->
-<text>这里是CSSA主页</text>
+<view class="bg-wrap">
+<view>
+  <swiper class="screen-swiper round-dot" indicator-dots="true" circular="true" autoplay="true" interval="5000" duration="500">
+    <swiper-item wx:for="{{swiperList}}" wx:key>
+      <image src="{{item.url}}" mode="aspectFill"></image>
+    </swiper-item>
+  </swiper>
+</view>
+
+</view>
