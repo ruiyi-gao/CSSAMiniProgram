@@ -1,2 +1,26 @@
 <!--pages/freshman_manual_home/freshman_manual_home.wxml-->
-<text>这是新生手册主页</text>
+<view class="bg-wrap">
+<view>
+  <swiper class="screen-swiper round-dot" indicator-dots="true" circular="true" autoplay="true" interval="5000" duration="500">
+    <swiper-item wx:for="{{swiperList}}" wx:key="{{item.id}}">
+      <image src="{{item.url}}" mode="aspectFill"></image>
+    </swiper-item>
+  </swiper>
+</view>
+
+<view>
+  <view>
+    <text class="title" style="margin-top:50rpx;">新生手册</text>
+  </view>
+  <view class="cu-list grid col-2 no-border" style="padding-top: 70rpx;">
+     <view class="cu-item" wx:for="{{departmentList}}" wx:if="{{index < gridCol*3}}" wx:key="{{item.id}}">
+        <view> 
+          <image src="{{item.icon}}" bindtap="{{item.bindtap}}" style="width:110rpx; height:110rpx;"> </image>
+        </view>
+        <text>{{item.name}}</text>
+        <view style="height:50rpx; "></view>
+      </view>
+    </view>
+</view>
+
+</view>
