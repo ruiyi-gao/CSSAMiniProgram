@@ -65,37 +65,37 @@ Page({
   },
 
   XiaoYuanZhouBian: function () {
-    wx.redirectTo({
+    wx.navigateTo({
       url: '../freshman_manual/XiaoYuanZhouBian/XiaoYuanZhouBian'
     })
   },
 
   ZhuSu: function () {
-    wx.redirectTo({
+    wx.navigateTo({
       url: '../freshman_manual/ZhuSu/ZhuSu'
     })
   },
 
   BaoXian: function () {
-    wx.redirectTo({
+    wx.navigateTo({
       url: '../freshman_manual/BaoXian/BaoXian'
     })
   },
 
   XuanKe: function () {
-    wx.redirectTo({
+    wx.navigateTo({
       url: '../freshman_manual/XuanKe/XuanKe'
     })
   },
 
   JieJi: function () {
-    wx.redirectTo({
+    wx.navigateTo({
       url: '../freshman_manual/JieJi/JieJi'
     })
   },
 
   YinHang: function () {
-    wx.redirectTo({
+    wx.navigateTo({
       url: '../freshman_manual/YinHang/YinHang'
     })
   },

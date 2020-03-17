@@ -72,13 +72,13 @@ Page({
   },
 
   CSSA: function(){
-    wx.redirectTo({
+    wx.navigateTo({
       url: '../CSSA_home/CSSA_home'
     })
   },
 
   freshman_manual: function () {
-    wx.redirectTo({
+    wx.navigateTo({
       url: '../freshman_manual_home/freshman_manual_home'
     })
   },

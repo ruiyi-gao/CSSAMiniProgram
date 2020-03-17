@@ -77,49 +77,49 @@ Page({
   },
 
   ZhuXiTuan: function () {
-    wx.redirectTo({
+    wx.navigateTo({
       url: '../CSSA/ZhuXiTuan/ZhuXiTuan'
     })
   },
 
   JiShuBu: function () {
-    wx.redirectTo({
+    wx.navigateTo({
       url: '../CSSA/JiShuBu/JiShuBu'
     })
   },
 
   QiHuaBu: function () {
-    wx.redirectTo({
+    wx.navigateTo({
       url: '../CSSA/QiHuaBu/QiHuaBu'
     })
   },
 
   ZhiYeBu: function () {
-    wx.redirectTo({
+    wx.navigateTo({
       url: '../CSSA/ZhiYeBu/ZhiYeBu'
     })
   },
 
   NeiLianBu: function () {
-    wx.redirectTo({
+    wx.navigateTo({
       url: '../CSSA/NeiLianBu/NeiLianBu'
     })
   },
 
   WaiLianBu: function () {
-    wx.redirectTo({
+    wx.navigateTo({
       url: '../CSSA/WaiLianBu/WaiLianBu'
     })
   },
 
   CaiWuBu: function () {
-    wx.redirectTo({
+    wx.navigateTo({
       url: '../CSSA/CaiWuBu/CaiWuBu'
     })
   },
 
   XuanChuanBu: function () {
-    wx.redirectTo({
+    wx.navigateTo({
       url: '../CSSA/XuanChuanBu/XuanChuanBu'
     })
   },
