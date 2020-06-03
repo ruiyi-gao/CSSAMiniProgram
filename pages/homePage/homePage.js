@@ -10,25 +10,25 @@ Page({
       icon: 'discoverfill',
       color: 'red',
       name: '校园周边',
-      bindtap: 'redirect1'
+      bindtap: 'XiaoYuanZhouBian'
     }, {
       id: 1,
       icon: 'shopfill',
       color: 'orange',
-      name: '二手物品',
-      bindtap: 'redirect2'
+      name: '住宿',
+      bindtap: 'ZhuSu'
     }, {
       id: 2,
       icon: 'locationfill',
       color: 'yellow',
       name: '接机',
-      bindtap: 'redirect3'
+      bindtap: 'JieJi'
     }, {
       id: 3,
       icon: 'noticefill',
       color: 'olive',
       name: '选课',
-      bindtap: 'redirect4'
+      bindtap: 'XuanKe'
     }],
     gridCol: 2,
     cardCur: 0,
@@ -80,6 +80,30 @@ Page({
   freshman_manual: function () {
     wx.navigateTo({
       url: '../freshman_manual_home/freshman_manual_home'
+    })
+  },
+
+  XiaoYuanZhouBian: function () {
+    wx.navigateTo({
+      url: '../freshman_manual/XiaoYuanZhouBian/XiaoYuanZhouBian'
+    })
+  },
+
+  ZhuSu: function () {
+    wx.navigateTo({
+      url: '../freshman_manual/ZhuSu/ZhuSu'
+    })
+  },
+
+  JieJi: function () {
+    wx.navigateTo({
+      url: '../freshman_manual/JieJi/JieJi'
+    })
+  },
+
+  XuanKe: function () {
+    wx.navigateTo({
+      url: '../freshman_manual/XuanKe/XuanKe'
     })
   },
 
