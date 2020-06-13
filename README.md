@@ -35,15 +35,18 @@ app.wxss可调用内容
  
 # 关于Color UI
 - 什么是Color UI？
-  - Color UI是我们可以调用的一个css库 
+  - Color UI是我们可以调用的一个wxss库 
   - github: https://github.com/weilanwl/ColorUI
 - 如何调用？
   - Option 1：colorui -> components -> main.wxss
     找到你需要的UI component之后填写相应parameter
   - Option 2：微信搜索Color UI小程序 找到你想要的组件
-    之后在Github里找到对应的code并修改
+    之后在Github里或用方法一找到对应的code并修改
   - Option 3: clone Color UI的github并用微信开发助手打开
     找到你想要的组件及对应的code并修改
+  - Note: 
+    Color UI组件库已经import到app.wxss里了 
+    不需要复制粘贴对应wxss代码 只需要js和wxml即可
 
 # 关于设计方案
 - 配色：Ａ
