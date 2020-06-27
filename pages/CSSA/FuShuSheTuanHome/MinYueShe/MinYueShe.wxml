@@ -1,2 +1,40 @@
-<!--pages/CSSA/FuShuSheTuanHome/MinYueShe/MinYueShe.wxml-->
-<text>pages/CSSA/FuShuSheTuanHome/MinYueShe/MinYueShe.wxml</text>
+<view class="bg_wrap">
+
+<text class="title">附属社团之民乐社</text>
+<text class="basic" decode="{{true}}" style="margin-top: 50rpx;">
+“高山流水琴三弄，清风明月酒一樽。” 
+我们期待与有意加入的小伙伴早日相遇，以琴会友，忆古思今！
+</text>
+
+<image src="../../../../images/MinYueImage.png" style="width:650rpx; height: 455rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top:-20rpx;">
+【活动形式】
+&ensp;-&ensp;排练曲目（合奏）
+&ensp;-&ensp;乐器练习（独奏）
+&ensp;-&ensp;活动演出（校内外）
+
+【招新对象】
+&emsp;&emsp;欢迎喜爱民乐并且有一定民乐基础的同学加入我们社团！同时也欢迎演奏其他类型乐器的同学积极报名，参与合奏～
+
+【创始人介绍】
+&ensp;-&ensp;胡天雪&ensp;Tess
+&emsp;&ensp;-&ensp;MS Music Technology
+&emsp;&ensp;-&ensp;前明尼苏达大学民乐社社长
+&emsp;&ensp;-&ensp;演奏古筝等多种弦乐器
+
+&ensp;-&ensp;陈曦&ensp;Chelsea
+&emsp;&ensp;-&ensp;CS 22
+&emsp;&ensp;-&ensp;乐器-扬琴（这是一种琴）
+&emsp;&ensp;-&ensp;前北京市五中金帆乐团扬琴首席声部长
+&emsp;&ensp;-&ensp;前北京市青年乐团扬琴首席、团长
+&emsp;&ensp;-&ensp;曾获得多次国家级独奏和团体比赛第一名
+&emsp;&ensp;-&ensp;欢迎对扬琴和民乐兴趣的小天使来找我玩儿！
+
+【创始人的话】
+&emsp;&emsp;大家好！我们是民乐团(Chinese Music Club)，目前乐团里有古筝，二胡，琵琶，扬琴等，欢迎喜爱民乐并且有一定民乐基础的同学加入我们社团！同时也欢迎演奏其他类型乐器的同学积极报名，参与合奏～
+&emsp;&emsp;没有民乐基础的纯萌新也不要紧张，假如你对某件乐器感兴趣，并且愿意为之努力练习，也有机会让同社大神带你飞！！
+&emsp;&emsp;古今中外，流行古典，各式各样你所喜爱的曲目我们都有信心加入民乐元素，编排成闪光的回忆。我们希望能够丰富同学们的课余生活，在GT校园宣传中国文化，认识更多志同道合的好友。
+</text>
+
+</view>

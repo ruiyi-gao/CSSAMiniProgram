@@ -1,2 +1,38 @@
-<!--pages/CSSA/JiShuBu/JiShuBu.wxml-->
-<text>这是技术部主页</text>
+<view class="bg_wrap">
+
+<text class="title">技术部【Technology】</text>
+<text class="basic" decode="{{true}}" style="margin-top: 50rpx;">
+【技术部职责】
+&ensp;-&ensp;CSSA小程序的编写
+&ensp;-&ensp;官网的搭建和运营&ensp;(coming soon)
+&ensp;-&ensp;给其他部门提供技术支持
+&ensp;-&ensp;写码！写码！写码！
+
+【技术部成员】
+&ensp;-&ensp;部长:&ensp;高瑞仪
+&ensp;-&ensp;部员:&ensp;陈盛康&ensp;龚克&ensp;刘璟曦&ensp;陆加宇&ensp;徐浩云
+&ensp;&ensp;&emsp;&emsp;&emsp;杨程凯&ensp;杨启帆&ensp;郑华&ensp;周栩乐&ensp;
+
+</text>
+
+<image src="../../../images/JiShuBu_member.png" style="width: 650rpx; height:455rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}">
+【部员采访】
+"李畅最好的朋友" 计算机专业 大二 会龄一年
+
+Q:&ensp;技术部要做些什么呢？
+A:&ensp;技术部是一个新成立的部门，主要是开发一些程序来更好的宣传CSSA, 也会给其他部门提供技术支持。我们现在的主项目是CSSA的小程序以及官网的开发，具体大家可以期待一下啦&ensp;(神秘.jpg)
+
+Q:&ensp;能很好balance学生会和学业嘛？
+A:&ensp;时间管理上并没有太大的问题。对于技术部的我们来说，时间安排会相对自由一些：开会的时候也会根据大家下段时间的学业轻重来安排任务；如果近期有考试的话，完全可以和其他部员商量，等稍微空闲下来再多分担一些。
+
+Q:&ensp;在CSSA最大的收获是什么呢？
+A:&ensp;我最宝贵的收获可能是遇到了很多志同道合的人吧，其中也包括我最好的朋友。如果我们没有加入CSSA，可能不会这么快就能了解对方，能够相识相知是CSSA给我们俩一份很好的礼物。
+
+Q:&ensp;在CSSA你印象最深刻的活动是？
+A:&ensp;应该是中秋晚会，因为是我加入CSSA后参与的第一个大型活动，真的是第一次看到那么多的月饼和零食，还有奶茶。节目也都很好看，虽然忙了一天下来很累，但真的特别开心，感觉像回家了一样。
+
+</text>
+
+</view>

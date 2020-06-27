@@ -1,1 +1,7 @@
-/* pages/CSSA/JiShuBu/JiShuBu.wxss */
+.basic{
+  margin-left: 50rpx;
+  margin-right: 50rpx;
+  margin-top: 10rpx;
+  margin-bottom: 10rpx;
+  display: flex;
+}
