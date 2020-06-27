@@ -1,0 +1,6 @@
+<button class="cu-btn bg-blue lg" style="height:{{height}}px; width:{{width}}px" bindtap="West">
+    <text style="font-size:37rpx;">West Campus\n\n西校区</text>
+</button>
+<button class="cu-btn bg-pink lg" style="height:{{height}}px; width:{{width}}px" bindtap="East">
+    <text style="font-size:37rpx;">East Campus\n\n东校区</text>
+</button>

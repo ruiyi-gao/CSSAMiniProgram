@@ -1,0 +1,6 @@
+<button class="cu-btn bg-pink lg" style="height:{{height}}px; width:{{width}}px" bindtap="XiaoNei">
+    <text style="font-size:37rpx;">校内</text>
+</button>
+<button class="cu-btn bg-blue lg" style="height:{{height}}px; width:{{width}}px" bindtap="XiaoWai">
+    <text style="font-size:37rpx;">校外</text>
+</button>

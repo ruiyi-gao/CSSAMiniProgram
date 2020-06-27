@@ -1,6 +1,7 @@
 {
   "pages": [
     "pages/homePage/homePage",
+
     "pages/CSSA_home/CSSA_home",
     "pages/CSSA/ZhuXiTuan/ZhuXiTuan",
     "pages/CSSA/JiShuBu/JiShuBu",
@@ -10,13 +11,28 @@
     "pages/CSSA/WaiLianBu/WaiLianBu",
     "pages/CSSA/CaiWuBu/CaiWuBu",
     "pages/CSSA/XuanChuanBu/XuanChuanBu",
+    "pages/CSSA/FuShuSheTuanHome/FuShuSheTuanHome",
+    "pages/CSSA/FuShuSheTuanHome/ZhuoYouShe/ZhuoYouShe",
+    "pages/CSSA/FuShuSheTuanHome/SheYingShe/SheYingShe",
+    "pages/CSSA/FuShuSheTuanHome/ShiWeiShe/ShiWeiShe",
+    "pages/CSSA/FuShuSheTuanHome/ShuHuaShe/ShuHuaShe",
+    "pages/CSSA/FuShuSheTuanHome/WuDaoShe/WuDaoShe",
+    "pages/CSSA/FuShuSheTuanHome/DianJingShe/DianJingShe",
+    "pages/CSSA/FuShuSheTuanHome/BiQiuShe/BiQiuShe",
+    "pages/CSSA/FuShuSheTuanHome/MinYueShe/MinYueShe",
+
     "pages/freshman_manual_home/freshman_manual_home",
     "pages/freshman_manual/XiaoYuanZhouBian/XiaoYuanZhouBian",
-    "pages/freshman_manual/ZhuSu/ZhuSu",
-    "pages/freshman_manual/BaoXian/BaoXian",
+    "pages/freshman_manual/ZhuSu/homepage/homepage",
+    "pages/freshman_manual/ZhuSu/XiaoNei/XiaoNeiHome/XiaoNeiHome",
+    "pages/freshman_manual/ZhuSu/XiaoNei/West/West",
+    "pages/freshman_manual/ZhuSu/XiaoNei/East/East",
+    "pages/freshman_manual/ZhuSu/XiaoWai/XiaoWai",
+    "pages/freshman_manual/ZhiYeGuiHua/ZhiYeGuiHua",
     "pages/freshman_manual/XuanKe/XuanKe",
     "pages/freshman_manual/JieJi/JieJi",
     "pages/freshman_manual/YinHang/YinHang",
+
     "pages/logs/logs"
   ],
   "window": {

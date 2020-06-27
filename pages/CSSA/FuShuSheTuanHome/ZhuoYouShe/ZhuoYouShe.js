@@ -1,4 +1,4 @@
-// pages/freshman_manual/ZhuSu/ZhuSu.js
+// pages/CSSA/FuShuSheTuanHome/ZhuoYouShe/ZhuoYouShe.js
 Page({
 
   /**

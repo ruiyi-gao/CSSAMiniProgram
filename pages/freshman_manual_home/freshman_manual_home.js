@@ -39,10 +39,10 @@ Page({
       bindtap: 'ZhuSu'
     }, {
       id: 2,
-      icon: '../../images/BaoXian.png',
+      icon: '../../images/ZhiYeBu.png',
       color: 'white',
-      name: '保险',
-      bindtap: 'BaoXian'
+      name: '职业规划',
+      bindtap: 'ZhiYeGuiHua'
     }, {
       id: 3,
       icon: '../../images/XuanKe.png',
@@ -72,13 +72,13 @@ Page({
 
   ZhuSu: function () {
     wx.navigateTo({
-      url: '../freshman_manual/ZhuSu/ZhuSu'
+      url: '../freshman_manual/ZhuSu/homepage/homepage'
     })
   },
 
-  BaoXian: function () {
+  ZhiYeGuiHua: function () {
     wx.navigateTo({
-      url: '../freshman_manual/BaoXian/BaoXian'
+      url: '../freshman_manual/ZhiYeGuiHua/ZhiYeGuiHua'
     })
   },
 

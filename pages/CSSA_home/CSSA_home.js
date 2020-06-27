@@ -73,6 +73,12 @@ Page({
         color: 'white',
         name: '财务部',
         bindtap: 'CaiWuBu'
+      }, {
+        id: 8,
+        icon: '../../images/FuShuSheTuan.png',
+        color: 'white',
+        name: '附属社团',
+        bindtap: 'FuShuSheTuan'
       }],
   },
 
@@ -121,6 +127,12 @@ Page({
   XuanChuanBu: function () {
     wx.navigateTo({
       url: '../CSSA/XuanChuanBu/XuanChuanBu'
+    })
+  },
+
+  FuShuSheTuan: function () {
+    wx.navigateTo({
+      url: '../CSSA/FuShuSheTuanHome/FuShuSheTuanHome',
     })
   },
 

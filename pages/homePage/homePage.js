@@ -91,7 +91,7 @@ Page({
 
   ZhuSu: function () {
     wx.navigateTo({
-      url: '../freshman_manual/ZhuSu/ZhuSu'
+      url: '../freshman_manual/ZhuSu/homepage/homepage'
     })
   },
 

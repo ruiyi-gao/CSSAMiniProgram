@@ -1,4 +1,4 @@
-// pages/freshman_manual/BaoXian/BaoXian.js
+// pages/freshman_manual/ZhiYeGuiHua/ZhiYeGuiHua.js
 Page({
 
   /**

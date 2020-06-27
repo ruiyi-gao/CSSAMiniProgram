@@ -1,0 +1,19 @@
+<view class="bg_wrap">
+
+<text class="title">本科新生宿舍之西校区</text>
+<text class="basic" decode="{{true}}">
+校内宿舍/公寓的申请都统一在学校官网上进行，更多详细的信息内容也可以参考housing官网：https://housing.gatech.edu/
+\n
+注意要点：
+1.Freshman experience的很多楼都是两栋相连的，互相拥有进入权限。为避免赘述，下文将一并介绍。
+2.on campus 住宿的宿舍价格都不会相差很多，但llc会额外多收费用以用来组织活动
+3.每栋楼的具体位置如图所示
+</text>
+
+<view style="padding-left: 60rpx;">
+  <image src="../../../../../images/West_Campus_Map.PNG" style="width: 500rpx, height: 500rpx,"></image>
+</view>
+
+
+
+</view>
