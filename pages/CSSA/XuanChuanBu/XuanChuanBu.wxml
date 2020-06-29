@@ -1,2 +1,39 @@
 <!--pages/CSSA/XuanChuanBu/XuanChuanBu.wxml-->
-<text>这是宣传部主页</text>
+<view class="bg_wrap">
+
+<text class="title">宣传部【Publicity】</text>
+<text class="basic" decode="{{true}}" style="margin-top: 50rpx;">
+【宣传部职责】
+&ensp;-&ensp;管理CSSA社交媒体平台
+&ensp;-&ensp;负责对外宣传推广，对外发布讯息
+&ensp;-&ensp;文化建设
+
+【宣传部成员】
+&ensp;-&ensp;部长:&ensp;高瑞仪
+&ensp;-&ensp;部员:&ensp;陈盛康&ensp;龚克&ensp;刘璟曦&ensp;陆加宇&ensp;徐浩云
+&ensp;&ensp;&emsp;&emsp;&emsp;杨程凯&ensp;杨启帆&ensp;郑华&ensp;周栩乐&ensp;
+<!-- TODO: 此处需要更新 -->
+
+</text>
+
+<image src="../../../images/JiShuBu_member.png" style="width: 650rpx; height:455rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<!-- TODO: 此处需要更新 -->
+
+<text class="basic" decode="{{true}}">
+【部员采访】
+李畅的第二个朋友 计算机媒体专业 大二 会龄：半年多
+
+Q:&ensp;简单介绍一下宣传部的职责吧！
+A:&ensp;（部长和我的同事都是超可爱的妹子！）首先一切跟画图、做图有关的工作都被我们承包了，当然也不止于此，每次有大型活动的时候，我们都会在ins、facebook、公众号上进行宣（吆）传（喝），用吸睛的设计和有趣的文字拓宽我们的知名度和影响力。
+
+Q:&ensp;能很好balance学生会和学业嘛？
+A:&ensp;还蛮balanced的，宣传部的活动周期性很强，没活动的时候很轻松，有活动了就忙起来了。大部分时候都可以按时按质完成工作，偶尔课业太忙，部里依然贼靠谱贼有效率的大神存在，大家都能互相分担互相鼓励，十分温暖～
+
+Q:&ensp;在CSSA最大的收获是什么呢？
+A:&ensp;收获了许许多多亲密可爱善良的朋友，体会到了作为组织者的责任，以及能够实际应用学到的设计知识的机会（海报、周边什么的）宝贵程度难分上下~
+
+Q:&ensp;在CSSA你印象最深刻的活动是？
+A:&ensp;是内联部举办的lakehouse吧，虽然大家都在吐槽lakehouse为何无lake，但是有烧烤和桌游！烧烤从购买食材、腌制、串食材、烧烤，都是大家分工合作完成的，在大大的别墅里热火朝天地聊天撸串桌游真的太开心了~
+</text>
+
+</view>
