@@ -27,7 +27,7 @@ Page({
     cardCur: 0,
     departmentList: [{
         id: 0,
-        icon: '../../../images/MinYue.png',
+        icon: '../../../images/MinYue.jpg',
         color: 'white',
         name: '民乐社',
         bindtap: 'MinYueShe'
