@@ -1,2 +1,39 @@
 <!--pages/CSSA/CaiWuBu/CaiWuBu.wxml-->
-<text>这是财务部主页</text>
+<view class="bg_wrap">
+
+<text class="title">财务部【Treasury】</text>
+<text class="basic" decode="{{true}}" style="margin-top: 50rpx;">
+【财务部职责】
+&ensp;-&ensp;财务预算及决策
+&ensp;-&ensp;活动前预算审批、活动后归账
+&ensp;-&ensp;组织团建以及请客吃饭
+
+【财务部成员】
+&ensp;-&ensp;部长:&ensp;高瑞仪
+&ensp;-&ensp;部员:&ensp;陈盛康&ensp;龚克&ensp;刘璟曦&ensp;陆加宇&ensp;徐浩云
+&ensp;&ensp;&emsp;&emsp;&emsp;杨程凯&ensp;杨启帆&ensp;郑华&ensp;周栩乐&ensp;
+<!-- TODO: 此处需要更新 -->
+
+</text>
+
+<image src="../../../images/JiShuBu_member.png" style="width: 650rpx; height:455rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<!-- TODO: 此处需要更新 -->
+
+<text class="basic" decode="{{true}}">
+【部员采访】
+财神爷 计算机专业 大三 会龄：两年半
+
+Q:&ensp;简单介绍一下财务部的职责吧！
+A:&ensp;财务部就是管钱收钱发钱要钱。首先管理和记录学生会的内部资金流动，其次给学生会的活动制定预算，大型活动会向学校或者领事馆获取经费，维持收支平衡。
+
+Q:&ensp;能很好balance学生会和学业嘛？
+A:&ensp;可以的。因为财务部事务不是很繁忙，相对其他部门工作量比较小，基本只有在大型活动的时候要去申请经费，别的时间都还好。
+
+Q:&ensp;在CSSA最大的收获是什么呢？
+A:&ensp;认识到很多志同道合的朋友。
+
+Q:&ensp;在CSSA你印象最深刻的活动是？
+A:&ensp;中秋晚会吧，灯光效果和节目配合得很好。虽然跟学校要到了场地经费，整体还是花了不少钱。
+</text>
+
+</view>

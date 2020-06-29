@@ -1,2 +1,39 @@
 <!--pages/CSSA/ZhiYeBu/ZhiYeBu.wxml-->
-<text>这是职业部主页</text>
+<view class="bg_wrap">
+
+<text class="title">职业部【Professional Development】</text>
+<text class="basic" decode="{{true}}" style="margin-top: 50rpx;">
+【职业部职责】
+&ensp;-&ensp;帮助GT学生找工作、了解research、建立connection
+&ensp;-&ensp;与政府及企业平台对接
+&ensp;-&ensp;组织职业讲座，提供职业规划
+
+【职业部成员】
+&ensp;-&ensp;部长:&ensp;高瑞仪
+&ensp;-&ensp;部员:&ensp;陈盛康&ensp;龚克&ensp;刘璟曦&ensp;陆加宇&ensp;徐浩云
+&ensp;&ensp;&emsp;&emsp;&emsp;杨程凯&ensp;杨启帆&ensp;郑华&ensp;周栩乐&ensp;
+<!-- TODO: 此处需要更新 -->
+
+</text>
+
+<image src="../../../images/JiShuBu_member.png" style="width: 650rpx; height:455rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<!-- TODO: 此处需要更新 -->
+
+<text class="basic" decode="{{true}}">
+【部员采访】
+张心怡 土木和计算机工程双专业 研二 会龄：三年半
+
+Q:&ensp;简单介绍一下职业部？
+A:&ensp;会有一些国内985的高校、 顶级互联网公司来学校招聘，我们就要负责宣传和场务事宜，同时还要额外接单子，想办法帮助中国学生。会请职业部有经验的同学，或者认识的好朋友来做讲座辅导/workshop。
+
+Q:&ensp;能很好balance学生会和学业嘛？
+A:&ensp;可以呀，不是每周固定的，有活就做。如果活很多的时候，学习稍微放松一点。有project due的话，可以跟同部门的部员商量调换。
+
+Q:&ensp;在CSSA最大的收获是什么呢？
+A:&ensp;是交流能力的成长吧。我以前不太善于交流，不太能hold住大场面。一开始加CSSA是为了多交点朋友，后来有好的机会当上部长和主席。任职期间有很多机会交流，也增加自信心。在学生会也交到了很好的朋友，不仅有学习上的交流，也会平时一起出来玩。
+
+Q:&ensp;在CSSA你印象最深刻的活动是？
+A:&ensp;跟大公司联系举办招聘会。作为负责人可以直接得到HR的联系方式，能给HR有直接的好印象，有机会得到更多工作机会。我以前是土木专业的，互联网公司大都不太匹配。现在double了计算机相关专业，第二次遇到那些HR的时候就能直接获得内推机会。
+</text>
+
+</view>

@@ -1,2 +1,37 @@
 <!--pages/CSSA/QiHuaBu/QiHuaBu.wxml-->
-<text>这是企划部主页</text>
+<view class="bg_wrap">
+
+<text class="title">企划部【Activities】</text>
+<text class="basic" decode="{{true}}" style="margin-top: 50rpx;">
+【企划部职责】
+&ensp;-&ensp;负责举办大大小小的文娱活动
+
+【企划部成员】
+&ensp;-&ensp;部长:&ensp;高瑞仪
+&ensp;-&ensp;部员:&ensp;陈盛康&ensp;龚克&ensp;刘璟曦&ensp;陆加宇&ensp;徐浩云
+&ensp;&ensp;&emsp;&emsp;&emsp;杨程凯&ensp;杨启帆&ensp;郑华&ensp;周栩乐&ensp;
+<!-- TODO: 此处需要更新 -->
+
+</text>
+
+<image src="../../../images/JiShuBu_member.png" style="width: 650rpx; height:455rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<!-- TODO: 此处需要更新 -->
+
+<text class="basic" decode="{{true}}">
+【部员采访】
+程双越 土木专业 大二 会龄：一年半
+
+Q:&ensp;简单介绍一下企划部？
+A:&ensp;企划部的话，主要是负责举办大大小小的文娱活动，比如新生游园会、中秋晚会、美食节、运动会、prom舞会等等，概括一下就是摇人来玩儿咯。
+
+Q:&ensp;企划部的time commitment怎么样呀？
+A:&ensp;可以呀，不是每周固定的，有活就做。如果活很多的时候，学习稍微放松一点。有project due的话，可以跟同部门的部员商量调换。
+
+Q:&ensp;在CSSA最大的收获是什么呢？
+A:&ensp;我上大学结交的最要好的朋友们就是在cssa认识的，他们是最宝贵的收获。因为都是喜欢做事情的人，才聚到了一起。即使学业繁忙，我也愿意抽出一些时间来参与，算是一种放松吧。
+
+Q:&ensp;在CSSA你印象最深刻的活动是？
+A:&ensp;对我影响最深刻的就是去年办的舞会了。我们拍了一部分先导片和宣传照。感觉来GT读书以后就没有机会沉下心来做一次摄影，那一次真正用脑子去想了，拍了喜欢的镜头，给我一种又活过来的感觉。最宝贵的是为cssa创造价值的同时，其实cssa也给大家实现自我价值的机会，玩的开心，活也干的好，妙啊。
+</text>
+
+</view>

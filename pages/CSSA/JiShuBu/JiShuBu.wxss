@@ -5,3 +5,8 @@
   margin-bottom: 10rpx;
   display: flex;
 }
+
+.bg_wrap {
+  width:100%;
+  overflow-x:hidden;
+}

@@ -1,2 +1,39 @@
 <!--pages/CSSA/NeiLianBu/NeiLianBu.wxml-->
-<text>这是内联部主页</text>
+<view class="bg_wrap">
+
+<text class="title">内联部【Internal Relations】</text>
+<text class="basic" decode="{{true}}" style="margin-top: 50rpx;">
+【内联部职责】
+&ensp;-&ensp;组织内部文娱活动、内部培训
+&ensp;-&ensp;负责人事管理、奖学金评定等工作
+&ensp;-&ensp;草拟及管理CSSA官方文件
+
+【内联部成员】
+&ensp;-&ensp;部长:&ensp;高瑞仪
+&ensp;-&ensp;部员:&ensp;陈盛康&ensp;龚克&ensp;刘璟曦&ensp;陆加宇&ensp;徐浩云
+&ensp;&ensp;&emsp;&emsp;&emsp;杨程凯&ensp;杨启帆&ensp;郑华&ensp;周栩乐&ensp;
+<!-- TODO: 此处需要更新 -->
+
+</text>
+
+<image src="../../../images/JiShuBu_member.png" style="width: 650rpx; height:455rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<!-- TODO: 此处需要更新 -->
+
+<text class="basic" decode="{{true}}">
+【部员采访】
+被部长说成满嘴骚话所以不愿意透露姓名的教练 工业工程专业 大二 会龄：一年半
+
+Q:&ensp;简单介绍一下内联的职责吧！
+A:&ensp;顾名思义，就是统筹cssa内部的事物和成员。职责包括安排每个月的大会，组织内部团建（如一年一度的lake house party， 撕名牌）还有档案记录和招新之类的。对于这些职责，我都完成地非常完美，没有一点瑕疵。
+
+Q:&ensp;能很好balance学生会和学业嘛？
+A:&ensp;为啥不呢，我能！因为布置的任务都会给充足的时间来完成（有时候忙起来也可以把任务甩给不那么忙的人，嘻嘻）。其实学生会还是更像一个课外活动一样，丰富我们课余时间生活哒~
+
+Q:&ensp;在CSSA最大的收获是什么呢？
+A:&ensp;提高了组织能力和领导能力，认识很多好人。同时还感觉找到了一个可以依赖的组织，从中也获得了很多意想不到的机会。比如之前在活动部（现企划部）筹办中秋晚会时，遇到一系列意想不到的问题，在部长的帮助下都能迎刃而解。
+
+Q:&ensp;在CSSA你印象最深刻的活动是？
+A:&ensp;我本来想说lake house party的但是都怪宣传部的同学把我想说的抢走了，那就说说中秋晚会吧。那次的美心月饼让我印象很深刻，我们一个个选拔出的节目也很好看，让在gt过的中秋节产生了一种团聚的味道。我们部员和部员之间的关系在那之后变得更紧密了，毕竟同时完成了一个那么大的项目。
+</text>
+
+</view>

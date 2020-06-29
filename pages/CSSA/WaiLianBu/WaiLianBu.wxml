@@ -1,2 +1,39 @@
 <!--pages/CSSA/WaiLianBu/WaiLianBu.wxml-->
-<text>这是外联部主页</text>
+<view class="bg_wrap">
+
+<text class="title">外联部【External Relations】</text>
+<text class="basic" decode="{{true}}" style="margin-top: 50rpx;">
+【外联部职责】
+&ensp;-&ensp;负责与企业，政府部门，NGO组织，兄弟学联等组织单位建立良好联系
+&ensp;-&ensp;负责与赞助商沟通，筹集赞助资金
+
+【外联部成员】
+&ensp;-&ensp;部长:&ensp;高瑞仪
+&ensp;-&ensp;部员:&ensp;陈盛康&ensp;龚克&ensp;刘璟曦&ensp;陆加宇&ensp;徐浩云
+&ensp;&ensp;&emsp;&emsp;&emsp;杨程凯&ensp;杨启帆&ensp;郑华&ensp;周栩乐&ensp;
+<!-- TODO: 此处需要更新 -->
+
+</text>
+
+<image src="../../../images/JiShuBu_member.png" style="width: 650rpx; height:455rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<!-- TODO: 此处需要更新 -->
+
+<text class="basic" decode="{{true}}">
+【部员采访】
+李畅的朋友 计算机专业 大一 会龄：半年多
+
+Q:&ensp;简单介绍一下外联的职责吧！
+A:&ensp;是为cssa赚钱出门工作的打工仔。经常要跟赞助商聊天，用实际工作让cssa被外界认可。
+
+Q:&ensp;能很好balance学生会和学业嘛？
+A:&ensp;我能啊，我强。作为大一的freshman， 无事可做。cssa的工作没有特别多。‘easy~’
+
+Q:&ensp;在CSSA最大的收获是什么呢？
+A:&ensp;朋友吧。当然在外联的工作也很快乐。很享受和朋友出去一起团建，lake house 玩得很开心。
+
+Q:&ensp;在CSSA你印象最深刻的活动是？
+A:&ensp;中秋晚会，我和我的团队一起进行合作，在短时间内完成了很多工作，给观众们带来了很好的用户体验。
+
+</text>
+
+</view>
