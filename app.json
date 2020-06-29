@@ -33,6 +33,8 @@
     "pages/freshman_manual/JieJi/JieJi",
     "pages/freshman_manual/YinHang/YinHang",
 
+    "pages/me/me",
+
     "pages/logs/logs"
   ],
   "window": {
@@ -69,7 +71,7 @@
       },
       {
         "text": "我的",
-        "pagePath": "pages/homePage/homePage",
+        "pagePath": "pages/me/me",
         "iconPath": "images/me.png",
         "selectedIconPath": "images/me.png"
       }
