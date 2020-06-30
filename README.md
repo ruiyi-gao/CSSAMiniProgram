@@ -12,11 +12,40 @@
   - WaiLianBu：外联部主页面
   - CaiWuBu：财务部主页面
   - XuanChuanBu：宣传部主页面
+  - FuShuSheTuanHome：附属社团主页面
+    - MinYueShe: 民乐社主页面
+    - BiQiuShe：壁球社主页面
+    - DianJingShe：电竞社主页面
+    - WuDaoShe：舞千舞蹈社主页面
+    - ShuHuaShe：书画社主页面
+    - ShiWeiShe：食味社主页面
+    - SheYingShe：摄影社主页面
+    - ZhuoYouShe：桌游社主页面
 - freshman_manual_home: 新生手册主页面
 - freshman_manual：储存所有新生手册page的文件夹
   - XiaoYuanZhouBian：校园周边主页面
+    - XiaoYuanZhouBian：校园周边选择页（吃喝/玩乐）
+    - ChiHe：储存所有吃喝page的文件夹
+      - ChiHeHome：吃喝选择页（正餐/甜品）
+      - ZhengCan：储存所有正餐page的文件夹
+        - ZhengCan：正餐选择页（Barcelona/Wagaya/Jia）
+        - Barcelona/Wagaya/Jia：餐馆介绍页面
+      - TianPin：甜品介绍页面
+    - WanLe：储存所有玩乐page的文件夹
+      - WanLeHome：玩乐选择页（博物馆/购物/景点/射击场/游乐场）
+      - BoWuGuan/GouWu/JingDian/SheJiChang/YouLeChang：场所介绍页面
   - ZhuSu：住宿主页面
-  - BaoXian：保险主页面
+    - homepage：住宿选择页（校内/校外）
+    - XiaoNei：储存所有校内page的文件夹
+      - XiaoNeiHome：校内选择页（West/East）
+      - West/East：东/西校区介绍页
+    - XiaoWai：校外住宿介绍页
+  - ZhiYeGuiHua：职业规划主页面
+    - ZhiYeGuiHua：职业规划选择页（校内实习/校外实习/SSN_CPT）
+    - XiaoNeiShiXi/SSN_CPT：校内实习/SSN介绍页面
+    - XiaoWaiShiXi：储存所有校外实习page的文件夹
+      - XiaoWaiHome：校外实习选择页（招聘/人脉/C2D2）
+      - ZhaoPin/RenMai/C2D2：相关内容介绍页
   - XuanKe：选课主页面
   - JieJi：接机主页面
   - YinHang：银行主页面
