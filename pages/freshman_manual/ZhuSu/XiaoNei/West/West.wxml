@@ -11,7 +11,7 @@
 </text>
 
 <view style="padding-left: 60rpx;">
-  <image src="../../../../../../images/West_Campus_Map.PNG" style="width: 500rpx, height: 500rpx,"></image>
+  <image src="../../../../../images/West_Campus_Map.PNG" style="width: 500rpx, height: 500rpx,"></image>
 </view>
 
 

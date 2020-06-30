@@ -10,7 +10,7 @@ Page({
 
   XiaoNei: function () {
     wx.navigateTo({
-      url: 'XiaoNei/XiaoNeiHome/XiaoNeiHome'
+      url: 'XiaoNei/XiaoNeiHome'
     })
   },
 
