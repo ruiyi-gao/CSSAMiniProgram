@@ -1,3 +1,5 @@
 {
-  "navigationBarTitleText": "新生手册-校园周边"
+  "navigationBarTitleText": "新生手册-校园周边",
+  "disableScroll": true,
+  "enablePullDownRefresh": false
 }

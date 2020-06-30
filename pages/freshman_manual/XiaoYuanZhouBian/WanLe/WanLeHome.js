@@ -1,4 +1,4 @@
-// pages/freshman_manual/XiaoYuanZhouBian/XiaoYuanZhouBian.js
+// pages/freshman_manual/XiaoYuanZhouBian/WanLe/WanLeHome.js
 Page({
 
   /**
@@ -8,15 +8,33 @@ Page({
     width: 200, height: 500,
   },
 
-  ChiHe: function () {
+  BoWuGuan: function () {
     wx.navigateTo({
-      url: 'ChiHe/ChiHeHome'
+      url: 'BoWuGuan/BoWuGuan'
     })
   },
 
-  WanLe: function () {
+  JingDian: function () {
     wx.navigateTo({
-      url: 'WanLe/WanLeHome'
+      url: 'JingDian/JingDian'
+    })
+  },
+  
+  YouLeChang: function () {
+    wx.navigateTo({
+      url: 'YouLeChang/YouLeChang'
+    })
+  },
+
+  SheJiChang: function () {
+    wx.navigateTo({
+      url: 'SheJiChang/SheJiChang'
+    })
+  },
+
+  GouWu: function () {
+    wx.navigateTo({
+      url: 'GouWu/GouWu'
     })
   },
 
@@ -31,7 +49,7 @@ Page({
               // 计算主体部分高度,单位为px
               that.setData({
                 width: res.windowWidth,
-                height: res.windowHeight / 2,
+                height: res.windowHeight / 5,
               })
             },
           }) 
@@ -41,7 +59,7 @@ Page({
    * Lifecycle function--Called when page is initially rendered
    */
   onReady: function () {
-
+    
   },
 
   /**

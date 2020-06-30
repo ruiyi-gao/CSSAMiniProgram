@@ -10,13 +10,13 @@ Page({
 
   XiaoNei: function () {
     wx.navigateTo({
-      url: '../XiaoNei/XiaoNeiHome/XiaoNeiHome'
+      url: 'XiaoNei/XiaoNeiHome/XiaoNeiHome'
     })
   },
 
   XiaoWai: function () {
     wx.navigateTo({
-      url: '../XiaoWai/XiaoWai'
+      url: 'XiaoWai/XiaoWai'
     })
   },
 

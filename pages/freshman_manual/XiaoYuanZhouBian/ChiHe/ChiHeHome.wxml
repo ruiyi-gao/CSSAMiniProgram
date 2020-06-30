@@ -1,0 +1,6 @@
+<button class="cu-btn bg-blue lg" style="height:{{height}}px; width:{{width}}px" bindtap="ZhengCan">
+    <text style="font-size:37rpx;">正餐</text>
+</button>
+<button class="cu-btn bg-pink lg" style="height:{{height}}px; width:{{width}}px" bindtap="TianPin">
+    <text style="font-size:37rpx;">甜品</text>
+</button>

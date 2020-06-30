@@ -1,4 +1,4 @@
-// pages/freshman_manual/XiaoYuanZhouBian/XiaoYuanZhouBian.js
+// pages/freshman_manual/XiaoYuanZhouBian/ChiHe/ZhengCan/ZhengCan.js
 Page({
 
   /**
@@ -8,17 +8,24 @@ Page({
     width: 200, height: 500,
   },
 
-  ChiHe: function () {
+  Barcelona: function () {
     wx.navigateTo({
-      url: 'ChiHe/ChiHeHome'
+      url: 'Barcelona/Barcelona'
     })
   },
 
-  WanLe: function () {
+  Wagaya: function () {
     wx.navigateTo({
-      url: 'WanLe/WanLeHome'
+      url: 'Wagaya/Wagaya'
     })
   },
+
+  Jia: function () {
+    wx.navigateTo({
+      url: 'Jia/Jia'
+    })
+  },
+
 
   /**
    * Lifecycle function--Called when page load
@@ -31,7 +38,7 @@ Page({
               // 计算主体部分高度,单位为px
               that.setData({
                 width: res.windowWidth,
-                height: res.windowHeight / 2,
+                height: res.windowHeight / 3,
               })
             },
           }) 

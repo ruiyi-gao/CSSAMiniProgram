@@ -1,40 +1,18 @@
-// pages/freshman_manual/XiaoYuanZhouBian/XiaoYuanZhouBian.js
+// pages/freshman_manual/XiaoYuanZhouBian/WanLe/SheJiChang/SheJiChang.js
 Page({
 
   /**
    * Page initial data
    */
   data: {
-    width: 200, height: 500,
-  },
 
-  ChiHe: function () {
-    wx.navigateTo({
-      url: 'ChiHe/ChiHeHome'
-    })
-  },
-
-  WanLe: function () {
-    wx.navigateTo({
-      url: 'WanLe/WanLeHome'
-    })
   },
 
   /**
    * Lifecycle function--Called when page load
    */
   onLoad: function (options) {
-    var that = this;
-    wx.getSystemInfo({
-            success: function (res) {
-              console.log(res);
-              // 计算主体部分高度,单位为px
-              that.setData({
-                width: res.windowWidth,
-                height: res.windowHeight / 2,
-              })
-            },
-          }) 
+
   },
 
   /**

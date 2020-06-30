@@ -1,0 +1,15 @@
+<button class="cu-btn bg-blue lg" style="height:{{height}}px; width:{{width}}px" bindtap="BoWuGuan">
+    <text style="font-size:37rpx;">博物馆</text>
+</button>
+<button class="cu-btn bg-pink lg" style="height:{{height}}px; width:{{width}}px" bindtap="JingDian">
+    <text style="font-size:37rpx;">景点游玩</text>
+</button>
+<button class="cu-btn bg-blue lg" style="height:{{height}}px; width:{{width}}px" bindtap="YouLeChang">
+    <text style="font-size:37rpx;">游乐场</text>
+</button>
+<button class="cu-btn bg-pink lg" style="height:{{height}}px; width:{{width}}px" bindtap="SheJiChang">
+    <text style="font-size:37rpx;">射击场/真人CS</text>
+</button>
+<button class="cu-btn bg-blue lg" style="height:{{height}}px; width:{{width}}px" bindtap="GouWu">
+    <text style="font-size:37rpx;">购物休闲</text>
+</button>

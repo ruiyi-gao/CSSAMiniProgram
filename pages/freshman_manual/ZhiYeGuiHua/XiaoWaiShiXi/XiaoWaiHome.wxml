@@ -1,0 +1,9 @@
+<button class="cu-btn bg-blue lg" style="height:{{height}}px; width:{{width}}px" bindtap="ZhaoPin">
+    <text style="font-size:37rpx;">招聘</text>
+</button>
+<button class="cu-btn bg-pink lg" style="height:{{height}}px; width:{{width}}px" bindtap="RenMai">
+    <text style="font-size:37rpx;">人脉</text>
+</button>
+<button class="cu-btn bg-blue lg" style="height:{{height}}px; width:{{width}}px" bindtap="C2D2">
+    <text style="font-size:37rpx;">C2D2</text>
+</button>

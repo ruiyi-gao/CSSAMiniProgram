@@ -1,0 +1,9 @@
+<button class="cu-btn bg-pink lg" style="height:{{height}}px; width:{{width}}px" bindtap="Barcelona">
+    <text style="font-size:37rpx;">Barcelona Wine Bar</text>
+</button>
+<button class="cu-btn bg-blue lg" style="height:{{height}}px; width:{{width}}px" bindtap="Wagaya">
+    <text style="font-size:37rpx;">Wagaya</text>
+</button>
+<button class="cu-btn bg-pink lg" style="height:{{height}}px; width:{{width}}px" bindtap="Jia">
+    <text style="font-size:37rpx;">Jia</text>
+</button>

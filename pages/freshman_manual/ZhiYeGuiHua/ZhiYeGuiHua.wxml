@@ -1,2 +1,9 @@
-<!--pages/freshman_manual/ZhiYeGuiHua/ZhiYeGuiHua.wxml-->
-<text>pages/freshman_manual/ZhiYeGuiHua/ZhiYeGuiHua.wxml</text>
+<button class="cu-btn bg-pink lg" style="height:{{height}}px; width:{{width}}px" bindtap="XiaoWaiShiXi">
+    <text style="font-size:37rpx;">校外实习</text>
+</button>
+<button class="cu-btn bg-blue lg" style="height:{{height}}px; width:{{width}}px" bindtap="XiaoNeiShiXi">
+    <text style="font-size:37rpx;">校内实习</text>
+</button>
+<button class="cu-btn bg-pink lg" style="height:{{height}}px; width:{{width}}px" bindtap="SSN_CPT">
+    <text style="font-size:37rpx;" decode="{{true}}">SSN&ensp;&&ensp;CTP</text>
+</button>

@@ -5,14 +5,42 @@ Page({
    * Page initial data
    */
   data: {
+    width: 0, height: 0,
+  },
 
+  XiaoNeiShiXi: function () {
+    wx.navigateTo({
+      url: 'XiaoNeiShiXi/XiaoNeiShiXi'
+    })
+  },
+
+  XiaoWaiShiXi: function () {
+    wx.navigateTo({
+      url: 'XiaoWaiShiXi/XiaoWaiHome'
+    })
+  },
+
+  SSN_CPT: function () {
+    wx.navigateTo({
+      url: 'SSN_CPT/SSN_CPT'
+    })
   },
 
   /**
    * Lifecycle function--Called when page load
    */
   onLoad: function (options) {
-
+    var that = this;
+    wx.getSystemInfo({
+            success: function (res) {
+              console.log(res);
+              // 计算主体部分高度,单位为px
+              that.setData({
+                width: res.windowWidth,
+                height: res.windowHeight / 3,
+              })
+            },
+          }) 
   },
 
   /**

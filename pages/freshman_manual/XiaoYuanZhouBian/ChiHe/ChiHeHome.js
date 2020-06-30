@@ -1,4 +1,4 @@
-// pages/freshman_manual/XiaoYuanZhouBian/XiaoYuanZhouBian.js
+// pages/freshman_manual/XiaoYuanZhouBian/ChiHeHome/ChiHeHome.js
 Page({
 
   /**
@@ -8,15 +8,15 @@ Page({
     width: 200, height: 500,
   },
 
-  ChiHe: function () {
+  ZhengCan: function () {
     wx.navigateTo({
-      url: 'ChiHe/ChiHeHome'
+      url: "ZhengCan/ZhengCan"
     })
   },
 
-  WanLe: function () {
+  TianPin: function () {
     wx.navigateTo({
-      url: 'WanLe/WanLeHome'
+      url: 'TianPin/TianPin'
     })
   },
 
