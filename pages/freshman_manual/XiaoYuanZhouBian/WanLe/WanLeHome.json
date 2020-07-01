@@ -1,3 +1,5 @@
 {
-  "usingComponents": {}
+  "navigationBarTitleText": "新生手册-玩乐",
+  "disableScroll": true,
+  "enablePullDownRefresh": false
 }

@@ -1,3 +1,5 @@
 {
-  "navigationBarTitleText": "新生手册-住宿"
+  "navigationBarTitleText": "新生手册-住宿",
+  "disableScroll": true,
+  "enablePullDownRefresh": false
 }

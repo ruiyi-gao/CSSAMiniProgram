@@ -1,3 +1,5 @@
 {
-  "usingComponents": {}
+  "navigationBarTitleText": "新生手册-校内住宿",
+  "disableScroll": true,
+  "enablePullDownRefresh": false
 }
