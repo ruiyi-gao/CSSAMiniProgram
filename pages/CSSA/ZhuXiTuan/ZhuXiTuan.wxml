@@ -1,2 +1,45 @@
 <!--pages/CSSA/ZhuXiTuan/ZhuXiTuan.wxml-->
-<text>这是主席团主页</text>
+<view class="bg_wrap">
+
+<text class="title">GTCSSA</text>
+<text class="basic" decode="{{true}}" style="margin-top: 50rpx;">
+【关于GTCSSA】
+&emsp;&emsp;佐治亚理工中国学生学者联谊会（Chinese Students and Scholars Association）是佐治亚理工学院最大的华人学生学者团体，同时也是唯一获得中国领馆官方认可并直接支持的学生会性质团体。
+
+</text>
+
+<image src="../../../images/JiShuBu_member.png" style="width: 650rpx; height:455rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}">
+【2020届主席团成员】
+&ensp;-&ensp;主席:&ensp;杨丽莎
+&ensp;-&ensp;副主席:&ensp;阮俊哲
+&ensp;-&ensp;企划部部长:&ensp;宋康平
+&ensp;-&ensp;企划部副部长:&ensp;康涵中
+&ensp;-&ensp;内联部部长:&ensp;生昊天
+&ensp;-&ensp;内联部副部长:&ensp;贺佳筠
+&ensp;-&ensp;职业部部长:&ensp;王易阳
+&ensp;-&ensp;职业部副部长:&ensp;冯沐灏
+&ensp;-&ensp;外联部部长:&ensp;李畅
+&ensp;-&ensp;宣传部部长:&ensp;陈曦
+&ensp;-&ensp;财务部部长:&ensp;余臻子
+&ensp;-&ensp;技术部部长:&ensp;高瑞仪
+
+
+【圆桌成员采访】
+陆沛霖 材料工程  大四  会龄：两年半
+
+Q:&ensp;当学生会主席需要做些什么呢？
+A:&ensp;要负责很多事情呀。像与领事馆对接相关事宜，与其他各大高校学生会接洽，统筹内部事务，为学联发展规划方向，，代表学联与学校部门合作比如OIE等等等等。
+
+Q:&ensp;能很好balance学生会和学业嘛？
+A:&ensp;还好吧。这个commitment是有一定牺牲的，一开始就有这个心理准备。我平时牺牲一些生活娱乐的时间，然后会尽量把学术上的事情都提前规划好，不行的话选择熬夜。
+
+Q:&ensp;在CSSA最大的收获是什么呢？
+A:&ensp;首先收获了一堆可爱的朋友们，其次感觉拥有了在海外的第二个家，最后就是非常正式的管理经验。
+
+Q:&ensp;在CSSA你印象最深刻的活动是？
+A:&ensp;舞会是在我成为主席后，初次尝试在校外举办CSSA经济完全独立的活动。我们以夜上海为主题布置了现场，有冷餐宴和舞会，大家还尝试了华尔兹 swing dance。场地布置和灯光效果都做的非常棒，让我有五星级酒店参加舞会的感觉，说明学生会具有办大型活动的能力啦。
+</text>
+
+</view>
