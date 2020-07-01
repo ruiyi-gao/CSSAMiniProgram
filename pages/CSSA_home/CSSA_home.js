@@ -8,19 +8,19 @@ Page({
     swiperList: [{
       id: 0,
       type: 'image',
-      url: '../../images/test1.png'
+      url: 'https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/test1.PNG'
     }, {
       id: 1,
       type: 'image',
-      url: '../../images/test2.png',
+        url: 'https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/test2.PNG',
     }, {
       id: 2,
       type: 'image',
-      url: '../../images/test3.png'
+        url: 'https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/test3.PNG'
     }, {
       id: 3,
       type: 'image',
-      url: '../../images/test4.png'
+        url: 'https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/test4.PNG'
     }],
 
     gridCol: 2,
