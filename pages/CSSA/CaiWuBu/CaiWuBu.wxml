@@ -9,15 +9,15 @@
 &ensp;-&ensp;组织团建以及请客吃饭
 
 【财务部成员】
-&ensp;-&ensp;部长:&ensp;高瑞仪
+&ensp;-&ensp;部长:&ensp;余臻子
 &ensp;-&ensp;部员:&ensp;陈盛康&ensp;龚克&ensp;刘璟曦&ensp;陆加宇&ensp;徐浩云
 &ensp;&ensp;&emsp;&emsp;&emsp;杨程凯&ensp;杨启帆&ensp;郑华&ensp;周栩乐&ensp;
 <!-- TODO: 此处需要更新 -->
 
 </text>
 
-<image src="../../../images/JiShuBu_member.png" style="width: 650rpx; height:455rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
-<!-- TODO: 此处需要更新 -->
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/CaiWuBu_member.PNG" style="width: 650rpx; height:433rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
 
 <text class="basic" decode="{{true}}">
 【部员采访】
