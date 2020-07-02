@@ -1,2 +1,41 @@
-<!--pages/CSSA/FuShuSheTuanHome/BiQiuShe/BiQiuShe.wxml-->
-<text>pages/CSSA/FuShuSheTuanHome/BiQiuShe/BiQiuShe.wxml</text>
+<view class="bg_wrap">
+
+<text class="title">附属社团之壁球社</text>
+<text class="basic" decode="{{true}}" style="margin-top: 50rpx;">
+壁球是一项室内球拍型运动，起源于英国。
+和大多数体育项目比起来算小众，但是其锻炼性，技巧性和趣味性突出。
+此项运动适合朋友之间的互动切磋，也适合单人练习。
+</text>
+
+<image src="../../../../images/MinYueImage.png" style="width:650rpx; height: 455rpx; margin-left: 55rpx; margin-right: 55rpx;" alt="abscd"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top:-20rpx;">
+【活动地点】
+&ensp;-&ensp; 佐治亚理工学院 CRC
+
+【活动形式】
+&ensp;-&ensp;新手入门教学
+&ensp;-&ensp;切磋 （包括新手）
+&ensp;-&ensp;比赛 （短期活动）
+
+【招新对象】
+&ensp;-&ensp;有意愿学习此项运动的初学者；有一定基础的爱好者。
+&ensp;-&ensp;能经常参加和时而协助组织一些活动。
+&ensp;-&ensp;身体健康，无突发性急性病史。
+&ensp;-&ensp;GT学生和学者
+
+【创始人介绍】
+&ensp;-&ensp;袁超
+&emsp;&ensp;-&ensp;曾在国内接触和学习壁球
+&emsp;&ensp;-&ensp;2017-2019年英国留学期间参加当地民间壁球社团，有进行入门教学和中等水平切磋的经历，对壁球的历史和文化也有更深刻的理解。
+&emsp;&ensp;-&ensp;除壁球这项运动外，还长期组织和参与其他耐力性体育活动，比如马拉松，徒步等。具有一定的体育运动指导经验，有计划、负责，耐心。
+
+【关于壁球的背景】
+&emsp;&emsp;根据民间传说（待考证），壁球是适合减肥和发泄的最佳运动之一。 或许您没接触过这项运动可能只在电视上（特别是港剧）见过，没有关系，只要您有兴趣驱使，我们将从最基础开始带您入门 。或许您已经是有经验的选手，这里将是您以球会友的好地方，甚至您还有机会成为指导教练带领新手们学习此项运动，展示您的技艺。
+&emsp;&emsp;通过壁球这项运动，您不仅能得到锻炼，还能收获友谊和体会这项gentleman／lady运动的独特魅力。期待大家的加入
+
+【注】
+前期活动暂不用自购球拍，社团可向crc借一定数量的球拍和球，社团可能也会准备一些公用球拍。 如果发展成爱好，也推荐成员购买心仪的球拍。
+</text>
+
+</view>
