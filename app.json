@@ -56,7 +56,7 @@
     "pages/logs/logs"
   ],
   "window": {
-    "backgroundColor": "#f67a6d",
+    "backgroundColor": "#FFFFFF",
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#f6eff3",
     "navigationBarTitleText": "GT CSSA",

@@ -1,2 +1,21 @@
-<!--pages/freshman_manual/ZhiYeGuiHua/XiaoWaiShiXi/RenMai/RenMai.wxml-->
-<text>pages/freshman_manual/ZhiYeGuiHua/XiaoWaiShiXi/RenMai/RenMai.wxml</text>
+<view class="bg_wrap">
+
+<text class="title">校外实习之人脉</text>
+
+<text class="basic" decode="{{true}}">
+【为什么需要积累人脉】
+与国内的情况类似，美国求职也非常讲究人脉。一般最有希望找到实习的，是公司找人的组里面有成员推荐的学生，甚至是直接认识hiring manager的学生。如果你认识公司的总裁、VP、或者manager，那么公司甚至有可能在没有空缺的情况下给你空出一个职位把你安排进去。
+
+公司在筛选简历时有自己的一套程序。尤其在网上申请的过程中，所有的申请者将被放在pool中。如果你没有任何背景，那么除非你与那个职位非常契合，或者运气特别好，否则你的简历甚至不会被hiring manager看到。但如果你有一定的人脉，HR或许可以帮助你把简历放在最上层。如果你认识正在该公司工作的人，他们可以帮你进行refer，极大的提升你被选中的改良版。如果你很幸运，你的人脉在hiring group中较为有话语权，那只要面试不太糟糕，入选的几率很高。
+
+
+【如何建立人脉】
+1. 学校中的教授是你最直接可以建立关系的人，尤其是那些特别关心学生找工作情况的教授。
+
+2. 大部分教授会很愿意为你推荐。如果你可以在招聘会上遇到你熟悉的教授，或许你可以被直接引荐给在场的manager。常去office hour与教授讨论问题是通用的bonding方式，有条件的同学也可以选择申请为某一节课的Teaching Assistant，与教授一起工作。
+
+3. 多认识朋友。不论是同年级还是高年级，总有很多有工作背景的大佬。大部分公司都会给职员们refer新人的名额。如果有朋友在你想去的公司里任职，那么一个refer可以让你在候选人pool中迅速脱颖而出。
+
+4. 在linkedin上主动reach out。Linkedin是美国管理人脉的应用。只要输入你的基本信息，linkedin就能为你推荐许多可建立关系的人，包括校友、研究领域相似、职业经历相似的人。推荐大家深入研究linkedin的各项功能，利用好linkedin，多认识圈子里的人。
+</text>
+</view>

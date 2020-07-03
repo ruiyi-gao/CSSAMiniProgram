@@ -1,2 +1,44 @@
-<!--pages/freshman_manual/XiaoYuanZhouBian/ChiHe/ZhengCan/Jia/Jia.wxml-->
-<text>Jia</text>
+<view class="bg_wrap">
+
+<text class="title">Jia</text>
+
+<text class="basic" decode="{{true}}" style="margin-bottom: 0rpx;">
+【关键词】
+#中餐 #川菜
+
+【地址】
+675 S Ponce De Leon Ave NE #N135, Atlanta, GA 30308
+
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Jia_environment.png" style="width: 650rpx; height:487.5rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
+【气氛】
+很传统的中式装修，最引人瞩目的就是饭馆入口有个龙盘着的大柱子，所以目标明显非常好找。找大柱子。。。
+
+作为一个几天吃不到中餐就不开心的人，ponce city里面的家应该算是离学校最近的中餐饭馆了。饭点时客人还是很多的，不过不要怕，最多的时候也就等个五分钟也就有位子了，不会出现国内排队两三个小时的情况。同时家还有室外就餐区，所以本人基本没有遇到等位的情况。想叫外卖打包带走的话，大概等20分钟菜就齐了。相比之学校student center里面的panda express，“家” 已经算是很地道的家常菜。家里提供的饭菜种类很多，可以满足来自大江南北的小伙伴们，其中川菜和面食居多。上菜速度不是特别快，但是一直都在合理的范围内。
+
+【食物】
+本人是肉食类动物，家里的铁锅肉，肉夹馍，各类干锅，竹篮鱼，炸鸡，口水鸡都十分值得推荐。然而在室友的压迫下，本人也得点一些素菜，豆腐类的和干煸四季豆都是本人的最爱，大厨炒的时令蔬菜都十分好吃，有锅气在里面，就像是用大铁锅炒出来的，很香了。凉菜里蓝莓山药泥是每次的必点，有个好胃才能吃的更多嘛。主食方面，家提供各种面食和炒饭，北方面食偏多。本人还是最爱小笼包和肉夹馍。
+
+总而言之，家是离学校最近的中餐馆，北方式菜量，品种多，值得推荐。但也是由于品种繁多，本人也没有刷完整个菜本，所以期待大家的继续深挖哟。
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Jia_food.png" style="width: 650rpx; height:520rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top:0rpx;">
+【就餐Tips】
+1. 一般一道菜是配一份饭的，所以米饭是不需要额外点的。豪爽菜量请大家注意哦。
+
+2. ponce city里有很多好吃的甜品，网红的冰激凌。家对面的一家蛋糕店里的蛋糕颜值高，味道好不死甜。所以大家可以酌情给胃留点空间。
+
+3. 由于家是在ponce city里面的原因可能价格稍微有点不可爱，但是依旧值得被用来犒劳自己。
+
+4. 悄咪咪说对面的拉面店和后面的炸鸡店也很好吃。
+
+5. 服装、生活用品、日化用品和美食的基本需求在ponce city里都可以得到满足。Ponce city里工业风的装修，有情调，同时也是一个量产美照的好去处。
+
+—— by Doris
+</text>
+</view>

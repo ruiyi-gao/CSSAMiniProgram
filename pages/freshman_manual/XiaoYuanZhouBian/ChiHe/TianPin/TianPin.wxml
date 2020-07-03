@@ -1,3 +1,66 @@
-<!--pages/freshman_manual/XiaoYuanZhouBian/ChiHe/TianPin/TianPin.wxml-->
-<text>甜品主页</text>
+<view class="bg_wrap">
 
+<text class="title">甜品合集</text>
+
+<text class="basic" decode="{{true}}">
+【Sweet Hut Bakery & Cafe】
+
+[关键词]
+#奶茶 #蛋糕 #面包
+
+[地址]
+339 14th St NW, Atlanta, GA 30318
+
+[简介]
+在GT学习的日子里少不了最近的奶茶店兼面包房Sweet Hut。面包真的真的是国内的软面包，很像85度C的存在。面包有甜有咸，蛋糕类选择也丰富。推荐蛋挞，芋泥麻薯包，老婆饼，蛋黄酥，紫薯酥，泡芙等等等。除此之外，还可以点三明治和一些小食（如盐酥鸡）。
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/sweethut.png" style="width: 650rpx; height:358.7rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}">
+【Jeni’s Splendid Ice Creams】
+
+[关键词]
+#冰淇淋
+
+[地址]
+1198 Howell Mill Rd, Atlanta, GA 30318
+
+[简介]
+高口碑冰淇淋店，人比较多。超多选择，价格合理！分量足，口味独特丰富！waffle cone是现烤的！Jeni’s基本口味多达三十来种，还经常推出季节和节日限定，热爱冰淇淋的你是不可能找不到你爱的那一款的！你还可以在购买之前选择想尝试的口感试吃～在结账口后面还有所有口味的罐装版冰淇淋，热爱哪种口味就把它带回家！（虽然Uber eats等可以外送到罐装Jeni’s，但口味选择没有店里丰富）
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Jenis.png" style="width: 650rpx; height:390rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}">
+【Momo Cafe】
+
+[关键词]
+#冰淇淋 #茶 #咖啡 #甜点 #日式
+
+[地址]
+95 8th St NW #100, Atlanta, GA 30309
+
+[简介]
+有芝麻、焙茶和抹茶口感的冰淇淋～饮品也很特别，咖啡方面除了传espresso-based coffee，还有特别的创新风味饮品，比如Brown Sugar Latte, Strawberry Matcha Latte, Sesame Latte～除此之外，还有来自日本和台湾的茶。Pastry也都不错，抹茶爱好者的选择可以很多。如果你在Momo Cafe买了食物，还可以顺着展台对面的木质小台阶上楼去二楼哦，上面的环境非常舒适，特别适合享受下午茶。有免费Wi-Fi和很多充电插头，想要工作学习也很方便。
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Momo.png" style="width: 650rpx; height:433.55rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}">
+【Starbucks Reserve】
+
+[关键词]
+#咖啡 #茶
+
+[地址]
+867 Peachtree St NE, Atlanta, GA 30308
+
+[简介]
+虽然亚城已经满大街开满了Starbucks，但Midtown这家是唯一的Reserve门店，而且就坐落于Midtown，步行可达！在这里，大家不仅可以挑选自己喜欢的咖啡品种，还可以喝到Reserve门店独有的咖啡饮品，（但冰淇淋相关的饮品好像在这家下架 ）。店铺相对于别的城市的Reserve店相对较小。
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/starbucks.png" style="width: 650rpx; height:432.24rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+
+</view>
