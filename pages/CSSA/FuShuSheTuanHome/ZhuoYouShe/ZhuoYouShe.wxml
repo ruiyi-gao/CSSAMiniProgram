@@ -1,2 +1,68 @@
-<!--pages/CSSA/FuShuSheTuanHome/ZhuoYouShe/ZhuoYouShe.wxml-->
-<text>pages/CSSA/FuShuSheTuanHome/ZhuoYouShe/ZhuoYouShe.wxml</text>
+<view class="bg_wrap">
+
+<text class="title">桌游社</text>
+<text class="center">Board-game Club</text>
+<text class="basic" decode="{{true}}" style="margin-top: 50rpx;">
+    一盒桌游
+    一张大桌子
+    和一群小伙伴
+</text>
+
+<swiper class="card-swiper round-dot" indicator-dots="true" circular="true" autoplay="true" interval="5000" duration="500" bindchange="cardSwiper" indicator-color="#8799a3" indicator-active-color="#0081ff" style="margin-top:-30rpx;">
+  <swiper-item wx:for="{{swiperList}}" wx:key="id" class="{{cardCur==index?'cur':''}}">
+    <view class="swiper-item">
+      <image src="{{item.url}}" mode="aspectFill" wx:if="{{item.type=='image'}}"></image>
+      <video src="{{item.url}}" autoplay loop muted show-play-btn="{{false}}" controls="{{false}}" objectFit="cover" wx:if="{{item.type=='video'}}"></video>
+    </view>
+  </swiper-item>
+</swiper>
+<text class="annotation"><text style="text-decoration: line-through;">每周</text>往期活动回顾</text>
+<text class="basic" decode="{{true}}" style="margin-top:-20rpx">
+【活动地点】
+&ensp;-&ensp;任何有桌子的场地
+
+【活动形式】
+&ensp;-&ensp;每周五晚上聚集在一起开玩
+
+【招新对象】
+&ensp;-&ensp;任何喜欢/想玩桌游的小伙伴
+
+【创始人】
+龚克 Nick
+</text>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/ZhuoYou_ChuangShiRen.png" style="width:650rpx; height: 488rpx; margin-left: 55rpx; margin-right: 55rpx;" alt="ShiWeiShe4"></image>
+<text class="annotation" decode="{{true}}" style="color: #eeeeee;">社长大大的大头贴~</text>
+
+<text class="basic" decode="{{true}}" style="margin-top:-20rpx;  margin-bottom:0rpx;">
+【创始人的科普时间】
+什么是桌游？
+</text>
+<text class="indent1" decode="{{true}}">
+&ensp;-&ensp;桌游，桌面游戏，Board Game。
+&ensp;-&ensp;泛指围绕各种规则进行的棋类，牌类以及版图益智游戏。
+&ensp;-&ensp;桌游的题材十分广泛，包括文明，军事，历史，艺术，奇幻，科幻，建筑，商业，生物，农业等等你能想到的任何内容。
+</text>
+<text class="basic" decode="{{true}}" style="margin-bottom:0rpx;">
+一款优秀的桌游是如何吸引玩家的呢？
+</text>
+<text class="indent1" decode="{{true}}">
+1. 合适的机制
+</text>
+<text class="indent2" decode="{{true}}" style="font-size: smaller;">
+机制是桌游的核心部分，也就是对游戏的进行方式，游戏的规则所在，具备合适机制的游戏能够带来极佳的游戏体验
+</text>
+<text class="indent1" decode="{{true}}">
+2. 精美的配件和美工
+</text>
+<text class="indent2" decode="{{true}}" style="font-size: smaller;">
+用心的做工从来都是一款优秀桌游带给玩家的第一印象，不一定要华丽，而是要透露出与这款桌游内核相匹配的艺术风格
+</text>
+<text class="indent1" decode="{{true}}">
+3. 良好的互动性
+</text>
+<text class="indent2" decode="{{true}}" style="font-size: smaller;">
+桌游强调了人与人的面对面交流，互动性是交流的基础，不管是模拟政治外交，还是贸易谈判，一款优秀的桌游总能让玩家从语言表情交流中获得乐趣
+</text>
+
+
+</view>
