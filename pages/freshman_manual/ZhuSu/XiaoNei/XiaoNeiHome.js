@@ -9,13 +9,13 @@ Page({
   },
 
   East: function(){
-    wx.redirectTo({
+    wx.navigateTo({
       url: 'East/East',
     })
   },
 
-  West(){
-    wx.redirectTo({
+  West: function(){
+    wx.navigateTo({
       url: 'West/West',
     })
   },

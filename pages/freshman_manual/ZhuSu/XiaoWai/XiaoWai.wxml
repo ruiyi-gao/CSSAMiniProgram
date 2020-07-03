@@ -1,2 +1,53 @@
-<!--pages/freshman_manual/ZhuSu/XiaoWai.wxml-->
-<text>pages/freshman_manual/ZhuSu/XiaoWai.wxml</text>
+<view class="bg_wrap">
+  
+  <text class="title">校外住宿</text>
+  <text class="basic" decode="{{true}}">
+  【100 Midtown】
+  地址：100 10th St NW, Atlanta, GA 30309  
+  网站：https://www.100midtown.com/
+
+  [学生公寓简介]
+  最大的优势就是在亚村暴雨其他所有东边Spring street上的apartments都停水停电的时候, 什么事也没有. 其次呢位置也还不错,因为在主干道与Gatech校园东北角的交叉处,去学校就过个桥一条路走到底,再根据你去哪里,在不同的支路左拐就好. Publix也在一个街区内, 本来又是在东边,离后边Peachtree street上的一众餐厅也不远,饮食生活也算方便. 不过宿舍本身还是存在一定问题的, 比如窗户是不能打开的, 房间有时会有小昆虫造访, 还有物业比较慢, 修个东西还不如叫他们直接换来得快. 因为是夏天从学长哪里转租的, 所有不太清楚平时的租金(听说好像是~1000刀每月),但是性价比的话,如果你跟朋友一起住或者你比较乐观,还是说得过去的(可能有点小亏)
+  —— By Henry
+
+
+  【Trace】
+  地址：782 Peachtree St NE, Atlanta, GA 30308
+  网站：https://tracemidtown.com/
+
+  [学生公寓简介]
+  Trace 在学校的最东边，不属于学校公寓，所以校车都不到。但 trolley 的 COB 站下只需要走两分钟。他自命为luxury apartments，每天晚上把垃圾放门口会有人收，同时泳池、烧烤、健身房、苹果windows公用电脑、会议室等公共设施一应俱全。户型一般为1b1b和2b2b，平均每间120平米，算非常大的，还有很多储藏室和衣帽间，衣服可以全部挂起来。价格一般 $1400/人/月 起，不包括水电，不带家具。因为不算学校公寓，他lease的时间比较灵活，临时决定多租几天都很好商量，更不需要一整年一整年的租。
+
+
+  【University House】
+  地址：95 8th St NW, Atlanta, GA 30308
+  网站：http://uhmidtown.com/
+
+  [学生公寓简介]
+  UH的地理位置很好，对面就是Publix（学校附近最近的超市），步行三分钟的地方有Marta 地铁站，步行五六分钟可到达学校书店Barnes&Noble附近的Trolley车站，附近有一个bar，尽管楼下会有流浪汉，但是安全系数还是很高的。UH内部设施还是不错的，该有的都有，比如健身房，游泳池，study lounge，还配备打印机。可选1-4人的floor plan。我住的四人间价格在$1050左右，包括水电费，带家具，拎包入住。
+
+
+  【Standard】
+  地址：708 Spring St NW, Atlanta, GA 30308
+  网站：https://thestandardatlanta.landmark-properties.com/
+
+
+  【Square on Fifth】
+  地址：848 Spring St NW, Atlanta, GA 30308
+  网站：https://www.squareonfifth.com/
+
+
+  【Theory】
+  地址：3035 Peachtree Rd Suite G115, Atlanta, GA 30305
+  网站：https://www.theorywestmidtown.com/theory-west-midtown-atlanta-ga
+
+
+  【M Street】
+  地址：950 marietta st nw，Atlanta
+  网站：https://www.mstreetatlanta.com/
+
+
+  【总结】
+  学校附近是有很多的学生公寓，就不一一列出了，对于apartment，大家最好还是自己去实地考察以下。
+  </text>
+</view>
