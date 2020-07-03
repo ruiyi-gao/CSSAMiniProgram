@@ -7,9 +7,9 @@
 此项运动适合朋友之间的互动切磋，也适合单人练习。
 </text>
 
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/SquashImage.png" style="width:650rpx; height: 455rpx; margin-left: 55rpx; margin-right: 55rpx;" alt="abscd"></image>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/SquashImage.png" style="width:650rpx; height: 455rpx; margin-left: 55rpx; margin-right: 55rpx;" alt="squash"></image>
 
-<text class="annotation" decode="{{true}}">图片来源于网络</text>
+<text class="annotation" decode="{{true}}">图片源自网络</text>
 
 <text class="basic" decode="{{true}}" style="margin-top:-20rpx;">
 【活动地点】
@@ -21,13 +21,15 @@
 &ensp;-&ensp;比赛 （短期活动）
 
 【招新对象】
-&ensp;-&ensp;有意愿学习此项运动的初学者；有一定基础的爱好者。
-&ensp;-&ensp;能经常参加和时而协助组织一些活动。
-&ensp;-&ensp;身体健康，无突发性急性病史。
+&ensp;-&ensp;有意愿学习此项运动的初学者
+&ensp;-&ensp;有一定基础的爱好者
+&ensp;-&ensp;能经常参加和时而协助组织一些活动
+&ensp;-&ensp;身体健康，无突发性急性病史
 &ensp;-&ensp;GT学生和学者
 
 【创始人介绍】
 &ensp;-&ensp;袁超
+
 &emsp;&ensp;-&ensp;曾在国内接触和学习壁球
 &emsp;&ensp;-&ensp;2017-2019年英国留学期间参加当地民间壁球社团，有进行入门教学和中等水平切磋的经历，对壁球的历史和文化也有更深刻的理解。
 &emsp;&ensp;-&ensp;除壁球这项运动外，还长期组织和参与其他耐力性体育活动，比如马拉松，徒步等。具有一定的体育运动指导经验，有计划、负责，耐心。
