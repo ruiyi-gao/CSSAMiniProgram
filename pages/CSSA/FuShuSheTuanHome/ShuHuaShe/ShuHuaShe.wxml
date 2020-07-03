@@ -1,2 +1,75 @@
-<!--pages/CSSA/FuShuSheTuanHome/ShuHuaShe/ShuHuaShe.wxml-->
-<text>pages/CSSA/FuShuSheTuanHome/ShuHuaShe/ShuHuaShe.wxml</text>
+<view class="bg_wrap">
+
+<text class="title">附属社团之书画社</text>
+<text class="title, center">AC社</text>
+<text class="center">Art & Caligraphy Club</text>
+
+<text class="basic" decode="{{true}}" style="margin-top: 50rpx;">
+羡慕大触自己却是个手残党？
+希望了解书法绘画，
+并自己上手创作？
+手办/周边太贵，想自己搞本命？
+
+超值不生草，书画社就是为你量身定制的社团！
+∠( ᐛ 」∠)＿
+
+书画社团是以<text style="font-weight:bold">书法/绘画/手工</text>为主的艺术性学生组织，为GT书法绘画爱好者提供练习提升、经验交流、相互促进的平台。
+
+书画社招新并不只招收有艺术特长的同学哦！
+只要你有这方面的兴趣，就算<text style="font-weight:bold">没有基础，没有经验</text>的同学，书画社也欢迎你们的加入
+(=´∀｀)人(´∀｀=)！
+
+在这里，你有足够的平台展示你的才能，有志趣相投的朋友与你交流进步，也有耐心包容帅气无比的<text style="  text-decoration: line-through;">咸鱼</text>前辈与你一起一同进步！
+☆✧❤
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/DianJingShe.png" style="width:650rpx; height: 455rpx; margin-left: 55rpx; margin-right: 55rpx;" alt="abscd"></image>
+
+
+<text class="basic" decode="{{true}}" style="margin-top:-20rpx;">
+
+【活动形式】
+书法部
+&ensp;-&ensp;毛笔书法、硬笔书法、篆刻
+&ensp;-&ensp;可练习楷书 隶书 篆书（篆刻用）行草
+&ensp;&ensp;&ensp;<text class="fade">字帖暂时有两本隶书字帖（张迁碑和曹全碑）</text>
+&ensp;&ensp;&ensp;<text class="fade">如有其他字体字帖要求 提就完事了</text>
+&ensp;&ensp;-&ensp;社团准备了
+&emsp;&ensp;-&ensp;黄纸（练习用）
+&emsp;&ensp;-&ensp;白纸（作品创作）
+&emsp;&ensp;-&ensp;红纸（写对联）
+&emsp;&ensp;&ensp;&ensp;<text class="fade">社员们可练习基础</text>
+&emsp;&ensp;&ensp;&ensp;<text class="fade">有基础的同学可进行创作</text>
+
+美术部
+&ensp;-&ensp;绘画：水彩、油画、漫画、基础素描、电子绘图
+&ensp;-&ensp;手工：轻粘土、折纸、剪纸
+&ensp;-&ensp;选出每月主题，根据主题进行创作
+&ensp;-&ensp;不定期：大佬同学进行现场教学指导
+&ensp;-&ensp;利用微信/lofter/微博等平台进行作品展出
+&ensp;-&ensp;社员作品有机会由书画社掏腰包，变成手机壳、文件夹、钥匙扣、徽章、立牌、海报、贴纸、纸胶带等真实周边产品！自产本命手办/周边不是梦！！
+
+【活动时间】
+&ensp;-&ensp;待定，会根据新入社的成员时间进行微调
+
+【招新对象】
+&ensp;-&ensp;对书法绘画感兴趣且希望与他人交流技艺的
+&ensp;-&ensp;&ensp;各位萌新和大佬
+
+【创始人介绍】
+&ensp;-&ensp;陈曦&ensp;Chelsea
+&emsp;&ensp;-&ensp;CS 22
+&emsp;&ensp;-&ensp;美术部负责人，有电子绘图与海报制作的经验。
+&emsp;&ensp;-&ensp;目前在cssa宣传部负责活动海报与周边设计。
+&emsp;&ensp;-&ensp;欢迎来找我一起搞纸片人！
+&emsp;&ensp;-&ensp;不是大佬<text style="font-size: xx-small;margin: 0;color: #dddddd">（小编默默打出一个？）</text>请多指教！（´･ω･`）
+
+&ensp;-&ensp;李俊键 Leo
+&emsp;&ensp;-&ensp;MSE 22
+&emsp;&ensp;-&ensp;书法部负责人，五岁开始练习书法，最喜欢隶书
+&emsp;&ensp;-&ensp;书法八级，全国书法协会会员
+&emsp;&ensp;-&ensp;目前在企划部，可协调组织作品展示
+&emsp;&ensp;-&ensp;欢迎所有对书画感兴趣的志友们
+</text>
+
+</view>
