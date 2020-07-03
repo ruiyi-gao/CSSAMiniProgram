@@ -1,2 +1,26 @@
-<!--pages/freshman_manual/ZhiYeGuiHua/SSN_CPT/SSN_CPT.wxml-->
-<text>pages/freshman_manual/ZhiYeGuiHua/SSN_CPT/SSN_CPT.wxml</text>
+<view class="bg_wrap">
+
+<text class="title">职业规划之SSN和CPT</text>
+
+<text class="basic" decode="{{true}}">
+Social Security Number (SSN)
+
+【什么是SSN?】
+SSN是 Social Security Number 的缩写，译为「社会安全号码」，为美国社会安全卡（Social Security Card）上的 9 位数字。SSN 原本目的是用于追踪个人的纳税情况，但是现在用途已被扩大到包括区分个人身份，类似中国「居民身份证号码」之作用。社会安全号码一般写作类似 450-12-3672 这样「3位 - 2位 - 4位」的形式。
+
+【为什么需要SSN?】
+SSN 适用于需要 on campus 工作(TA/RA)或者需要 off campus 工作如暑期实习的
+学生。原则上 Fellowship 的受资助人是不可以申请 SSN 的，但由于没有 SSN 会对日常
+的某些活动带来很多麻烦因此建议同学找工作并以此来申请 SSN。在此提醒大家注意: 请不要在找到短期工作并获得 SSN后很快辞去工作或对工作不负责任, 这样会对以后的同学申请类似的工作有很坏的影响。
+
+
+Curricular Practical Training (CTP)
+
+【什么是CTP?】
+CPT（Curricular Practical Training，课程实习训练）是允许学生在校外合法打工的一个许可，且工作领域必须与学习专业相关。USCIS（美国公民和移民中心）在定义CPT的时候提到这个雇佣必须是学生课程的一个部分，与正式课业弥补努科粉的建教合作课程（work/study program)或实习（internship），但这些雇主都必须和学校有合作协议。课程实习通常在入学一年后才能提出申请，但研究上升如果因为课业需要，必须立即参与实习，则不在此限制范围内。
+提供CPT的院系必须在课程信息中列出工作机会。这些实习分带薪和无薪的，具体看学校安排。如果实习并不属于课程的一部分，学制可能会延长。
+
+
+</text>
+
+</view>

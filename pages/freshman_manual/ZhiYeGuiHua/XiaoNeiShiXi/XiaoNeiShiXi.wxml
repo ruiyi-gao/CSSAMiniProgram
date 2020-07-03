@@ -1,2 +1,23 @@
-<!--pages/freshman_manual/ZhiYeGuiHua/XiaoNeiShiXi/XiaoNeiShiXi.wxml-->
-<text>pages/freshman_manual/ZhiYeGuiHua/XiaoNeiShiXi/XiaoNeiShiXi.wxml</text>
+<view class="bg_wrap">
+
+<text class="title">校内实习</text>
+
+<text class="basic" decode="{{true}}">
+对于大部分尚未拥有工作经历的同学来说，校内实习是最方便的工作经历的开始。不仅可以运用你的专业知识，而且门槛低，工作地点就在校园中（甚至可以网上工作）。
+
+【TA/RA】
+最火爆的校内工作是Teaching Assistant和Research Assistant，也就是通常所说的TA和RA，主要工作是辅助教授或讲师，管理学生或实验室工作。通常来说RA的申请时间是前一个学期结束前、假期、以及开学前一周。TA的申请时间因college不同而不一样，一般是前一个学期结束前，你所上的课或你的college会给你以邮件的形式发放申请链接。
+
+【校内服务工作】
+校内服务工作在美国大学是很火爆的。由于岗位有趣，可以与许多人相处交流，可以在自己喜欢的地方工作，这些工作通常很受当地学生的青睐。
+
+具体工作有以下几种：
+1. Student Center：Student Center Paper and Clay service，Tech Rec service，Under the Couch service，Postal service以及其他。有的工作甚至需要一定的专业技能与培训才能担任。感兴趣的同学可以前往Student Center Jobs Board 查看job posts。
+
+2. Campus Recreation Center/Dining Service/Library 也是提供很多on campus job的部门，开放的岗位多是管理类，如图书馆管理租借等。
+
+3. Georgia Tech Housing：这里可以申请成为Peer Leaders（PLs）或者Resident Advisors（RAs）工作周期通常是一年。这个工作可以为你提供全额房租补偿。你可以免费住在学校的residence hall中，帮助学生，与你的学生们建立关系，帮助他们解决生活/学习上的问题，适应大学生活。如果有对PL或RA工作感兴趣的同学，一定不能错过每学期两次的info session。那里你会了解到所有你需要知道的信息和具体申请方式。
+
+4. Georgia Tech Research Institute：GTRI是个非常专业化的招聘部门。每个学期，他们都会大量提供co-op、实习、以及学生助理的职位。这些职位对学生的学业背景有一定要求。找不到实习而有希望利用自己专业知识的同学，GTRI可能是你最好的选择。
+</text>
+</view>

@@ -1,2 +1,19 @@
-<!--pages/freshman_manual/ZhiYeGuiHua/XiaoWaiShiXi/C2D2/C2D2.wxml-->
-<text>pages/freshman_manual/ZhiYeGuiHua/XiaoWaiShiXi/C2D2/C2D2.wxml</text>
+<view class="bg_wrap">
+
+<text class="title">校外实习之C2D2</text>
+
+<text class="basic" decode="{{true}}">
+【什么是C2D2】
+C2D2的全称是Center for Career Discovery and Development，是GT官方设立的专门服务于学生找工作的部门。除了举办career fair以外，C2D2还有很多服务于找工作学生的网站、讲座、workshop、和advisor。利用这个部门，你可以很好的利用GT给你提供的资源，提升自己，实时寻找工作机会，走向人生巅峰。
+
+【C2D2功能推荐】
+1. Virtual Career Fair/Virtual Interview：每个学期招聘季开始前，C2D2都会举行模拟Career Fair和模拟面试。C2D2会邀请真正的、在职的hiring manager，模拟招聘会交流环节以及面试流程。对于还不熟悉美国招聘会以及面试的新生们，Virtual Career Fair/Virtual Interview 是个绝佳的练习机会。甚至运气好的话，或许能得到hiring manager的青睐，建立人脉关系。如果没有，也不必灰心。hiring manager会给你许多建设性建议，告诉你目前企业的发展方向，推荐你自学一些软件，这样对于大家也是多有帮助的。注意：Virtual Career Fair/Virtual Interview需要登记才可以参加。可以登记的时候，学校会发放邮件。感兴趣的同学们要注意查收。
+
+2. Walkin-hours：C2D2每天都有给不同年级的学生设立的walkin hour，不需要跟advisor提前预约，只需到C2D2的办公楼（Bill Moore Student Success Center），就会有工作人员为你安排advisor。
+
+3. Advisor：C2D2每天都有专业advisor为你答疑解惑。他们可以帮助你修改简历，为你提出简历中需要完善的地方，告诉你你欠缺些什么样的经历，为你提出面试建议等等。如果对找工作相关文件有疑惑，如CPT/OPT办理流程等，C2D2的advisor也能为你提供最靠谱的解答。但注意：Walkin hour只会随机为你分配advisor。如果想与某个特定advisor见面，需要上C2D2官方网站预约时间。
+
+4. Career Buzz：Career Buzz是GT实时interview以及job post管理软件。它允许学生上传简历，搜索/申请全职、兼职以及实习，并登记参加公司面试等等。同时，公司也会在CareerBuzz上发放职位，浏览学生简历，与学生约在校面试等等。运用好CareerBuzz，你能更加方便的寻找资源，管理资源。
+</text>
+
+</view>
