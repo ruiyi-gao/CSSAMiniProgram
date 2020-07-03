@@ -30,7 +30,7 @@
 【创始人】
 龚克 Nick
 </text>
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/ZhuoYou_ChuangShiRen.png" style="width:650rpx; height: 488rpx; margin-left: 55rpx; margin-right: 55rpx;" alt="ShiWeiShe4"></image>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/ZhuoYou_ChuangShiRen.png" style="width:650rpx; height: 488rpx; margin-left: 55rpx; margin-right: 55rpx; margin-top: -40rpx;" alt="ShiWeiShe4"></image>
 <text class="annotation" decode="{{true}}" style="color: #eeeeee;">社长大大的大头贴~</text>
 
 <text class="basic" decode="{{true}}" style="margin-top:-20rpx;  margin-bottom:0rpx;">
