@@ -1,2 +1,54 @@
-<!--pages/CSSA/FuShuSheTuanHome/SheYingShe/SheYingShe.wxml-->
-<text>pages/CSSA/FuShuSheTuanHome/SheYingShe/SheYingShe.wxml</text>
+<view class="bg_wrap">
+
+<text class="title">摄影社</text>
+<text class="center">Photography and Motion Pictures</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/SheYingShe1.png" style="width:650rpx; height: 870rpx; margin-left: 55rpx; margin-right: 55rpx;" alt="SheYingShe1"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top:-20rpx;  margin-bottom:0rpx;">
+【招新对象】
+&ensp;-&ensp;任何对摄影和电影艺术感兴趣的小伙伴们
+
+【活动地点】
+&ensp;-&ensp;亚特兰大市内、周边
+&ensp;-&ensp;更远的地方旅行拍摄<text style="color: #eeeeee">（如果时间和资金允许的话）</text>
+
+【活动形式】
+&ensp;-&ensp;召集喜欢摄影的小伙伴外出约拍
+&ensp;-&ensp;一起去参观亚特兰大和周边的摄影展
+&ensp;-&ensp;定期分享交流拍摄作品，组织作品展出
+&ensp;-&ensp;鉴赏经典的影视作品
+&ensp;-&ensp;组织拍摄视频短片（shorts, music video, vlog等）
+
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/SheYingShe2.png" style="width:650rpx; height: 870rpx; margin-left: 55rpx; margin-right: 55rpx;" alt="ShiWeiShe4"></image>
+<text class="annotation">由食味社成员制作</text>
+
+<text class="basic" decode="{{true}}" style="margin-top:-20rpx;">
+
+【创始人介绍】
+&ensp;-&ensp;柴能 Ben
+</text>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/SheYing_ChuangShiRen1.png" style="width:650rpx; height: 650rpx; margin-left: 55rpx; margin-right: 55rpx;margin-top: -40rpx;" alt="ShiWei_ChuangShiRen1"></image>
+
+<text class="indent1" decode="{{true}}">
+大一CompE，萌新
+Photography 和Vlogger 一只。
+嗯，就酱。
+摄影社嘛，少说话多上图
+</text>
+<text class="basic" decode="{{true}}">
+&ensp;-&ensp;杨宏毅 Leo
+</text>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/SheYing_ChuangShiRen2.png" style="width:650rpx; height: 650rpx; margin-left: 55rpx; margin-right: 55rpx;margin-top: -40rpx;" alt="ShiWei_ChuangShiRen2"></image>
+
+<text class="indent1" decode="{{true}}">
+哈喽！我是杨弘毅，也可以叫我Leo。 
+今年大一的新生。
+现在在码农的路上越走越远。
+平时闲着没事会出去走走拍拍照
+希望能在社团里认识一些可以出去拍照的同学！
+(或者带着大家一起飞的dailao)
+</text>
+</view>
