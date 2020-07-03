@@ -23,7 +23,8 @@
 ☆✧❤
 </text>
 
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/DianJingShe.png" style="width:650rpx; height: 455rpx; margin-left: 55rpx; margin-right: 55rpx;" alt="abscd"></image>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/ShuHuaZuoPin.png" style="width:650rpx; height: 455rpx; margin-left: 55rpx; margin-right: 55rpx;" alt="abscd"></image>
+<text class="annotation" decode="{{true}}">Chelsea大触的作品展示</text>
 
 
 <text class="basic" decode="{{true}}" style="margin-top:-20rpx;">
