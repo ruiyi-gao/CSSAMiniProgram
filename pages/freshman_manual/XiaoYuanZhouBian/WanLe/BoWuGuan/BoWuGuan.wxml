@@ -1,2 +1,65 @@
-<!--pages/freshman_manual/XiaoYuanZhouBian/WanLe/BoWuGuan/BoWuGuan.wxml-->
-<text>博物馆</text>
+<view>
+
+<text class="title">博物馆</text>
+
+<text class="basic" decode="{{true}}" style="margin-bottom: 0rpx;">
+【High Museum of Art】
+
+[官网]
+https://high.org
+
+[地址]
+1280 Peachtree St NE, Atlanta
+
+[Hours]
+Monday: Closed
+Tuesday: 10AM - 5PM 
+Wednesday: 10AM - 5PM 
+Thursday: 10AM - 5PM 
+Friday: 10AM - 9PM 
+Saturday: 10AM - 5PM 
+Sunday: Noon - 5PM
+
+[价格]
+$14.50 for ages 6 and above. 
+注：每月的第二个周日中午至下午5点免费哦
+
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/high_museum.png" style="width: 650rpx; height:408.6rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
+[体验]
+High Museum坐落在学校东北角，16thst 和 Peachtree St的交叉口，从Tech Square往北走不到二十分钟，搭Marta或坐车都很方便。
+
+High Museum每月第二个周日从正午到下午五点闭馆期间免票入场，免费时段人多嘈杂，收费时段不受打扰，各取所需。平时主要轮换展出近现代绘画，装置，摄影，以及雕塑作品，但时不时会有比较有意思的巡展。馆藏了不少美国近现代绘画大师的作品，比如Katz和Pollok，大一做这一系列的Project就要求从High Museum取材。
+
+地方不大，上下四五层高，走走看看一圈可能需要一两个小时，逛完回中城下馆子，忙里偷闲三两个钟不也逍遥快意吗？
+</text>
+
+
+
+<text class="basic" decode="{{true}}">
+【National Center for Civil and Human Rights】 
+
+[官网]
+https://www.civilandhumanrights.org
+
+[地址]
+100 Ivan Allen Jr Blvd NW, Atlanta
+
+[Hours]
+Monday - Saturday: 10 AM - 5 PM
+Sunday: 12 PM - 5 PM
+
+[价格]
+$19.99 for Adults(18+)
+$17.99 for Students(13-17)
+</text>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/civil_and_human_right.png" style="width: 650rpx; height:408.6rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top:0rpx;">
+注：所有图片来源网络
+</text>
+
+</view>
