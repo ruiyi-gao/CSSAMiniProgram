@@ -1,1 +1,7 @@
-/* pages/CSSA/FuShuSheTuanHome/BiQiuShe/BiQiuShe.wxss */
+.annotation {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  font-size: smaller;
+  margin-top: -5rpx;
+}
