@@ -42,9 +42,8 @@ Sunday: 12pm to 6pm
 
 [价格]
 会波动，详情见官网
-
 </text>
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/k1_speed1.png" style="width: 650rpx; height:488rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/quickshot_shooting_range.png" style="width: 650rpx; height:488rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
 <text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
 [体验]
@@ -67,7 +66,6 @@ Walk-Ons Welcome:
 &emsp;&emsp;Saturdays & Sundays: 10A.M. ~ 5P.M.
 Reservation:
 &emsp;&emsp;Everyday
-
 </text>
 <image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/paintball_atlanta.png" style="width: 650rpx; height:366rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
