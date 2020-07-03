@@ -8,7 +8,7 @@
 此项运动适合朋友之间的互动切磋，也适合单人练习。
 </text>
 
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/SquashImage.png" style="width:650rpx; height: 455rpx; margin-left: 55rpx; margin-right: 55rpx;" alt="squash"></image>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/BiQiuShe.png" style="width:650rpx; height: 455rpx; margin-left: 55rpx; margin-right: 55rpx;" alt="squash"></image>
 
 <text class="basic" decode="{{true}}" style="margin-top:-20rpx;">
 【活动地点】
@@ -29,16 +29,18 @@
 【创始人介绍】
 &ensp;-&ensp;袁超
 </text>
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/BiQiuSheZhang.png" style="width:650rpx; height: 455rpx; margin-left: 55rpx; margin-right: 55rpx;margin-top: -40rpx;" alt="BiQiuSheChuangShiRen"></image>
-<text class="annotation" decode="{{true}}" style="color: #eeeeee;">社长大大的大头贴</text>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/BiQiu_ChuangShiRen.png" style="width:650rpx; height: 455rpx; margin-left: 55rpx; margin-right: 55rpx;margin-top: -40rpx;" alt="BiQiuSheChuangShiRen"></image>
+
+<text class="indent1" decode="{{true}}">
+&ensp;-&ensp;曾在国内接触和学习壁球
+&ensp;-&ensp;2017-2019年英国留学期间参加当地民间壁球社团，有进行入门教学和中等水平切磋的经历，对壁球的历史和文化也有更深刻的理解。
+&ensp;-&ensp;除壁球这项运动外，还长期组织和参与其他耐力性体育活动，比如马拉松，徒步等。具有一定的体育运动指导经验，有计划、负责，耐心。
+</text >
 
 <text class="basic" decode="{{true}}" style="margin-top:-20rpx">
-&emsp;&ensp;-&ensp;曾在国内接触和学习壁球
-&emsp;&ensp;-&ensp;2017-2019年英国留学期间参加当地民间壁球社团，有进行入门教学和中等水平切磋的经历，对壁球的历史和文化也有更深刻的理解。
-&emsp;&ensp;-&ensp;除壁球这项运动外，还长期组织和参与其他耐力性体育活动，比如马拉松，徒步等。具有一定的体育运动指导经验，有计划、负责，耐心。
 
 【创始人的话】
-&emsp;&emsp;根据民间传说（待考证），壁球是适合减肥和发泄的最佳运动之一。 或许您没接触过这项运动可能只在电视上（特别是港剧）见过，没有关系，只要您有兴趣驱使，我们将从最基础开始带您入门 。或许您已经是有经验的选手，这里将是您以球会友的好地方，甚至您还有机会成为指导教练带领新手们学习此项运动，展示您的技艺。
+&ensp;&ensp;根据民间传说（待考证），壁球是适合减肥和发泄的最佳运动之一。 或许您没接触过这项运动可能只在电视上（特别是港剧）见过，没有关系，只要您有兴趣驱使，我们将从最基础开始带您入门 。或许您已经是有经验的选手，这里将是您以球会友的好地方，甚至您还有机会成为指导教练带领新手们学习此项运动，展示您的技艺。
 &emsp;&emsp;通过壁球这项运动，您不仅能得到锻炼，还能收获友谊和体会这项gentleman/lady运动的独特魅力。期待大家的加入
 
 【注】

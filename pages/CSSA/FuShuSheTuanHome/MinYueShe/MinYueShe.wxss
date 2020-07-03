@@ -1,13 +1,27 @@
-.basic{
-  margin-left: 50rpx;
-  margin-right: 50rpx;
-  margin-top: 10rpx;
-  margin-bottom: 10rpx;
+.annotation {
+  justify-content: center;
+  align-items: center;
   display: flex;
+  font-size: smaller;
+  margin-top: -5rpx;
 }
 
 .center {
   justify-content: center;
   align-items: center;
   display: flex;
+}
+
+.indent1 {
+  margin-left: 75rpx; 
+  display:flex;
+  margin-right: 50rpx;
+  margin-top: -20rpx
+}
+
+.indent2 {
+  margin-left: 100rpx; 
+  display:flex;
+  margin-right: 50rpx;
+  margin-top: -20rpx
 }

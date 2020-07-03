@@ -37,25 +37,28 @@
 【创始人介绍】
 &ensp;-&ensp;傅嘉宁
 </text>
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/WuDao_ChuanShiRen1.png" style="width:650rpx; height: 650rpx; margin-left: 55rpx; margin-right: 55rpx;margin-top: -40rpx;" alt="WuDaoSheChuangShiRen1"></image>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/WuDao_ChuangShiRen1.png" style="width:650rpx; height: 650rpx; margin-left: 55rpx; margin-right: 55rpx;margin-top: -40rpx;" alt="WuDaoSheChuangShiRen1"></image>
 
-<text class="basic" decode="{{true}}" style="margin-top:-20rpx;">
+<text class="indent1" decode="{{true}}">
 &emsp;&ensp;-&ensp;大二CS专业
 &emsp;&ensp;-&ensp;有中国舞和芭蕾舞的舞蹈功底
+</text>
 
+<text class="basic" decode="{{true}}">
 &ensp;-&ensp;王佳宁
 </text>
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/WuDao_ChuanShiRen2.png" style="width:650rpx; height: 650rpx; margin-left: 55rpx; margin-right: 55rpx; margin-top: -40rpx;" alt="WuDaoSheChuangShiRen2"></image>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/WuDao_ChuangShiRen2.png" style="width:650rpx; height: 650rpx; margin-left: 55rpx; margin-right: 55rpx; margin-top: -40rpx;" alt="WuDaoSheChuangShiRen2"></image>
 
-<text class="basic" decode="{{true}}" style="margin-top:-20rpx;">
+<text class="indent1" decode="{{true}}">
 &emsp;&ensp;-&ensp;大二CS专业
 &emsp;&ensp;-&ensp;街舞方面更擅长爵士
-
+</text>
+<text class="basic" decode="{{true}}">
 &ensp;-&ensp;王敬泊
 </text>
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/WuDao_ChuanShiRen3.png" style="width:650rpx; height: 650rpx; margin-left: 55rpx; margin-right: 55rpx; margin-top: -40rpx;" alt="WuDaoSheChuangShiRen3"></image>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/WuDao_ChuangShiRen3.png" style="width:650rpx; height: 650rpx; margin-left: 55rpx; margin-right: 55rpx; margin-top: -40rpx;" alt="WuDaoSheChuangShiRen3"></image>
 
-<text class="basic" decode="{{true}}" style="margin-top:-20rpx;">
+<text class="indent1" decode="{{true}}">
 &emsp;&ensp;-&ensp;大四CS专业
 &emsp;&ensp;-&ensp;有old school 的舞蹈功底
 &emsp;&ensp;-&ensp;擅长hiphop和urban的舞蹈

@@ -1,2 +1,109 @@
-<!--pages/CSSA/FuShuSheTuanHome/ShiWeiShe/ShiWeiShe.wxml-->
-<text>pages/CSSA/FuShuSheTuanHome/ShiWeiShe/ShiWeiShe.wxml</text>
+<view class="bg_wrap">
+
+<text class="title">食味社</text>
+<text class="center">Syokumi Culinary Club</text>
+<text class="basic" decode="{{true}}" style="margin-top: 50rpx;">
+  料理
+  是生活的琐事
+  也可以是
+  一个人的灵修
+  或和朋友在一起
+  宝贵的时光
+
+  食味社
+  在繁忙的缝隙中
+  脱离现实的陆地
+  在盘子里呈现出
+  为彼此的灵感和心
+
+  让南北的隔阂在口中化为乌有
+  碗碟里不乏珍馐
+  让异乡的游子
+  能得温暖饱足
+
+    ——Syokumi Culinary
+</text>
+
+<swiper class="card-swiper round-dot" indicator-dots="true" circular="true" autoplay="true" interval="5000" duration="500" bindchange="cardSwiper" indicator-color="#8799a3" indicator-active-color="#0081ff" style="margin-top:-30rpx;">
+  <swiper-item wx:for="{{swiperList}}" wx:key="id" class="{{cardCur==index?'cur':''}}">
+    <view class="swiper-item">
+      <image src="{{item.url}}" mode="aspectFill" wx:if="{{item.type=='image'}}"></image>
+      <video src="{{item.url}}" autoplay loop muted show-play-btn="{{false}}" controls="{{false}}" objectFit="cover" wx:if="{{item.type=='video'}}"></video>
+    </view>
+  </swiper-item>
+</swiper>
+<text class="annotation">创始人的作品</text>
+<text class="basic" decode="{{true}}" style="margin-top:-20rpx;  margin-bottom:0rpx;">
+【活动形式】
+&ensp;-&ensp;社团成员聚在一起烹饪、品尝和研讨美食
+&ensp;-&ensp;烹饪类
+</text>
+<text class="indent1" style="font-size:smaller">
+1. 主题活动
+</text>
+<text class="indent2" style="font-size: smaller;">
+根据世界上著名的菜系将一学期的活动分成不同的主题，社员之间讨论选择有代表性的美食，在社团活动中研究做法。比如意大利菜，法式料理，日本料理等
+</text>
+<text class="indent1" style="font-size:smaller">
+2. 团队料理竞赛
+</text>
+<text class="indent2" style="font-size: smaller;">
+分成两队，在不同的厨房中，用相同的食材设计料理，用不同的烹饪方法展现食材的魅力。
+</text>
+
+
+<text class="basic" decode="{{true}}" style="margin-top:-20rpx;  margin-bottom:0rpx;">
+
+&ensp;-&ensp;烘培类
+</text>
+<text class="indent1" style="font-size:smaller;">
+想要了解烘焙的大家一起烤些简单的蛋糕，制作些有趣的饼干，快快乐乐聊聊天了解一下烘焙要准备些什么工具和材料。
+
+有烘焙经验的大家进行技巧交流，单品改良，和一些技术的尝试(喷砂，淋面，豆沙裱花) <text style="color:  #eeeeee">(有翻糖大佬嘛！)</text>
+</text>
+
+
+
+<text class="basic" decode="{{true}}" style="margin-top:-20rpx;">
+
+【招新对象】
+&ensp;-&ensp;喜欢美食并热爱分享烹饪过程的GT学生
+&ensp;-&ensp;能够帮忙收拾厨房
+
+【活动时间】
+&ensp;-&ensp;烹饪两周一次
+&ensp;-&ensp;烘焙不定期，大约一个半月一次
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/ShiWeiShe4.png" style="width:650rpx; height: 870rpx; margin-left: 55rpx; margin-right: 55rpx;" alt="ShiWeiShe4"></image>
+<text class="annotation">由食味社成员制作</text>
+
+<text class="basic" decode="{{true}}" style="margin-top:-20rpx;">
+
+【创始人介绍】
+&ensp;-&ensp;徐轶华
+</text>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/ShiWei_ChuangShiRen1.png" style="width:650rpx; height: 455rpx; margin-left: 55rpx; margin-right: 55rpx;margin-top: -40rpx;" alt="ShiWei_ChuangShiRen1"></image>
+
+<text class="indent1" decode="{{true}}">
+&ensp;-&ensp;Math + HTS 22
+&ensp;-&ensp;热爱做饭，吃饭<text style="color:#eeeeee;font-size:small">（从我日益渐胖的体型可以看出来）</text>
+</text>
+<text class="basic" decode="{{true}}">
+&ensp;-&ensp;杨宇轩 Kevin
+</text>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/ShiWei_ChuangShiRen2.png" style="width:650rpx; height: 455rpx; margin-left: 55rpx; margin-right: 55rpx;margin-top: -40rpx;" alt="ShiWei_ChuangShiRen2"></image>
+
+<text class="indent1" decode="{{true}}">
+&ensp;-&ensp;ECE 22
+&ensp;-&ensp;爱好很多，喜欢摄影，HiFi，钢笔，吉他，尤克里里，台球羽毛球，但最看重和大家在一起的时光。
+</text>
+<text class="basic" decode="{{true}}">
+&ensp;-&ensp;李熹
+</text>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/ShiWei_ChuangShiRen3.png" style="width:650rpx; height: 455rpx; margin-left: 55rpx; margin-right: 55rpx;margin-top: -40rpx;" alt="ShiWei_ChuangShiRen3"></image>
+</view>
+<text class="indent1" decode="{{true}}">
+&ensp;-&ensp;EE 22
+&ensp;-&ensp;一枚甜食狗，无甜不欢，慕斯蛋糕点了专精，马卡龙从未成功，爱提拉米苏爱的深沉
+</text>

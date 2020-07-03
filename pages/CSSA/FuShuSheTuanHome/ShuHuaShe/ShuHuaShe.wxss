@@ -18,3 +18,17 @@
   font-size: xx-small;
   color: #aaaaaa;
 }
+
+.indent1 {
+  margin-left: 75rpx; 
+  display:flex;
+  margin-right: 50rpx;
+  margin-top: -20rpx
+}
+
+.indent2 {
+  margin-left: 100rpx; 
+  display:flex;
+  margin-right: 50rpx;
+  margin-top: -20rpx
+}

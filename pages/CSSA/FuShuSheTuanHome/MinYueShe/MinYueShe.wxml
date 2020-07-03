@@ -19,18 +19,29 @@
 &emsp;&emsp;欢迎喜爱民乐并且有一定民乐基础的同学加入我们社团！同时也欢迎演奏其他类型乐器的同学积极报名，参与合奏～
 
 【创始人介绍】
-&ensp;-&ensp;胡天雪&ensp;Tess
-&emsp;&ensp;-&ensp;MS Music Technology
-&emsp;&ensp;-&ensp;前明尼苏达大学民乐社社长
-&emsp;&ensp;-&ensp;演奏古筝等多种弦乐器
-
 &ensp;-&ensp;陈曦&ensp;Chelsea
-&emsp;&ensp;-&ensp;CS 22
-&emsp;&ensp;-&ensp;乐器-扬琴（这是一种琴）
-&emsp;&ensp;-&ensp;前北京市五中金帆乐团扬琴首席声部长
-&emsp;&ensp;-&ensp;前北京市青年乐团扬琴首席、团长
-&emsp;&ensp;-&ensp;曾获得多次国家级独奏和团体比赛第一名
-&emsp;&ensp;-&ensp;欢迎对扬琴和民乐兴趣的小天使来找我玩儿！
+</text>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/ShuHua_ChuangShiRen1.png" style="width:650rpx; height: 641rpx; margin-left: 55rpx; margin-right: 55rpx; margin-top: -40rpx;" alt="ShuHuaSheChuangShiRen1"></image>
+
+<text class="indent1" decode="{{true}}">
+&ensp;-&ensp;CS 22
+&ensp;-&ensp;乐器-扬琴（这是一种琴）
+&ensp;-&ensp;前北京市五中金帆乐团扬琴首席声部长
+&ensp;-&ensp;曾获得多次国家级独奏&团体比赛第一名
+&ensp;-&ensp;欢迎对扬琴和民乐兴趣的小天使来找我玩儿！
+</text>
+<text class="basic" decode="{{true}}">
+&ensp;-&ensp;胡天雪 Tess
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/ShuHua_ChuangShiRen2.png" style="width:650rpx; height: 650rpx; margin-left: 55rpx; margin-right: 55rpx; margin-top: -40rpx;" alt="ShuHuaSheChuangShiRen2"></image>
+<text class="annotation" decode="{{true}}" style="color: #eeeeee;">假装有个很帅的人</text>
+
+<text class="indent1" decode="{{true}}">
+&ensp;-&ensp;MS Music Technology
+&ensp;-&ensp;前明尼苏达大学民乐社社长，演奏古筝等多种弦乐器
+</text>
+<text class="basic" decode="{{true}}" style="margin-top:-20rpx;">
 
 【创始人的话】
 &emsp;&emsp;大家好！我们是民乐团(Chinese Music Club)，目前乐团里有古筝，二胡，琵琶，扬琴等，欢迎喜爱民乐并且有一定民乐基础的同学加入我们社团！同时也欢迎演奏其他类型乐器的同学积极报名，参与合奏～

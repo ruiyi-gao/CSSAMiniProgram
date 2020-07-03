@@ -5,7 +5,19 @@ Page({
    * Page initial data
    */
   data: {
-
+    swiperList: [{
+      id: 0,
+      type: 'image',
+      url: 'https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/test1.PNG'
+    }, {
+      id: 1,
+      type: 'image',
+        url: 'https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/test2.PNG',
+    }, {
+      id: 2,
+      type: 'image',
+        url: 'https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/test3.PNG'
+    }]
   },
 
   /**
