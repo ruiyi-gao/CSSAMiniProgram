@@ -83,7 +83,7 @@
 【创始人介绍】
 &ensp;-&ensp;徐轶华
 </text>
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/ShiWei_ChuangShiRen1.png" style="width:650rpx; height: 455rpx; margin-left: 55rpx; margin-right: 55rpx;margin-top: -40rpx;" alt="ShiWei_ChuangShiRen1"></image>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/ShiWei_ChuangShiRen1.png" style="width:650rpx; height: 650rpx; margin-left: 55rpx; margin-right: 55rpx;margin-top: -40rpx;" alt="ShiWei_ChuangShiRen1"></image>
 
 <text class="indent1" decode="{{true}}">
 &ensp;-&ensp;Math + HTS 22
@@ -92,7 +92,7 @@
 <text class="basic" decode="{{true}}">
 &ensp;-&ensp;杨宇轩 Kevin
 </text>
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/ShiWei_ChuangShiRen2.png" style="width:650rpx; height: 455rpx; margin-left: 55rpx; margin-right: 55rpx;margin-top: -40rpx;" alt="ShiWei_ChuangShiRen2"></image>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/ShiWei_ChuangShiRen2.png" style="width:650rpx; height: 650rpx; margin-left: 55rpx; margin-right: 55rpx;margin-top: -40rpx;" alt="ShiWei_ChuangShiRen2"></image>
 
 <text class="indent1" decode="{{true}}">
 &ensp;-&ensp;ECE 22
@@ -101,9 +101,10 @@
 <text class="basic" decode="{{true}}">
 &ensp;-&ensp;李熹
 </text>
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/ShiWei_ChuangShiRen3.png" style="width:650rpx; height: 455rpx; margin-left: 55rpx; margin-right: 55rpx;margin-top: -40rpx;" alt="ShiWei_ChuangShiRen3"></image>
-</view>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/ShiWei_ChuangShiRen3.png" style="width:650rpx; height: 650rpx; margin-left: 55rpx; margin-right: 55rpx;margin-top: -40rpx;" alt="ShiWei_ChuangShiRen3"></image>
+
 <text class="indent1" decode="{{true}}">
 &ensp;-&ensp;EE 22
 &ensp;-&ensp;一枚甜食狗，无甜不欢，慕斯蛋糕点了专精，马卡龙从未成功，爱提拉米苏爱的深沉
 </text>
+</view>

@@ -8,15 +8,15 @@ Page({
     swiperList: [{
       id: 0,
       type: 'image',
-      url: 'https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/test1.PNG'
+      url: 'https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/ShiWeiShe1.png'
     }, {
       id: 1,
       type: 'image',
-        url: 'https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/test2.PNG',
+        url: 'https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/ShiWeiShe2.png',
     }, {
       id: 2,
       type: 'image',
-        url: 'https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/test3.PNG'
+        url: 'https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/ShiWeiShe3.png'
     }]
   },
 
