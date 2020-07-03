@@ -25,9 +25,7 @@
 <image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/ShuHuaZuoPin.png" style="width:650rpx; height: 650rpx; margin-left: 55rpx; margin-right: 55rpx;" alt="abscd"></image>
 <text class="annotation" decode="{{true}}">Chelsea大触的作品展示</text>
 
-
 <text class="basic" decode="{{true}}" style="margin-top:-20rpx;">
-
 【活动形式】
 书法部
 &ensp;-&ensp;毛笔书法、硬笔书法、篆刻
@@ -58,13 +56,24 @@
 
 【创始人介绍】
 &ensp;-&ensp;陈曦&ensp;Chelsea
+</text>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/ShuHua_ChuangShiRen1.png" style="width:650rpx; height: 641rpx; margin-left: 55rpx; margin-right: 55rpx; margin-top: -40rpx;" alt="ShuHuaSheChuangShiRen1"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top:-20rpx;">
 &emsp;&ensp;-&ensp;CS 22
 &emsp;&ensp;-&ensp;美术部负责人，有电子绘图与海报制作的经验。
 &emsp;&ensp;-&ensp;目前在cssa宣传部负责活动海报与周边设计。
 &emsp;&ensp;-&ensp;欢迎来找我一起搞纸片人！
-&emsp;&ensp;-&ensp;不是大佬<text style="font-size: xx-small;margin: 0;color: #dddddd">（小编默默打出一个？）</text>请多指教！（´･ω･`）
+&emsp;&ensp;-&ensp;不是大佬<text style="color: #eeeeee">（小编??？）</text>请多指教！（´･ω･`）
 
 &ensp;-&ensp;李俊键 Leo
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/ShuHua_ChuangShiRen2.png" style="width:650rpx; height: 650rpx; margin-left: 55rpx; margin-right: 55rpx; margin-top: -40rpx;" alt="ShuHuaSheChuangShiRen2"></image>
+<text class="annotation" decode="{{true}}" style="color: #eeeeee;">假装有个很帅的人</text>
+
+
+<text class="basic" decode="{{true}}" style="margin-top:-20rpx;">
 &emsp;&ensp;-&ensp;MSE 22
 &emsp;&ensp;-&ensp;书法部负责人，五岁开始练习书法，最喜欢隶书
 &emsp;&ensp;-&ensp;书法八级，全国书法协会会员
