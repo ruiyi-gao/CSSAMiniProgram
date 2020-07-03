@@ -1,2 +1,58 @@
-<!--pages/freshman_manual/XiaoYuanZhouBian/ChiHe/ZhengCan/Wagaya/Wagaya.wxml-->
-<text>Wagaya</text>
+<view class="bg_wrap">
+
+<text class="title">Wagaya</text>
+
+<text class="basic" decode="{{true}}" style="margin-bottom: 0rpx;">
+【关键词】
+#日料
+
+【地址】
+339 14th St NW, Atlanta, GA 30318
+
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/wagaya_1.png" style="width: 650rpx; height:358.7rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx; margin-bottom: 0rpx;">
+【气氛】
+装修很日式，就如所有日料店一样有些昏暗。可以在寿司吧台看到师傅切鱼片，但是吧台不设置座位所以一般就没人围观了。
+
+【食物】
+作为wagaya资深玩家，几乎刷过菜单上的所有大类的菜品。总体上我觉得这是一家非常合格的日料店！菜品丰富口味可圈可点。我们先从最常点的套餐说起。
+
+我个人最爱的套餐是sashimi&udon，直译过来就是生鱼片和乌冬。对于一个人去或者同行小伙伴不喜欢吃生食的姑娘来说，这个套餐是再适合不过了。乌冬很劲道，酱油汤也不会太咸。生鱼片由两片三文鱼，两片金枪鱼，两片魳鱼构成，用来解馋足矣。除了乌冬和刺身外还有两个稻荷寿司以及蔬菜天妇罗。（豆腐皮包裹醋饭真是绝配啊啊啊）
+
+对于饭量大的同学我会推荐ramen&katsu，chuka和traditional三种套菜。Traditional会包含刺身，其余两种都包含拉面。他们的特点可以用五个字概括：肉多碳水足。男生一个人去吃一套也可以顶饱了。大家可以根据自己喜欢的荤食种类选择到底吃哪一套。值得一提的是chuka里的日式煎饺很好吃的！
+
+如果你想减肥但还是忍不住吃日料的话，那就与你的朋友一起快乐然后后悔。或者！选择在中午去吃rolls套餐吧，tofu salad的味道还是不错的。虽然我还是不推荐去吃因为要么你会在餐桌上被拉面的香气或者刺身的色泽馋死。要么你就会回归快乐:)（亲测）
+
+套餐比较适合选择困难症或者第一次去觉得一大本菜单眼花缭乱的同学，但如果你对于日料中的某个种类有着很明确的偏好，那么单点吧少年！\n
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/wagaya_4.png" style="width: 650rpx; height:360rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
+我特别喜欢wagaya家的tonkutsu拉面，虽然和jinya还有些差距，但是就在学校旁边啊！相当于足不出校就可以吃到相对正宗的拉面。而且对于我这类拉面加爆蒜泥星人，每一份拉面旁配的蒜泥罐绝对让我加满印象分！我个人只尝试过black，因为比较重口一些，听说white也很不错的。但我觉得red还是不要尝试了吧哈哈哈，日式拉面加辣总有种违和感。如果又想吃简单的寿司小卷又想吃拉面的话，wagaya也很贴心地推出了combo。
+
+单点寿司这样的任务绝对不适合选择恐惧症食客。Classic roll里california和avocado salmon都还可以的。Signature我们试过yellow jacket, (可能是因为school pride以及我怀疑emory那里的wagaya有没有这道菜)，意外好吃！是熟食，里面是蟹肉和天妇罗。感觉寿司盲点也不会太踩雷，但因为我除了稻荷寿司以外对任何寿司都不感冒，所以没有尝试更多的种类。
+
+单点刺身的话除非你和你的同行者都是刺身控，那可以考虑点一个刺身拼盘。我觉得味道和新鲜度都算中规中矩吧，没有特别惊艳但是可以适当解馋。如果你有特别喜欢的刺身种类可以单点，不过价格也不算便宜。
+
+甜品甜品我吹爆！如果大于等于两个人一起去就一定要尝试matcha box！抹茶冰激凌配上红豆的绵密口感，甜而不腻。还有mochi拼盘，摆盘很漂亮也很好吃。饭类我没有亲自尝试过，但是我的朋友们似乎没有给出很高的评价。
+
+虽然大家一般都不会有胃口点小食，但是我们勇于尝试不同的菜品！事实证明这是错误的选择，初体验的话我建议还是点套餐起码不会踩雷：）章鱼小丸子中规中矩。牛舌绝对踩雷！号称芥末章鱼的也不是你记忆中的芥末章鱼。还有一个和yellowtail相关的看不懂的菜，以为是烤鱼之类的，结果是风味生鱼片。打扰了。
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/wagaya_3.png" style="width: 650rpx; height:360rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top:0rpx;">
+【就餐Tips】
+1. 如果大于两个人一起去吃的话，一定要尽早去！要么就等午市快结束的两点左右去，如果你和你的朋友都幸运都拥有整个空闲下午的话：）注意两点以后基本就不能进场啦
+
+2. 喝水的时候可以问服务员要吸管
+
+3. 如果是weekday的白天，你的时间又很充裕的话，可以坐green route到14thstreet下。如果是周末白天的话可以和小伙伴们一起走过去。但一旦天黑了就千万别再犹豫，一是这个点肯定没有校车了，二是回学校的路会经过大名鼎鼎的home park，所以如果你不想让这顿日料吃上天价还是乖乖打车回家吧。
+
+—— by Claire
+</text>
+</view>

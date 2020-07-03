@@ -1,2 +1,45 @@
-<!--pages/freshman_manual/XiaoYuanZhouBian/ChiHe/ZhengCan/Barcelona/Barcelona.wxml-->
-<text>Barcelona Wine Bar</text>
+<view class="bg_wrap">
+
+<text class="title">Barcelona Wine Bar</text>
+
+<text class="basic" decode="{{true}}" style="margin-bottom: 0rpx;">
+【关键词】
+#西班牙菜
+
+【地址】
+1085 Howell Mill Road NW, Atlanta, GA 3031
+
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Barcelona_environment.png" style="width: 650rpx; height:349rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
+【简介】
+Barcelona是一家连锁的西班牙餐厅～ 亚特兰大有两家，而GT的同学们非常幸运，其中一家在学校West Campus步行便可到达。
+
+【气氛】
+餐厅分成室内和室外两部分。强烈建议大家选一个风和日丽的日子邀上几位朋友去Barcelona坐室外吃晚餐，一边享受美食一边欣赏落日，微风徐徐，别提多惬意了。室内也不将就，点点烛光营造出温暖而舒适的环境，几张卡座也特别适合聚餐聊天。
+
+【食物】
+菜单有很多Charcuterie & Cheese Platter自由组合！喜欢Cheese并想尝试西班牙特色的朋友有口福啦！年满二十一的朋友还可以点上小酒搭配享用哦～
+
+和大部分西班牙餐厅一样，Barcelona提供了许多Tapas，小却精口感细致。推荐Grilled Lamb Merguez和Hanger Steak。Hanger Steak算是他们家的MUST，steak很嫩，搭配浇在上面的松露酱汁享用更赞，但不喜欢松露味道的朋友还是绕道吧哈哈。Grilled Lamb Merguez很特别，是两根羊肉肠搭在鹰嘴豆和smoked yogurt上，smoked yogurt口感很creamy，既可以解腻又可提味。Tapas真的种类繁多，每家西班牙餐厅还有自己的特色Tapas，很值得多做各种尝试～
+
+重头戏当然是人尽皆知的西班牙烩饭（Paella）啦！它在To-share里面，因为大家可以看着自己的饭量点对应的分量，吃的少的朋友可以三四个人点二到三人份。Paella有海鲜的、猪肉的、和vegan-friendly的选择。个人很喜欢Paella Mariscos（海鲜），海鲜包括了mussels, prawns, squid and clams，真的非常非常赞！当那一锅热腾腾的海鲜饭端上桌，扑鼻的鲜味迎面而来，香料和高汤非常用心，海鲜非常入味，每一粒米饭也都浸透着浓浓的酱香气，香甜多汁。闭上眼睛，仿佛置身西班牙海边小镇街头，感受着各种香味在口中的层层冲击与融合～
+
+甜点非常偏爱Olive Oil Cake～本来看到这个Cake抱着好奇的心态尝鲜，以为会挺黑暗，但没想到一点也没有油腻感，软糯的蛋糕沁着Olive的芬香，蛋糕顶撒的粒粒海盐可谓点睛之笔。可能小编真的很喜欢他们家的Olive Oil了吧哈哈，很值得一试！
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Barcelona_food.png" style="width: 650rpx; height:349rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top:0rpx;">
+【就餐Tips】
+1. 饭点餐厅人会非常多，所以请务必提前网上或者电话预约，可以提前预定想要的座位。
+
+2. 服务员会在一开始询问需不需要bread, 建议点一下，现烤的bread搭配着橄榄油（真的特别特别喜欢他们家的橄榄油，有种独特的清香），等待食物时候开胃用再好不过。
+
+3. 由于饭点店内人流很多，有几分嘈杂，建议各位放开嗓门聊天。
+
+—— by Stella
+</text>
+</view>
