@@ -5,3 +5,9 @@
   margin-bottom: 10rpx;
   display: flex;
 }
+
+.center {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}

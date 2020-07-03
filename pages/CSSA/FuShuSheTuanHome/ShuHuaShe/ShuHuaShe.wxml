@@ -1,6 +1,5 @@
 <view class="bg_wrap">
 
-<text class="title">附属社团之书画社</text>
 <text class="title, center">AC社</text>
 <text class="center">Art & Caligraphy Club</text>
 
@@ -23,7 +22,7 @@
 ☆✧❤
 </text>
 
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/ShuHuaZuoPin.png" style="width:650rpx; height: 455rpx; margin-left: 55rpx; margin-right: 55rpx;" alt="abscd"></image>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/ShuHuaZuoPin.png" style="width:650rpx; height: 650rpx; margin-left: 55rpx; margin-right: 55rpx;" alt="abscd"></image>
 <text class="annotation" decode="{{true}}">Chelsea大触的作品展示</text>
 
 

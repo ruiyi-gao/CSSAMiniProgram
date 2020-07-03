@@ -5,3 +5,8 @@
   font-size: smaller;
   margin-top: -5rpx;
 }
+.center {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}

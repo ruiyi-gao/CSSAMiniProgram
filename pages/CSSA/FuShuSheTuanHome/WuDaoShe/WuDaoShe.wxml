@@ -1,2 +1,52 @@
-<!--pages/CSSA/FuShuSheTuanHome/WuDaoShe/WuDaoShe.wxml-->
-<text>pages/CSSA/FuShuSheTuanHome/WuDaoShe/WuDaoShe.wxml</text>
+<view class="bg_wrap">
+
+<text class="title">5千舞蹈社</text>
+<text class="center">5k Dance Team</text>
+<text class="basic" decode="{{true}}" style="margin-top: 50rpx;">
+夏天要到了，想不想拥有<text style="font-weight: bold;">腹肌马甲线？</text>
+用跳舞来锻炼身体，不仅能get到新的技能，还能让身体更灵活，线条更好看。
+快来参加GT的舞社吧！
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/WuDaoShe.png" style="width:650rpx; height: 455rpx; margin-left: 55rpx; margin-right: 55rpx;" alt="abscd"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top:-20rpx;">
+
+【舞种类型】
+&ensp;-&ensp;中国舞
+&ensp;-&ensp;芭蕾
+&ensp;-&ensp;街舞
+&ensp;-&ensp;urban
+&ensp;-&ensp;hiphop
+&ensp;-&ensp;爵士
+
+【活动地点】
+&ensp;-&ensp;CRC 4 楼 studio
+
+【活动形式】
+&ensp;-&ensp;每周末CRC排练1-2小时
+&ensp;-&ensp;学的舞蹈由大家<text style="font-weight:bold">投票决定</text>
+&ensp;-&ensp;不同舞种由不同创始人带领教学
+&emsp;&ensp;<text style="font-size: smaller;color: #aaaaaa">- 中国舞/芭蕾：傅嘉宁</text>
+&emsp;&ensp;<text style="font-size: smaller;color: #aaaaaa">- 街舞：王敬泊，王佳宁</text>
+
+【招新对象】
+&ensp;-&ensp;任何对舞蹈感兴趣的同学
+&ensp;-&ensp;年龄不限，性别不限，基础不限！
+
+【创始人介绍】
+&ensp;-&ensp;傅嘉宁
+&emsp;&ensp;-&ensp;大二CS专业
+&emsp;&ensp;-&ensp;有中国舞和芭蕾舞的舞蹈功底
+
+&ensp;-&ensp;王佳宁
+&emsp;&ensp;-&ensp;大二CS专业
+&emsp;&ensp;-&ensp;街舞方面更擅长爵士
+
+&ensp;-&ensp;王敬泊
+&emsp;&ensp;-&ensp;大四CS专业
+&emsp;&ensp;-&ensp;有old school 的舞蹈功底
+&emsp;&ensp;-&ensp;擅长hiphop和urban的舞蹈
+
+</text>
+</view>

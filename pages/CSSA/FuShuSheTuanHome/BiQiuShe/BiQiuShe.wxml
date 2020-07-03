@@ -1,6 +1,7 @@
 <view class="bg_wrap">
 
-<text class="title">附属社团之壁球社</text>
+<text class="title">壁球社</text>
+<text class="center">Squash Club</text>
 <text class="basic" decode="{{true}}" style="margin-top: 50rpx;">
 壁球是一项室内球拍型运动，起源于英国。
 和大多数体育项目比起来算小众，但是其锻炼性，技巧性和趣味性突出。
@@ -8,8 +9,6 @@
 </text>
 
 <image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/SquashImage.png" style="width:650rpx; height: 455rpx; margin-left: 55rpx; margin-right: 55rpx;" alt="squash"></image>
-
-<text class="annotation" decode="{{true}}">图片源自网络</text>
 
 <text class="basic" decode="{{true}}" style="margin-top:-20rpx;">
 【活动地点】
@@ -31,7 +30,7 @@
 &ensp;-&ensp;袁超
 </text>
 <image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/BiQiuSheZhang.png" style="width:650rpx; height: 455rpx; margin-left: 55rpx; margin-right: 55rpx;margin-top: -40rpx;" alt="abscd"></image>
-<text class="annotation" decode="{{true}}">社长大大的大头贴</text>
+<text class="annotation" decode="{{true}}" style="color: #eeeeee;">社长大大的大头贴</text>
 
 <text class="basic" decode="{{true}}" style="margin-top:-20rpx">
 &emsp;&ensp;-&ensp;曾在国内接触和学习壁球

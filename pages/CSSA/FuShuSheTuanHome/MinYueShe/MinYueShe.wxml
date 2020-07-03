@@ -1,6 +1,7 @@
 <view class="bg_wrap">
 
-<text class="title">附属社团之民乐社</text>
+<text class="title">民乐社</text>
+<text class="center">Chinese Music Club</text>
 <text class="basic" decode="{{true}}" style="margin-top: 50rpx;">
 “高山流水琴三弄，清风明月酒一樽。” 
 我们期待与有意加入的小伙伴早日相遇，以琴会友，忆古思今！
