@@ -1,2 +1,214 @@
-<!--pages/freshman_manual/ZhuSu/XiaoNei/East/East.wxml-->
-<text>pages/freshman_manual/ZhuSu/XiaoNei/East/East.wxml</text>
+<view class="bg_wrap">
+
+<text class="title">本科新生宿舍之西校区</text>
+<text class="basic" decode="{{true}}">
+校内宿舍/公寓的申请都统一在学校官网上进行，更多详细的信息内容也可以参考housing官网：https://housing.gatech.edu/
+\n
+注意要点：
+1.Freshman experience的很多楼都是两栋相连的，互相拥有进入权限。为避免赘述，下文将一并介绍。
+2.on campus 住宿的宿舍价格都不会相差很多，但llc会额外多收费用以用来组织活动
+</text>
+
+<!--Brown-->
+<text class="basic" decode="{{true}}" style="margin-bottom: 0rpx;">
+【Freshman Experience】 
+注意: 以下宿舍只向大一新生开放申请
+
+No.1 Brown
+
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Brown.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx; margin-bottom: 0rpx;">
+[地理位置]
+离North Ave 和Brittain dining Hall非常近，离球场也很近，看各种球赛比较方便。校车方面有Red route和Blue route 经过，交通很便利。
+
+[基础设施]
+每一层都有厨房，学习室，vending machine（零食饮料贩卖机器），三楼从周日到周四有tutor（课余辅导），使用Brittain Rec的洗衣房和打印机。
+</text>
+
+<!--Cloudman-->
+<text class="basic" decode="{{true}}" style="margin-bottom: 0rpx;">
+No.2 Cloudman\n
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Cloudman.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
+[地理位置]
+Cloudman是Grand challenges指定要住的楼，我们这一届GC扩招了一倍多的人，所以在之前howell的基础上又加了一个cloudman作为宿舍楼。
+
+作为东边的宿舍之一，住在Cld的话上学也是要爬freshmen hill的。很陡，很练体力，但每天能在freshmen hill上看到各种滑板街头表演。因为Cld在baseball stadium旁边，有比赛的时候在宿舍学习是不可能的，会很吵，宿舍前的街上也会有很多人聚集，这种时候建议去Clough或者图书馆学习。
+
+[基础设施]
+Cld算是东边最小的几个宿舍之一了，一整层大概也就十几个屋子（和西边那种巨型宿舍们比起来简直是瑟瑟发抖）。Cld没有电梯，不过我们当时女生被分配住在一层，男生在高层，所以没有电梯搬运行李也不会有很大的困难。Cld的底层和顶层各有一个study lounge，主要是方便大家进去讨论自己组的project。Study lounge的墙做过比较特殊的处理，可以直接用白板笔往上写写画画，还挺不错的。Cld作为规模小一点的宿舍最大的好处是大家都认识。因为我们宿舍的人都在一起上一个GC指定要上的课，每周会见两次面，所以大概半个多学期之后和这一层的所有人都熟到见面打招呼不需要特别去想名字了（而且我还是个脸盲）。
+
+Cld比较好的地方就是上述的这样，整个community的氛围很好，跟大家的关系也会比较近（因为一共没几个人呀）。但与此同时，因为是学校最老的一批宿舍，条件就不如西边的新宿舍们好。宿舍里是会过蟑螂的（因为cld挨着Brittain Dinning Hall），整体环境也不会显得很新。说到挨着一个dinning hall，还是非常方便的。大家都知道大一是会强制你买一天四个meal swipe的，但很多时候我都用不完swipe，离的近的话晚上饿了就可以直接出去到食堂拿点吃的。（下雨天也不用打伞就能去，因为过道是连着的）
+
+—— By Chloe
+</text>
+
+<!--Field-->
+<text class="basic" decode="{{true}}" style="margin-bottom: 0rpx;">
+No.3 Field\n
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Field.png" style="width: 650rpx; height:469rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
+[地理位置]
+离Brittain走路需两分钟，离North Ave 走路需5分钟,.附近就有Red 和Blue route，交通方便.
+
+[基础设施]
+一楼和三楼有厨房，每一层都有学习室，底层的学习室比较大，与Perry 共用健身房，与hopkins 共用洗衣房。
+</text>
+
+<!--Glenn-->
+<text class="basic" decode="{{true}}" style="margin-bottom: 0rpx;">
+No.4 Glenn\n
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Glenn.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
+[地理位置]
+距离Brittain 2分钟，North Ave 4分钟，吃早餐非常方便（周末东边只有NA开门）。可以从宿舍直接进入Gt Connector（有几个小教室）。离教学楼位置适中，离图书馆很近。距离CRC非常远，但是出门有blue和red站，交通方便。东边停车位很难申请，离各路frat house（兄弟会房子）很近。
+
+[基础设施]
+房间偏小，但刚翻新。浴室，洗手间正常。洗衣房就在宿舍里，厨房和study lounge较小。
+</text>
+
+<!--Hanson-->
+<text class="basic" decode="{{true}}" style="margin-bottom: 0rpx;">
+No.5 Hanson\n
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Hanson.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
+[地理位置]
+离Brittain走路两分钟，可以搭乘校车去CRC，离露天篮球场，兄弟会和图书馆都非常近。
+
+[基础设施]
+房间比较旧，1楼和3楼有厨房。可使用Perryhall的健身器材；与Hopkins 共用洗衣房。
+</text>
+
+<!--Harrison-->
+<text class="basic" decode="{{true}}" style="margin-bottom: 0rpx;">
+No.6 Harrison\n
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Harrison.png" style="width: 650rpx; height:758rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
+[地理位置]
+离North Ave也很近，离图书馆不远但是爬Freshman Hill很累。宿舍不远处设有Blue route和Red route站点，上课还比较方便。
+
+[基础设施]
+楼下就是Brittain食堂和洗衣房，新旧适中，但是我所在的房间可能因为地理原因都特别冷以致于我夏天都想穿棉袄。两人间不知道大小,四人间比较大的。厨房较小，卫生间就是公共卫生间。二楼女生宿舍有一个比较大的StudyLounge。
+</text>
+
+<!--Hopkins-->
+<text class="basic" decode="{{true}}" style="margin-bottom: 0rpx;">
+No.7 Hopkins\n
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Hopkins.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
+[地理位置]
+距离图书馆5分钟，Brittain 两分钟，northave  五分钟路程，离CRC比较远，出门就有red 和blue route，交通方便
+
+[基础设施]
+有自己的洗衣房，洗衣服比较方便，有健身房，每一层都有学习室，1楼和3楼有厨房。
+</text>
+
+<!--Howell-->
+<text class="basic" decode="{{true}}" style="margin-bottom: 0rpx;">
+No.8 Howell\n
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Howell.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
+[地理位置]
+离 North Ave, Brittain Dining Hall 都很近。离球场和 Frat House 也近，但相对附件的宿舍来说，也算最远的。比较理想，去球场和 Frat House 不需要走太远，但有活动时候又不至于打扰。在一个马路旁边，平时不算太吵，叫 uber eats 贼方便。过了马路离 Fox Theater，Varsity 也很近。Midtown 也是只需要走个十几分钟就到了。去各种学校学楼只离一个 freshman hill，比较简单好记，但怼难爬。遗憾的是离 CRC 和 West Village 比较远, 但附近有一个 Connector 有复习地方和健身设置。健身设备比较少，复习的地方平时不勤快的话也很难抢到。
+
+[基础设置]
+房间比较小（请拿起小本本记一下），也很旧。每一层楼都有自己的 lounge。第一楼的比较大，还有厨房和 3D 打印机。石板地。第一楼的房间会比较潮湿，可能会出现霉菌。空调控制方面也有点小问题。冬天有出现只因为不可调暖风而太热的情况。不过地下室有 vending machine，自己的打印机，还有一台电子琴。经常会有高手来弹，是一个很不错的环境。地下室里也有 wreck tech。电脑方面有问题很容易就可以去找他们修。地下室门外就是 Brittain Wreck，那里有洗衣房。有的时候教室没在用的话也会打开成为自习室。洗澡的水压比较大，但习惯了还是没问题的。
+
+—— By Helen
+</text>
+
+<!--Matheson-->
+<text class="basic" decode="{{true}}" style="margin-bottom: 0rpx;">
+No.9 Matheson\n
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Matheson.png" style="width: 650rpx; height:808rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
+[地理位置]
+Freshman Hill 山脚下，走路快的话走到CULC 5分钟，Howey （物理楼）十分钟， CRC 15分钟。 离NA和Brittain 2到3分钟，交通出门就是Blue Route， 走5分钟到5thstreet就有Tech Trolley。
+
+[基础设施]
+地下室无洗衣房，去Hopkins楼下洗衣只要走30秒。楼比较旧，但是房间是东边寝室最宽敞的。Lounge，厨房和Study都很大，楼下有健身房，无打印机，卫生间干净
+</text>
+
+<!--Perry-->
+<text class="basic" decode="{{true}}" style="margin-bottom: 0rpx;">
+No.10 Perry\n
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Perry.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
+[地理位置]
+离CULC十分钟路程，离CRC较远，楼下有Red和Blue route，交通方便，离Brittain 和North Ave 走路大约十分钟。    
+
+[基础设施]
+和Hopkins 公用一个laundry room，2、3，4 楼均有厨房，一楼有健身房，离各式兄弟会比较近,喜欢热闹的小伙伴可以住在这里，有较大的学习室，阳光充足，便于学习与娱乐。
+</text>
+
+<!--Smith-->
+<text class="basic" decode="{{true}}" style="margin-bottom: 0rpx;">
+No.11 Smith\n
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Smith.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
+[优点]
+在读到这里之前，你大概已经知道Smith是全学校名声最差的宿舍楼了，的确，当你告诉别人你住在Smith时，对方总会露出一股蜜汁笑容表示同情。不过客观来说，Smith还是一个可圈可点的地方。
+1.Smith地处North Avenue 和 Techwood Drive 交叉口的东北角，地理位置十分方便，到两个食堂（Brattain和North Ave）的距离是所有宿舍里面最近的，
+2.宿舍的community比较团结，大家都对这个地方有或多或少的不满，共同语言会比较多。
+3.有自己的gym，虽小但五脏俱全。 
+
+[缺点]
+但是，Smith的坏名声不是白来的，我简单列几个Smith饱受诟病的地方
+1.宿舍设施比较陈旧，但是并没有到不可接受的程度。不过房间里的空调制冷或制热由全楼统一控制，也没有温度控制的功能。
+2.宿舍南邻的North Ave是条主干道，车非常多，晚上会很吵（尤其各种消防车警车救护车），小伙伴们尽量不要选南向的房间。
+3.除了刷卡进宿舍大门之外，还需要拿房间钥匙开进入走廊的小门，一来二去回宿舍要开好几次门，比较麻烦。
+4.澡堂的设计非常奇怪：六个隔间只是简单地用帘子隔开而不是用墙，如此一来，进去洗澡的时候就必须经过其他隔间，如果那个隔间恰好有人，就……。不过实际操作中大家都很自觉地先用不和入口只有一帘之隔的隔间，真正看光的事情极少发生。
+
+—— By Yue
+</text>
+
+<!--Fulmer-->
+<text class="basic" decode="{{true}}" style="margin-bottom: 0rpx;">
+No.12 Towers\n
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Towers.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
+[地理位置]
+Towers和Glenn号称东边校内最好宿舍。出门左拐距离距离Brittain 2分钟，North Ave 4分钟，吃饭非常方便。里教学楼、图书馆也不远，步行五分钟左右（最近路线需要爬freshman hill）。交通很便利，出门就有校车red，blue和trolley的车站。离frat house很近。可以搭车去西校。
+
+[基础设施]
+Towers是2014年才翻新的，所以配置比较好，配有电梯，搬东西比较方便。一共4层（从Ground到Towers L3），每层都是男女混合住宿。每层配备一个洗衣间（4个洗衣机和6个烘干机），只要不是高峰期（比如周日晚上、假期最后一天、final期间），洗衣机还是比较够用的；一个lounge，lounge是开放式厨房和客厅混合设计；还有一个公共女洗手间一个公共男洗手间和一个特殊洗手间，洗手间空间比较大的，一般都不会不够用。最最方便的还是可以直接负一层通到GT connector（有几间study room，小型gym、打印机和vending machine）。整体来说房间空间较小，有双人间和四人间两种，四人间相当于两个连一起的双人间（没有门隔着，需要的同学需要自己装隔帘）。
+
+—— By Yihan   
+</text>
+</view>

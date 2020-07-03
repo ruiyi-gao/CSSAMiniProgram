@@ -10,10 +10,161 @@
 3.每栋楼的具体位置如图所示
 </text>
 
-<view style="padding-left: 60rpx;">
-  <image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/West_Campus_Map.PNG" style="width: 500rpx, height: 500rpx,"></image>
-</view>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/West_Campus_Map.PNG" style="width: 650rpx; height: 600rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
 
+<!--Armstrong-->
+<text class="basic" decode="{{true}}" style="margin-bottom: 0rpx;">
+【Freshman Experience】 
+注意: 以下宿舍只向大一新生开放申请
+
+No.1 Armstrong/Hefner (Honors Program)
+
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Armsrtong.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx; margin-bottom: 0rpx;">
+[地址]
+Armstrong: 498 Eighth St NW, Atlanta, GA 30318
+Hefner: 510 Eighth St NW, Atlanta, GA 30318
+
+[基础设施]
+Hefner 和 Armstrong 都是属于Honor Program LLC（Living Learning Community）的宿舍楼。两栋楼由中间的走廊连着，并且共用一个电梯。电梯出门左手边是Armstrong，右边是Hefner。因为是Honors Program，在G层电梯出门左侧会有Honors Program的管理层办公室。办公室旁边有一个小的钢琴房，里面有一架KAWAI的电子钢琴，在办公室工作时间，学生可以插着耳机练琴（工作人员下班后就可以放开弹啦）。房间里还有一个免费的打印机（其实也是花着自己交的经费）电梯的右手边是一个教室，某一些HP课的会在这里上，所以可以提前五分钟起床穿着睡衣去上课（HP的人是这么宣传的，有点夸张 大家还是好好穿衣服）。以及一个小的cafe，有几张学习的桌子和咖啡机，偶尔会有一些零食发放。cafe外的小门通出去就是West Village啦。洗衣房有courtyard对面的WeCo（设施相对老旧）不推荐， 一般去Fitten那个。
+
+[内部设施]
+1-2层楼都有自己的厨房，study lounge（有沙发电视和桌子），3层有一个巨大的lounge但是没有厨房。每层都有一个水压正常的公共浴室（5间）／厕所（4间），以及一个gender neutral的小厕所。
+</text>
+
+<!--Fulmer-->
+<text class="basic" decode="{{true}}" style="margin-bottom: 0rpx;">
+No.2 Fulmer\n
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Fulmer.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
+[地址]
+871 McMillan St NW, Atlanta, GA 30318
+
+[基础设施]
+Fulmer是一个traditional两人间的女生宿舍楼，地理位置非常好，这也是我当时选择住这里的原因，具体位置和内部和周围的设施请查看housing官网。
+
+[优点]
+Fulmer的卫生打扫得很干净！Fulmer的基础设施像空调、洗衣机、淋浴等在我住的期间也都没有坏过。厨房可以烧菜，有烤箱、微波炉、冰箱以及冰箱上的冰块机。每层楼都有两个直饮水机。虽然洗衣机一层楼只有一个，但除了周日下午人稍微多一点，其他时间都挺空的，所以基本的生活是肯定满足的。扔垃圾的话楼下就有一个大垃圾桶，挺方便的。
+
+[缺点]
+Fulmer没有电梯，搬宿舍的时候花了好长时间。Fulmer大部分洗手台的水流有点小，洗个脸要洗好久，浴室的水压又特别大，要是能综合一下就好了。厨房因为比较小，到了周末会非常挤，如果有两到三个同学同时做饭的话就会十分地乱了。
+
+—— By Yihan
+</text>
+
+<!--Fitten-->
+<text class="basic" decode="{{true}}" style="margin-bottom: 0rpx;">
+No.3 Fitten\n
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Fitten.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
+[地址]
+871 McMillan St NW, Atlanta, GA 30318
+
+[基础设施]
+Fitten宿舍与隔壁Montag, Freeman同属FFM community，门口就是校车（蓝/红线）车站，周末还有grocery shuttle可以到atlantic station。Fitten离西边食堂west village只要三分钟路程，对面是音乐楼，里面有琴房可以让同学们练琴（不过需要向music department买pass） 离CRC也很近，走到学校中心的教学楼大概要13分钟左右。
+
+[内部设施]
+Fitten是西边比较新的楼，所以基础设施都特别新，西边几个宿舍公用的洗衣房就在Fitten负一层，所以洗衣服可以足不出户，一层还有自己的打印机，楼内也有电梯，特别方便。Fitten房间蛮大的，两张床之间有间距合适，空调可以调温度。四层宿舍楼每层都有比较大的厨房，但tradeoff就是每层的study room特别小，只有一张小桌子和一个沙发，但是Fitten居民也可以刷进Montag楼下的大study lounge。楼内卫生间也很干净整洁，有4个卫生间和5个淋浴房，而且基本不会出现没热水的现象。总而言之Fitten是很好的宿舍，墙裂推荐。
+
+—— By YuJia
+</text>
+
+<!--Montag/Freeman-->
+<text class="basic" decode="{{true}}" style="margin-bottom: 0rpx;">
+No.4 Montag/Freeman\n
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Montag.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
+[地址]
+Montag: 845 McMillan St NW, Atlanta, GA 30318
+Freeman: 835 McMillan St NW, Atlanta, GA 30318
+
+[基础设施]
+FFM家庭成员。火警最多获奖者。这三个宿舍楼偶尔会共同举办一些小活动，比如小烧烤，发送冰淇淋等等，所以大家的往来社交也比较多，容易结识新朋友。Montag自己楼层内没有设立洗衣房，但隔壁fitten的负一层就设有洗衣房和大垃圾车，不到五分钟路程，扔垃圾和洗衣服都特别方便。北朝West Village食堂，南临学校体育馆CRC，两者路程也都在五分钟以内，让你不愁没时间吃饭和健身，学习之余身体也倍儿棒。虽然体育馆外的露天球场在秋季的晚上时不时会迎来学校鼓号队的排练，其实住在Montag的朋友不用担心，关紧窗户后一般都听不到声音。
+
+[内部设施]
+宿舍内部每层都配有公共厨房和公共卫生间，每天都有清洁人员打扫清理卫生，所以内部还是比较干净卫生的。除此之外，每层宿舍还有一间十来平方米的学习室，偶尔被宿管用来开楼层集会，平常学生可以在里面学习或者邀请朋友来party看电影，学习室的玻璃隔音效果很好，不会担心影响到楼层里其他同学。我们楼层日常也很安静，很适合大家窝在房间里补觉或者写作业。哦哦最后一点就是，大家在使用楼层的微波炉时一定要小心，因为厨房的烟雾探测器特别敏感，稍有一点焦味便会触发警铃，当你淋着浴或者做着梦突然被震耳的警铃轰出宿舍的体验还是很特别的。
+
+—— By Danni
+</text>
+
+<!--Folk/Caldwell-->
+<text class="basic" decode="{{true}}" style="margin-bottom: 0rpx;">
+No.5 Folk/Caldwell\n
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Folk.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
+[地址]
+Folk: 531 Turner Place NW, Atlanta, GA 30318
+Caldwell: 521 Turner Place NW, Atlanta, GA 30318
+
+[基础设施]
+这栋楼没有电梯，搬行李很不方便。楼下也有一个小的健身房，特别懒的时候就可以直接在楼下workout。楼的背后和旁边是停车场。离West Village（Dinning Hall）和Red ， Blue Route 站点5分钟路程，距离CRC很近，离洗衣房两分钟路程，距离Clough走路需要十五分钟，如果有课，建议提早出发 。有进入Caldwell的权限，Caldwell楼下从周日到周四有tutor。
+
+[内部设施]
+根据大家的观察，Folk&Caldwell的房间比其他宿舍大一点，房间比较宽敞，比较新。一二三楼有厨房和小lounge，我住四楼，没有厨房，但是有一个很大的lounge，可以学习，周末的时候很多人一起在里面看电影。当然，没有厨房的话，不会特别脏，噪音也比较小。每层楼卫生间都是公用的，会有黑哥哥定期来打扫，所以比较干净，24hr热水，冬天偶尔会出现水不太热的情况。Folk没有自带的洗衣房，需要过个小马路去Fulmer的一楼（小洗衣房），或者Fitten的大洗衣房。西边有两个大的learning center，一个在Montag楼下，还有一个在folk对面的Caldwell楼下，可以去自习。
+</text>
+
+<!--Woodruff-->
+<text class="basic" decode="{{true}}" style="margin-bottom: 0rpx;">
+No.6 Woodruff\n
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Woodruff.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
+[地址]
+890 Curran Street, NW, Atlanta, GA 30332
+
+[基础设施]
+woodruff south/north是学校最西边的宿舍，也是在最差宿舍比拼中有一战之力的。别称米奇妙妙屋。少有的优点就是四人共用的卫生间浴室，洗澡上厕所很方便。还有一个小优点就是可以直接从wv三楼进去，吃饭很方便。缺点太多了，设施老久，环境幽闭，昆虫的天堂，火警的圣地。离车站有段距离，每次回宿舍还得爬坡。woodruff是留给没选上其他宿舍的学生的，所以千万别主动选woodruff 
+
+—— By Leo
+</text>
+
+<text class="basic" decode="{{true}}">
+【Undergraduate Apartment】
+注意: 由于本科生公寓没收集到一手的入住体验，并且都比较相似，大家可以通过link自行了解。
+
+No.1 Crecine
+地址: 900 Hemphill Ave NW, Atlanta, GA 30318
+Crecine比较特别，是Honors Program学生可以入住的公寓楼，也被称为最好的on campus apartment，是四人间的的公寓。每层楼都有一个study lounge，一楼有一个小的健身房，一个自行车储存室和一个laudry。
+https://housing.gatech.edu/building/crecine
+
+No.2 Nelson Shell
+地址: 580 Turner Place NW, Atlanta, GA 30318
+https://housing.gatech.edu/building/nelson-shell
+
+No.3 Eighth Street East 
+地址: 555 8th St NW, Atlanta, GA 30318
+https://housing.gatech.edu/building/eighth-street-south
+
+No.4 Maulding
+地址: 501 6th St NW, Atlanta, GA 30318
+https://housing.gatech.edu/building/maulding
+
+No.5 Zbar
+地址: 501 6th Street, NW, Atlanta, GA 30332
+https://housing.gatech.edu/building/zbar
+</text>
+
+<text class="basic" decode="{{true}}">
+【总结】
+西边的各个宿舍楼和公寓之间的距离都很近，附近也都有学校校车的车站（Blue/Red/Trolley三车经停）。离CRC（学校最出名的体育馆）和West Village（西村人眼中最好吃的食堂）都不超过五分钟走路的距离。相比于有很多frat house，夜夜笙歌的东边，西村是比较安静的。缺点是如果要步行上学相较于东边是得多花点时间的。
+</text>
 
 </view>
