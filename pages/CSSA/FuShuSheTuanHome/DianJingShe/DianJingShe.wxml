@@ -1,2 +1,38 @@
-<!--pages/CSSA/FuShuSheTuanHome/DianJingShe/DianJingShe.wxml-->
-<text>pages/CSSA/FuShuSheTuanHome/DianJingShe/DianJingShe.wxml</text>
+<view class="bg_wrap">
+
+<text class="title">附属社团之电竞社</text>
+<text class="basic" decode="{{true}}" style="margin-top: 50rpx;">
+社团的唯一宗旨：
+<text style="font-weight: bold;">打游戏，开心最重要。</text>
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/DianJingShe.png" style="width:650rpx; height: 455rpx; margin-left: 55rpx; margin-right: 55rpx;" alt="abscd"></image>
+<text class="annotation" decode="{{true}}">图片源自网络</text>
+
+
+<text class="basic" decode="{{true}}" style="margin-top:-20rpx;">
+
+【活动形式】
+&ensp;-&ensp;不定期娱乐赛
+&ensp;-&ensp;组织观看大型比赛
+&ensp;-&ensp;如果你有更好的创意，也请联系我们
+
+【招新对象】
+&ensp;-&ensp;入社无要求！无限制！只要你爱打游戏，就欢迎你报名参加！福利多多哦。
+
+【创始人介绍】
+&ensp;-&ensp;冯沐灏
+</text>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/DianJingSheZhang.png" style="width:650rpx; height: 455rpx; margin-left: 55rpx; margin-right: 55rpx;margin-top: -40rpx;" alt="abscd"></image>
+<text class="annotation" decode="{{true}}">社长大大的大头贴</text>
+
+<text class="basic" decode="{{true}}" style="margin-top:-20rpx">
+【创始人的话】
+无论你是塑料脆皮、青铜白银、大神王者、游戏狂魔还是单机小王子，我们都十分欢迎~
+
+不要怕你是新手，我们有大神带你Carry；如果你是高手，这里能找到实力相当的队友。
+
+我们将根据<text style="font-weight: bold;">不同的游戏来组成不同的群</text>，如果你想成为某个<text style="font-weight:bold;">游戏的负责人</text>，迅速联系我们吧！申请链接将在后续招新中发布。
+</text>
+
+</view>
