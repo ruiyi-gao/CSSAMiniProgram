@@ -1,2 +1,117 @@
-<!--pages/freshman_manual/XiaoYuanZhouBian/WanLe/YouLeChang/YouLeChang.wxml-->
-<text>游乐场</text>
+<view>
+
+<text class="title">游乐场</text>
+
+<text class="basic" decode="{{true}}" style="margin-bottom: 0rpx;">
+【过山车主题乐园 - Six Flags】
+
+[官网]
+https://www.sixflags.com/overgeorgia
+
+[地址]
+275 Riverside Pkwy, Austell
+
+[Hours]
+Everyday 10:30am to 7:00pm 
+Water Park:12:00 to 6:00 (Summer schedule)
+
+
+[价格]
+$43.19/Adult (Summer sale)
+
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/six_flags.png" style="width: 650rpx; height:447rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
+[体验]
+这是另一个学校福利啦~每年秋季学校都会组织大家去这里玩，不仅有学生优惠，而且是因为闭园之后才开始有班车去，还能享受到包场的感觉，只要去得早都不用排很久的队。这个游乐园相对来说比较全面，很多基本设施都会有，比如跳楼机，但最出名或者是我自己最喜欢的还是过山车的部分。有90度垂直上下的，有超长ride连续7个高峰的，有超人、蝙蝠侠主题的，还有木质结构的，喜欢刺激的同学一定会觉得非常过瘾。除此之外，Six Flags也会配合节日推出特别的活动，比如万圣节就会有配套鬼屋等等。但是每年都会有设施上的改动，所以大家最后还是以游玩当天为准，总之非常推荐啦~
+</text>
+
+
+
+<text class="basic" decode="{{true}}">
+【卡丁车 - K1 Speed】 
+
+[官网]
+https://www.k1speed.com/atlanta-location.html
+
+[地址]
+1625 PLEASANT HILL RD, STE. 240 DULUTH, GA 
+
+[Hours]
+MON-THU: 12:00PM ~ 10:00PM
+FRI: 11:00AM ~ 11:00PM
+SAT: 10:00AM ~ 12:00AM
+SUN: 10:00AM ~ 9:00PM
+
+[价格]
+$55 (2 Races, T-shirt & Membership)
+$22 (1 Race, 14 Laps, Arrive & Drive)
+$38 (2 Races, 2 X 14 Laps)
+$38 (3 Races, 3 X 14 Laps)
+8人以上的 group reservation还可能打折哦
+
+</text>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/k1_speed1.png" style="width: 650rpx; height:488rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/k1_speed2.png" style="width: 650rpx; height:433rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<text class="annotation">2018-19活动部团建</text>
+
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
+[体验]
+对于喜欢开车和稍刺激一些体验的同学们来说，这个活动非常适合聚集几个同学一起参与。在安全有保证的前提下，飙起车来还是很过瘾的。有心脏病史的同学建议向医生/工作人员咨询以后再参与哦。
+</text>
+
+<text class="basic" decode="{{true}}">
+【电玩城 - Dave & Buster's】 
+
+[官网]
+https://www.daveandbusters.com/
+
+[地址]
+2215 D and B Dr SE, Marietta, GA 30067
+
+[Hours]
+Sun - Thu 10:00am - Midnight
+Fri - Sat 10:00am - 1:00am
+
+[价格]
+游戏卡充值详情见官网
+
+</text>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/dave&busters.png" style="width: 650rpx; height:433rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
+[体验]
+电玩设施来说没有国内全，但是基本的射击游戏、投篮机、跳舞机等等还是都有的，所以想过把瘾的同学还是能够满足。值得说的一点是场馆内通风不算特别好，所以可能会觉得比较热。
+</text>
+
+<text class="basic" decode="{{true}}">
+【蹦床 - Adventure Air Sports Kennesaw】 
+
+[官网]
+https://kennesaw.adventureairsports.com
+
+[地址]
+25 Ernest W Barrett Pkwy NW #3500, Kennesaw
+
+[Hours]
+MON – THURS: 10AM – 9PM
+FRI & SAT: 10AM – 11PM	SUN: 11AM – 8PM
+
+[价格]
+套餐详情见官网
+
+</text>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/adventure_air_sports_kennesaw.png" style="width: 650rpx; height:487rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
+[体验]
+空间很大，但是音效就比较一般了。有飞翔的感觉，学会新动作的时候特别爽，但对于柔韧性不是那么好的同学来说，真正上手可能还需要一定适应的时间。
+</text>
+
+<text class="basic" decode="{{true}}" style="margin-top:0rpx;">
+注：部分图片来源网络
+</text>
+
+</view>

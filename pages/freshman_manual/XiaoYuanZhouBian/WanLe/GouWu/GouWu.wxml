@@ -1,2 +1,100 @@
-<!--pages/freshman_manual/XiaoYuanZhouBian/WanLe/GouWu/GouWu.wxml-->
-<text>购物</text>
+<view>
+
+<text class="title">购物休闲</text>
+
+<text class="basic" decode="{{true}}" style="margin-bottom: 0rpx;">
+【Lenox Square】
+
+[官网]
+https://www.simon.com/mall/lenox-square
+
+[地址]
+3393 Peachtree Rd NE, Atlanta
+
+[Hours]
+Monday ~ Saturday: 10A.M. ~ 9P.M.
+Sunday: 11A.M. ~ 7P.M.
+
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/lenox_square.png" style="width: 650rpx; height:434rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
+[体验]
+Lenox是一个离学校相对来说最近的大型购物商场的集合，有Macy’s, Bloomingdale’s等等，里面的店铺还是比较全的，大得可以逛到腿软。不管是商场里还是附近，都有不少吃饭的好去处，还有cheesecake factory、sweethut奶茶店，总的来说还是可以满足日常的购物体验。
+</text>
+
+
+
+<text class="basic" decode="{{true}}">
+【购物 - Outlets】 
+
+[官网]
+https://www.theoutletshoppesatatlanta.com
+
+[地址]
+915 Ridgewalk Pkwy, Woodstock, GA 30188
+
+[Hours]
+Monday ~ Saturday: 11A.M. ~ 7P.M.
+Sunday: 12P.M. ~ 6P.M.
+
+</text>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/outlet.png" style="width: 650rpx; height:402rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+
+<text class="basic" decode="{{true}}">
+【电影 - AMC Theatres】 
+
+[官网]
+https://www.amctheatres.com/movie-theatres/atlanta/amc-parkway-pointe-15
+
+[地址]
+3101 Cobb Pkwy SE Suite 201, Atlanta, GA 30339
+
+[Hours]
+详情见官网
+
+[价格]
+Around $20 per ticket (Depends on movie)
+</text>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/cnn_studio.png" style="width: 650rpx; height:390rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
+[体验]
+这里重点说一下中国电影。AMC Theatres基本上可以与国内同步上映，而且有时候会与我们中国学生会或者本地华人公众号合作，开展一些抽奖送票的活动。
+</text>
+
+<text class="basic" decode="{{true}}">
+【猫咖 - Java Cats Cafe】 
+<text style="color: #eeeeee">这名字一听就知道是程序员开的</text>
+
+[官网]
+https://www.javacatscafe.com
+
+[地址]
+415 Memorial Drive SE C, Atlanta
+
+[Hours]
+Monday: CLOSED
+Tuesday - Friday: 11am – 8pm
+Saturday: 10am – 8pm
+Sunday: 10am – 7pm
+
+[价格]
+$10/Adult
+
+</text>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/java_cats_cafe.png" style="width: 650rpx; height:433rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
+[体验]
+作为一个在国内习惯吸猫的人，来亚特兰大当然也是要找猫咖缓解压力。Java cat cafe 分为喝咖啡的区域和封闭的撸猫区域，你既可以去咖啡厅休息学习，累了的时候也可以去撸猫。撸猫一小时是10刀，还附赠一杯饮料，顺便在这里强力安利他们家美味的的banana bread. 咖啡店里的猫都超级可爱，而且注射过疫苗完全不用担心安全问题，里面有各种逗猫玩具，基本想怎么撸都可以，而且小猫超级配合。周末去的同学在去之前可以考虑打电话预约，因为店家保证每位客人的体验，每次进去撸猫的人数是限定的。
+&emsp;&emsp;——By 安静
+</text>
+
+<text class="basic" decode="{{true}}" style="margin-top:0rpx;">
+注：所有图片来源网络
+</text>
+
+</view>

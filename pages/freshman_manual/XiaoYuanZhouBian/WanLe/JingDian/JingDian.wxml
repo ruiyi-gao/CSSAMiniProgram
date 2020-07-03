@@ -1,2 +1,102 @@
-<!--pages/freshman_manual/XiaoYuanZhouBian/WanLe/JingDian/JingDian.wxml-->
-<text>景点游玩</text>
+<view>
+
+<text class="title">景点游玩</text>
+
+<text class="basic" decode="{{true}}" style="margin-bottom: 0rpx;">
+【World of Coca-Cola 】
+
+[官网]
+https://www.worldofcoca-cola.com
+
+[地址]
+121 Baker Street NW Atlanta
+
+[Hours]
+可至官网查看
+
+[价格]
+$17/人
+
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/world_of_coca_cola.png" style="width: 650rpx; height:432rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
+[体验]
+整体是一个两层的环形场馆。所有人安检后会先领取一瓶mini罐装可口可乐，然后进入可口可乐展览馆，有讲解员为所有人简单介绍品牌的历史和理念，再看一部有意思的宣传片后大家就可以进入场馆自行游览。第一层有很多独立的展示厅，每个都有不同的主题，有的展示可口可乐的工业制作流程，有的则讲述了创始人如何发现并保护“secret recipe”。第一层中间的空地则会开展一些体验性的互动，比如冬天会有一只北极熊和大家一起合照。第二层则以感受式游览为主，有4D电影、可口可乐的一封信、DIY可口可乐经典瓶装的外观，以及大家最喜欢的品尝区。这里有来自各个大洲的几十种可乐口味供大家品尝，小编着重推荐大家品尝一下意大利的产品，入口留香，回味无穷:)
+</text>
+
+
+
+<text class="basic" decode="{{true}}">
+【Georgia Aquarium】 
+
+[官网]
+https://www.georgiaaquarium.org
+
+[地址]
+225 Baker St NW, Atlanta
+
+[Hours]
+每天都开放，但具体时间会变化，需至官网确认。
+
+[价格]
+$30.95 for Early Bird (Before 11A.M.)
+$29.95~$35.95 for General Admission (11A.M.~4P.M.)
+$26.95 Imagination Nights (After $P.M.)
+</text>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/georgia_aquarium.png" style="width: 650rpx; height:433rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
+[体验]
+学校会组织大家晚上一起去，伴随着学生折扣，而且还有班车接送，所以会是一个去玩很不错的时机。除了常规水族馆会有的很多动物，我个人最喜欢的还是上图展示的这个地方，像一块蓝色的巨幕，显得所有的观看者都很微小，灯光昏暗，整个厅里都只有蓝色的光在浮动，玻璃另一侧有许多奇形怪状的海洋生物游来游去，人群中时不时会有小孩子的一声惊呼，这个氛围真的是太美太美了。海洋馆提供很多其他有趣的体验，除了常见的海豚表演，还有到幕后摸企鹅、海豚等等的机会，需要大家去官网提前另外买票预约的，不过据去玩过的同学说还挺有意思的~
+</text>
+
+<text class="basic" decode="{{true}}">
+【CNN Studio Tours】 
+
+[官网]
+https://center.cnn.com/#cnn-studiotours
+
+[地址]
+190 Marietta St NW, Atlanta
+
+[Hours]
+Everyday 9A.M. ~ 5P.M.
+
+[价格]
+$15/Adult
+</text>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/cnn_studio.png" style="width: 650rpx; height:390rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}">
+【Atlanta Botanical Garden】 
+
+[官网]
+https://atlantabg.org
+
+[地址]
+1345 Piedmont Avenue, Atlanta
+
+[Hours]
+April - October: Tuesday - Sunday 9 a.m. - 7 p.m.
+November - March: Tuesday - Sunday 9 a.m. - 5 p.m.
+*Hours may vary due to special events
+
+[价格]
+$21.95/Adult
+
+</text>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/atlanta_botanical_garden.png" style="width: 650rpx; height:434rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
+[体验]
+我起初去只是抱着打卡的心态，结果亚特兰大的植物园完全震撼到我。这个植物园颠覆了我印象中小学生参观无比枯燥的认植物的学习式公园，里面有大片大片的绿地，和很有设计感的大型食物雕塑。植物园里分为几个不同的区域，有可以散步的天桥，室内的热带雨林馆，葡萄藤，儿童乐园，还有一个不错的餐厅。还有还有，一定不能错过植物园的礼品店，里面有很多好看的生活用品，首饰，装饰的也很温馨，每次都忍不住要买点可爱的小玩意，总之是一个可以把你的宿舍装点的充满细节的地方。
+&emsp;&emsp;——By 安静
+</text>
+
+<text class="basic" decode="{{true}}" style="margin-top:0rpx;">
+注：所有图片来源网络
+</text>
+
+</view>

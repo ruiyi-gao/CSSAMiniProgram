@@ -1,2 +1,84 @@
-<!--pages/freshman_manual/XiaoYuanZhouBian/WanLe/SheJiChang/SheJiChang.wxml-->
-<text>射击场</text>
+<view>
+
+<text class="title">射击场/真人CS</text>
+
+<text class="basic" decode="{{true}}" style="margin-bottom: 0rpx;">
+【射击场 - Stoddard’s Range and Guns】
+
+[官网]
+https://www.stoddardsguns.com/midtown
+
+[地址]
+485 Bishop St., NW, Atlanta, GA 30318
+
+[Hours]
+Monday ~ Friday: 11A.M. ~ 9P.M.
+Saturday: 9A.M ~ 9P.M.
+Sunday: 11A.M ~ 7P.M.
+Ladies' Day: Every Thursday (All day)
+
+[价格]
+$19/Adult
+$15 on Ladies' Day
+
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/stoddards_range_and_guns.png" style="width: 650rpx; height:365rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+
+<text class="basic" decode="{{true}}">
+【射击场 - Quickshot Shooting Range】 
+
+[官网]
+https://www.quickshotshootingrange.com/atlanta-ga
+
+[地址]
+1199 Zonolite Road, Atlanta, GA 30306
+
+[Hours]
+Monday - Friday: 11am to 8pm
+Saturday: 10am to 8pm
+Sunday: 12pm to 6pm
+
+[价格]
+会波动，详情见官网
+
+</text>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/k1_speed1.png" style="width: 650rpx; height:488rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
+[体验]
+进门的第一感受是宽敞，有沙发茶几，和免费饮品，可以休息。负责迎接的工作人员会介绍他们的套餐，可以提出要求自己想玩手枪或者是其他型号，不同枪型对应的子弹数量也是不同的。选好自己想玩的枪型后，就可以进入射击房间了，房间内有教练指导，从站姿到上子弹都会教学，认真听就可以。建议进入射击房间前一定一定提前带好耳包，因为枪击的声音非常大，如果没有防护设施耳膜会非常疼。在射击房间内感觉还是很紧张的，因为周围都是枪击声，好像在战场上一样。整体服务和质量都很棒的一家，离学校也不远。周一到周五晚上有不同的优惠服务，感兴趣的同学可以去之前打电话询问一下有什么折扣，印象中有ladies' night，也有学生折扣。因为打枪还是一件比较危险的活动，所以不做推荐，只是分享感受，重点要看个人喜好，当然经历还是很有趣的！
+&emsp;&emsp;——By 李天彤
+</text>
+
+<text class="basic" decode="{{true}}">
+【真人cs - Paintball Atlanta】 
+
+[官网]
+http://paintballatlanta.com
+
+[地址]
+5315 Shiloh Rd, Alpharetta, GA 30004
+
+[Hours]
+Walk-Ons Welcome:
+&emsp;&emsp;Wednesdays (June & July): 10A.M. ~ 3P.M.
+&emsp;&emsp;Saturdays & Sundays: 10A.M. ~ 5P.M.
+Reservation:
+&emsp;&emsp;Everyday
+
+</text>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/paintball_atlanta.png" style="width: 650rpx; height:366rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
+[体验]
+开车过去半个小时左右， 在一个比较荒无人烟的地方。总共有三到四个露天的场地，比较朴素。 那边会提供头盔枪支和子弹，大家签好协议就可以领枪了。开始前有十五分钟的规则解说，之后会视乎在场的人的数量进行分队并进行对拼。一场下来大概十到十五分钟左右，如果不是很晒的话体力消耗不是特别大。子弹一开始被打倒会有点疼，不过很快就习惯了。
+&emsp;&emsp;——By Francis
+</text>
+
+<text class="basic" decode="{{true}}" style="margin-top:0rpx;">
+注：部分图片来源网络
+</text>
+
+</view>

@@ -1,1 +1,7 @@
-/* pages/freshman_manual/XiaoYuanZhouBian/WanLe/YouLeChang/YouLeChang.wxss */
+.annotation {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  font-size: smaller;
+  margin-top: -5rpx;
+}
