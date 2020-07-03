@@ -1,2 +1,42 @@
-<!--pages/freshman_manual/JieJi/JieJi.wxml-->
-<text>这是接机的主页</text>
+<view class="bg_wrap">
+
+<text class="title">WCF2020新生活动</text>
+
+<text class="basic" decode="{{true}}">
+从2000年开始, Westminister Christian Fellowship (WCF) 都会为中国新生提供接机和临时住宿服务。然而因为今年疫情的原因，接机和住宿活动将无法如期举行。今年WCF将以web seminar的方式迎接新生，为新生解答疑惑，提供帮助。欢迎2020届新生去WCF官网注册报名。
+
+注：本次活动由WCF主办，CSSA没有参与活动筹办，只是为大家推荐这个平台，欢迎大家踊跃参与~
+
+以下为信件全部内容：
+
+Greetings to New Students,
+
+We welcome you to Atlanta, Georgia and Georgia Tech!
+
+Each year the Georgia Tech Chinese Student and Scholar Association (GTCSSA) works with American partners to greet you and help you when you arrive in Atlanta. We want to meet each one of you personally and we hope to make many friendships with all of you.
+
+The global COVID pandemic has disrupted Georgia Tech’s plans and GTCSSA’s plans for the way that we normally welcome incoming new students from China. We understand that it creates great uncertainty for your travel plans and may even delay your arrival on campus. Everything we do will be different from previous years. But we are finding ways to welcome you to campus and help you as you arrive.
+
+Please help us to plan for your arrival by registering on our website www.apath-international.org today. The website collects information on your arrival plans and housing arrangements. If you don’t have some of the information, just fill out the items that you know. You can always go back and add information as you get it. If you have a comment or special question that will help us to plan for your arrival, please put it in the comment box. We may even be able to help you with this matter before you arrive. 
+
+The website includes the ability to request airport pickup and temporary housing. The current COVID situation makes it impossible for us to provide these services this year as we have in the past. But please check the request for airport pickup to fill out your flight date and information (and your apartment location) so that we can find other ways to help you with your arrival. (You must request airport pickup to enter your arrival information). 
+
+We are developing an on-line informational seminar designed expressly for arriving Chinese students. This seminar will be offered in August and will feature Chinese professors that currently work at Tech along with experienced students already here. The seminar will include an opportunity for you to ask questions about both living and academics. This seminar will be open to both students and parents who have registered on the website. Other helpful seminars are also being planned.
+
+We also plan to offer individual contacts here in Atlanta that will be able to assist you. These existing students and other experienced people on campus can answer some of your questions before you arrive, help you plan for arrival, and help you find other assistance you may need.  
+
+So please register with us today so that we can know how to best help you. As you develop your plans, update your registration. Your updated information helps us to find ways to serve you.  
+
+We wish you a safe travel and extend a big WELCOME to Atlanta, Georgia.
+
+We look forward to meeting you!
+
+President Lisha Yang
+GT Chinese Students & Scholars Association
+
+Neale and Carol Hightower
+Jason and Jasmine Chen
+Westminster International Friends
+</text>
+
+</view>

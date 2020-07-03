@@ -62,5 +62,8 @@
 
 <image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/starbucks.png" style="width: 650rpx; height:432.24rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
+注：所有图片来源网络
+</text>
 
 </view>
