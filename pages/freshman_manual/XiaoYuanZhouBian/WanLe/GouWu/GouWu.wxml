@@ -57,7 +57,7 @@ https://www.amctheatres.com/movie-theatres/atlanta/amc-parkway-pointe-15
 [价格]
 Around $20 per ticket (Depends on movie)
 </text>
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/cnn_studio.png" style="width: 650rpx; height:390rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/AMC_Theater.png" style="width: 650rpx; height:260rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
 <text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
 [体验]
