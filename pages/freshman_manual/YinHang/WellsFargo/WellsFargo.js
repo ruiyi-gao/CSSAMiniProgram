@@ -1,40 +1,18 @@
-// pages/freshman_manual/XiaoYuanZhouBian/XiaoYuanZhouBian.js
+// pages/freshman_manual/YinHang/WellsFargo/WellsFargo.js
 Page({
 
   /**
    * Page initial data
    */
   data: {
-    width: 200, height: 500,
-  },
 
-  WellsFargo: function () {
-    wx.navigateTo({
-      url: 'WellsFargo/WellsFargo'
-    })
-  },
-
-  BOA: function () {
-    wx.navigateTo({
-      url: 'BOA/BOA'
-    })
   },
 
   /**
    * Lifecycle function--Called when page load
    */
   onLoad: function (options) {
-    var that = this;
-    wx.getSystemInfo({
-            success: function (res) {
-              console.log(res);
-              // 计算主体部分高度,单位为px
-              that.setData({
-                width: res.windowWidth,
-                height: res.windowHeight / 2,
-              })
-            },
-          }) 
+
   },
 
   /**

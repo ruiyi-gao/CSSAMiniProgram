@@ -1,2 +1,6 @@
-<!--pages/freshman_manual/YinHang/YinHang.wxml-->
-<text>这是银行的主页</text>
+<button class="cu-btn bg-pink lg" style="height:{{height}}px; width:{{width}}px" bindtap="WellsFargo">
+    <text style="font-size:37rpx;">Wells Fargo</text>
+</button>
+<button class="cu-btn bg-blue lg" style="height:{{height}}px; width:{{width}}px" bindtap="BOA">
+    <text style="font-size:37rpx;">Bank of America</text>
+</button>

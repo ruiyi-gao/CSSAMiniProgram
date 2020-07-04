@@ -1,0 +1,38 @@
+<view>
+
+<text class="title">Wells Fargo</text>
+
+<text class="basic" decode="{{true}}" style="margin-bottom: 0rpx;">
+【Tech Parkway Wells Fargo Bank】
+
+[官网]
+https://www.wellsfargo.com
+
+[地址]
+645 State St NW, Atlanta, GA 30313
+
+[Hours]
+Monday ~ Friday: 9A.M. ~ 5P.M.
+Saturday: 9A.M. – 12P.M.
+Sunday: Closed
+
+[联系]
+Phone: 1-800-869-3557 (24/7 hotline)
+
+[Online application]
+https://www.wellsfargo.com/checking/student/
+
+[开户需要]
+Valid ID (Passport)
+$25 opening deposit
+Social Security Number or ITIN
+</text>
+<text class="indent1" style="font-size: smaller">
+注：大多数小伙伴都没有SSN或者ITIN。直接跟工作人员说你是international student没有SSN，直接用I-20也是可以开户的。
+不只是debit/saving account，credit account也可以。信用分会累计，然后等以后如果拿到了SSN，就会直接把累积的积分加上去
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/wells_fargo.png" style="width: 650rpx; height:380rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+
+</view>
