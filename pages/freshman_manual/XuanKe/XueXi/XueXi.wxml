@@ -1,0 +1,38 @@
+<view class="bg_wrap">
+
+<text class="title">新生手册之学习</text>
+
+<text class="basic" decode="{{true}}">
+【转专业】
+Gatech本科生的转专业是很容易的，尤其对于大一新生来说。
+
+流程简化大概是：
+参加一次转专业说明会——填一张申请表——拿表找教授签字——交表——完成。
+
+具体来说：
+1-去想转专业的对应官网查看说明会的日期，按时参加（一定要去其中一场）；
+2-去学校官网下载本学期最新的转专业申请表格；
+3-填好基本信息后去找目前专业的advisor签字；
+4-找想转专业的advisor签字；
+5-在截止日期之前把表格提交到指定办公室；
+6-转专业成功。
+
+前两学年转专业基本没什么要求限制，但对于大三大四的学生转专业的难度就相对增加了，需要参考学生目前的gpa等等，具体要求各不相同，需要请教自己的advisor了。而且，大三之前转专业的次数也没有什么限制，可以自由探索，所以强烈建议大家在大三之前确定好自己的专业。
+
+【AP换分】
+学校是允许将ap等等考试的成绩带进学校换取某些课程的学分的。每个专业的课程和对应换分要求各不相同，具体内容请查阅网址，根据自己的情况，专门针对查询。
+
+【奖学金和Exchange Program】
+学校各专业的奖学金/全专业的奖学金机会是很丰富的，具体请参考校园官网最新标准要求
+https://finaid.gatech.edu/scholarships
+
+另外学校还有丰富的exchange和global internship内容，具体请参考校园官网
+https://atlas.gatech.edu/index.cfm?FuseAction=Abroad.Home
+
+【Research】
+Gatech作为research university来说，对于本科生参与research的机会非常多，除了本专业的，也可以参与跨专业research。每个专业每个research的内容、要求都不尽相同，作为初步了解可以参考官网。
+http://www.undergradresearch.gatech.edu
+
+另外可以平时多与自己的各个教授交流沟通，有时也会得到机会。
+</text>
+</view>

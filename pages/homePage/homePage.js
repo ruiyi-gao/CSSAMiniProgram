@@ -27,7 +27,7 @@ Page({
       id: 3,
       icon: 'noticefill',
       color: 'olive',
-      name: '选课',
+      name: '选课/学习',
       bindtap: 'XuanKe'
     }],
     gridCol: 2,

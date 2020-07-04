@@ -1,47 +1,18 @@
-// pages/freshman_manual/XuanKe/XuanKe.js
+// pages/freshman_manual/XuanKe/TuShuGuan/TuShuGuan.js
 Page({
 
   /**
    * Page initial data
    */
   data: {
-    width: 200, height: 500,
-  },
-  
-  TuShuGuan: function () {
-    wx.navigateTo({
-      url: 'TuShuGuan/TuShuGuan'
-    })
-  },
 
-  XuanKeNeiRong: function () {
-    wx.navigateTo({
-      url: 'XuanKeNeiRong/XuanKeNeiRong'
-    })
   },
-
-  XueXi: function () {
-    wx.navigateTo({
-      url: 'XueXi/XueXi'
-    })
-  },
-
 
   /**
    * Lifecycle function--Called when page load
    */
   onLoad: function (options) {
-    var that = this;
-    wx.getSystemInfo({
-            success: function (res) {
-              console.log(res);
-              // 计算主体部分高度,单位为px
-              that.setData({
-                width: res.windowWidth,
-                height: res.windowHeight / 3,
-              })
-            },
-          }) 
+
   },
 
   /**

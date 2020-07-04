@@ -47,7 +47,7 @@ Page({
       id: 3,
       icon: '../../images/XuanKe.png',
       color: 'white',
-      name: '选课',
+      name: '选课/学习',
       bindtap: 'XuanKe'
     }, {
       id: 4,
