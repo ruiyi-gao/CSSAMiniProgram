@@ -1,0 +1,68 @@
+<view class="bg_wrap">
+
+<text class="title">新生手册之选课</text>
+
+<text class="basic" decode="{{true}}">
+每个学期最重要的就是选课，选课的好坏会直接影响整个学期的睡眠时间和生活品质。在选课之前一定要做足功课！
+
+每个学期的选课分为两个阶段，Phase I 和 Phase II。Phase I 在前一个学期的最后一个月开始，Phase II在这个学期开始前一周开始。刚入学的新生只能参加Phase II 选课。Phase I最多选18学分，Phase II最多选21学分。有些课在Phase I只对部分专业开放。总体来说Phase I 和Phase II 的选课流程是一样的。
+
+笔者认为大一的第一个学期选四门或者五门3/4学分的课比较合适。，这样选课的压力不会很大，可以有一些的空闲时间参加校内校外的活动。如果觉得学有余力，可以在接下来的学期多选几门课，但是最好不要超过六门。
+
+【准备阶段】
+
+[TimeTicket] 
+
+Buzzport -> Registration OSCAR -> Student Services & Financial Aid -> Registration -> Registration Status -> select term
+
+首先看自己有没有hold，有hold的话就会选不了课。
+
+然后是time ticket，它会告诉你什么时候可以选课。每个人的time ticket 是不一样的。学分越高，time ticket的选课时间越早。最好在time ticket时间之前决定要选什么课！
+
+
+[需要上什么课]
+
+Buzzport -> Degree works
+
+这里可以看到当前专业毕业需要的课程。点击课程编号可以看到课程介绍和前置课程。如果没有完成前置课程是不能选这门课的。想要转专业的同学们可以点击What-If, 选择Major后点击Process What-If，就可以看到这个专业需要上的课。第一年多上一些Core Requirements的课，也就是基础课。两门英语课最好在第一年就上完。如果选到好的教授，基础课都不会很难。
+
+
+[排课网站]
+
+coursicle,  courseoff 
+
+这两个网站是专门为学生排课的。在这里可以看到所有下学期的课程，然后添加到选课表中，安排课表非常方便。同时要记住课程的五位数编号(CRN 或者 Reference Number)，选课的时候就是用这个编号的，非常重要！要注意这两个网站的更新可能会滞后，尤其是每门课还有多少位置，这个最好在学校官网查课程信息。
+
+
+[课程信息]
+
+Buzzport -> Buzzport -> Registration OSCAR -> Student Services & Financial Aid -> Registration -> Look Up Classes
+
+这里可以看到每门课的信息。其中比较重要的是剩余多少位置，多少waitlist，和专业限制。
+
+
+[排雷网站]
+
+Ratemyprofessor: 这个网站可以看到学生对教授的评价，评分差的教授慎选！
+
+Course critique: 这个网站可以查每门课的GPA分布，对排雷有很大的帮助。
+
+
+【注册阶段】
+
+[选课]
+
+Buzzport -> Registration OSCAR -> Student Services & Financial Aid -> Registration ->  Add or Drop Class
+
+这里就是选课界面。在time ticket的选课时间之前这个是打不开的。可以选课之后，输入课程的五位数编码（可以同时输入多个编码），然后点击添加。接下来就可以看到已选课程。
+
+Registered说明这门课已经选上。选课失败会说明具体原因。如果是Action required就要点击下拉菜单决定是否进入waitlist。 Waitlist就是排队选课。如果有人drop了这门课，那么waitlist的第一个人就可以选这门课。一个人可以同时waitlist不同的课，而且不用担心waitlist学分到达上限。在进入waitlist之后要多查邮件，如果收到选课通知，要在24小时内选课，否则就要重新排队了。笔者就犯过这样的错误，同学们要引以为戒。
+
+
+[Override]
+
+Buzzport -> Registration OSCAR -> Student Services & Financial Aid -> Registration -> Registration Override Request
+
+如果因为一些原因选不了某门课，可以在这里给学校发override申请。Override的情况比较少。在笔者了解的override成功案例中，有学分达到21分上限的，有这门课人数到达上限的，还有想要跳过前置课程的。如果申请通过就可以选这门课。
+</text>
+</view>

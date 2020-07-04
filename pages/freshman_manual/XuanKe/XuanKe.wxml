@@ -1,2 +1,9 @@
-<!--pages/freshman_manual/XuanKe/XuanKe.wxml-->
-<text>这是选课的主页2</text>
+<button class="cu-btn bg-pink lg" style="height:{{height}}px; width:{{width}}px" bindtap="XueXi">
+    <text style="font-size:37rpx;">学习</text>
+</button>
+<button class="cu-btn bg-blue lg" style="height:{{height}}px; width:{{width}}px" bindtap="XuanKeNeiRong">
+    <text style="font-size:37rpx;">选课</text>
+</button>
+<button class="cu-btn bg-pink lg" style="height:{{height}}px; width:{{width}}px" bindtap="TuShuGuan">
+    <text style="font-size:37rpx;">图书馆</text>
+</button>

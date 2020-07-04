@@ -1,3 +1,5 @@
 {
-  "navigationBarTitleText": "新生手册-选课"
+  "navigationBarTitleText": "新生手册-选课",
+  "disableScroll": true,
+  "enablePullDownRefresh": false
 }
