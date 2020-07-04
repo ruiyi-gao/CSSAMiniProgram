@@ -1,12 +1,7 @@
 <!--pages/freshman_manual_home/freshman_manual_home.wxml-->
 <view class="bg-wrap">
-<view>
-  <swiper class="screen-swiper round-dot" indicator-dots="true" circular="true" autoplay="true" interval="5000" duration="500">
-    <swiper-item wx:for="{{swiperList}}" wx:key="id">
-      <image src="{{item.url}}" mode="aspectFill"></image>
-    </swiper-item>
-  </swiper>
-</view>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Welcome.PNG" style="width: 750rpx; height: 441.6rpx; margin-left: 0rpx; margin-right: 0rpx;"></image>
 
 <view>
   <view>

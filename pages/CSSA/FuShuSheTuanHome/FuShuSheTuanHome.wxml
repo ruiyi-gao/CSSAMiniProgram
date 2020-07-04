@@ -1,11 +1,6 @@
 <view class="bg-wrap">
-<view>
-  <swiper class="screen-swiper round-dot" indicator-dots="true" circular="true" autoplay="true" interval="5000" duration="500">
-    <swiper-item wx:for="{{swiperList}}" wx:key="{{item.id}}">
-      <image src="{{item.url}}" mode="aspectFill"></image>
-    </swiper-item>
-  </swiper>
-</view>
+
+<text class="title" style="margin-top: 100rpx; margin-bottom: 50rpx;">GTCSSA之附属社团</text>
 
 <view>
   <view class="cu-list grid col-2 no-border" style="padding-top: 70rpx;">

@@ -31,20 +31,5 @@
 
     
   </view>
-
-
-  <view>
-    <text class="title" style="margin-top: 50rpx;">往期活动</text>
-    <view class="cu-card case {{isCard?'no-card':''}}">
-      <view class="cu-item shadow" wx:for="{{activitylist}}" wx:key="id">
-        <view class="image">
-          <image src="{{item.url}}" mode="widthFix"></image>
-          <view class="cu-bar bg-shadeBottom">
-            <text class="text-cut">{{item.description}}</text>
-          </view>
-        </view>
-      </view>
-    </view>
-  </view>
   
 </view>
