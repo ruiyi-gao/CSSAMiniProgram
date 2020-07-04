@@ -1,40 +1,36 @@
 <view>
 
-<text class="title">Wells Fargo</text>
+<text class="title">Bank of America</text>
 
 <text class="basic" decode="{{true}}" style="margin-bottom: 0rpx">
-【Tech Parkway Wells Fargo Bank】
+【校园附近银行信息】
+Bank of America (with Drive-thru ATM)
 </text>
 
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/wells_fargo.png" style="width: 650rpx; height:380rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/boa.png" style="width: 650rpx; height:362rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
 <text class="basic" decode="{{true}}" style="margin-top: -20rpx; margin-bottom: 0rpx;">
 [官网]
-https://www.wellsfargo.com
+https://www.bankofamerica.com
 
 [地址]
-645 State St NW, Atlanta, GA 30313
+1775 Howell Mill Rd NW, Atlanta, GA  30318
 
 [Hours]
-Monday ~ Friday: 9A.M. ~ 5P.M.
-Saturday: 9A.M. – 12P.M.
+Monday - Friday: 10:00 AM - 4:00PM
+Saturday: 9:00 AM - 1:00
 Sunday: Closed
 
 [联系]
-Phone: 1-800-869-3557 (24/7 hotline)
+Phone: 404-350-2040
 
 [Online application]
-https://www.wellsfargo.com/checking/student/
+https://www.bankofamerica.com/deposits/bank-accounts/
 
-[开户需要]
-Valid ID (Passport)
-$25 opening deposit
-Social Security Number or ITIN
-</text>
-<text class="indent1" style="font-size: smaller">
-注：大多数小伙伴都没有SSN或者ITIN。直接跟工作人员说你是international student没有SSN，直接用I-20也是可以开户的。
-不只是debit/saving account，credit account也可以。信用分会累计，然后等以后如果拿到了SSN，就会直接把累积的积分加上去
-</text>
+【留学生开新账户注意事项】
+第一次开户需要带齐自己的各种证件，包括但不限于护照、I20等等。开户一般花的时间比较长（银行员的办公效率，嗯……）建议提前预留好充分时间（有不止一位前辈曾从中午12点一直在银行待到晚上7点半），而且需要提前打电话和银行预约。
+另外，GT CSSA的学长学姐也会组织带领大家一起去开户，记得留意微信大群哦！
 
+</text>
 
 </view>

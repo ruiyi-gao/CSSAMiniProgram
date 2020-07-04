@@ -3,7 +3,8 @@
 <text class="title">Wells Fargo</text>
 
 <text class="basic" decode="{{true}}" style="margin-bottom: 0rpx">
-【Tech Parkway Wells Fargo Bank】
+【校园附近银行信息】
+Tech Parkway Wells Fargo Bank
 </text>
 
 <image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/wells_fargo.png" style="width: 650rpx; height:380rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
@@ -21,12 +22,12 @@ Saturday: 9A.M. – 12P.M.
 Sunday: Closed
 
 [联系]
-Phone: 1-800-869-3557 (24/7 hotline)
+Phone: 800-869-3557 (24/7 hotline)
 
 [Online application]
 https://www.wellsfargo.com/checking/student/
 
-[开户需要]
+【开户需要】
 Valid ID (Passport)
 $25 opening deposit
 Social Security Number or ITIN
