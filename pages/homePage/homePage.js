@@ -19,10 +19,10 @@ Page({
       bindtap: 'ZhuSu'
     }, {
       id: 2,
-      icon: 'locationfill',
+      icon: 'card',
       color: 'yellow',
-      name: '接机',
-      bindtap: 'JieJi'
+      name: '银行',
+      bindtap: 'YinHang'
     }, {
       id: 3,
       icon: 'noticefill',
@@ -95,9 +95,9 @@ Page({
     })
   },
 
-  JieJi: function () {
+  YinHang: function () {
     wx.navigateTo({
-      url: '../freshman_manual/JieJi/JieJi'
+      url: '../freshman_manual/YinHang/YinHang'
     })
   },
 

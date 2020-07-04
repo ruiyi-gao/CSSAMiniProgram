@@ -79,9 +79,26 @@ No.4 Glenn\n
 房间偏小，但刚翻新。浴室，洗手间正常。洗衣房就在宿舍里，厨房和study lounge较小。
 </text>
 
+<!--Fulmer-->
+<text class="basic" decode="{{true}}" style="margin-bottom: 0rpx;">
+No.5 Towers\n
+</text>
+
+<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Towers.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+
+<text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
+[地理位置]
+Towers和Glenn号称东边校内最好宿舍。出门左拐距离距离Brittain 2分钟，North Ave 4分钟，吃饭非常方便。里教学楼、图书馆也不远，步行五分钟左右（最近路线需要爬freshman hill）。交通很便利，出门就有校车red，blue和trolley的车站。离frat house很近。可以搭车去西校。
+
+[基础设施]
+Towers是2014年才翻新的，所以配置比较好，配有电梯，搬东西比较方便。一共4层（从Ground到Towers L3），每层都是男女混合住宿。每层配备一个洗衣间（4个洗衣机和6个烘干机），只要不是高峰期（比如周日晚上、假期最后一天、final期间），洗衣机还是比较够用的；一个lounge，lounge是开放式厨房和客厅混合设计；还有一个公共女洗手间一个公共男洗手间和一个特殊洗手间，洗手间空间比较大的，一般都不会不够用。最最方便的还是可以直接负一层通到GT connector（有几间study room，小型gym、打印机和vending machine）。整体来说房间空间较小，有双人间和四人间两种，四人间相当于两个连一起的双人间（没有门隔着，需要的同学需要自己装隔帘）。
+
+—— By Yihan   
+</text>
+
 <!--Hanson-->
 <text class="basic" decode="{{true}}" style="margin-bottom: 0rpx;">
-No.5 Hanson\n
+No.6 Hanson\n
 </text>
 
 <image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Hanson.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
@@ -96,7 +113,7 @@ No.5 Hanson\n
 
 <!--Harrison-->
 <text class="basic" decode="{{true}}" style="margin-bottom: 0rpx;">
-No.6 Harrison\n
+No.7 Harrison\n
 </text>
 
 <image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Harrison.png" style="width: 650rpx; height:758rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
@@ -111,7 +128,7 @@ No.6 Harrison\n
 
 <!--Hopkins-->
 <text class="basic" decode="{{true}}" style="margin-bottom: 0rpx;">
-No.7 Hopkins\n
+No.8 Hopkins\n
 </text>
 
 <image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Hopkins.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
@@ -126,7 +143,7 @@ No.7 Hopkins\n
 
 <!--Howell-->
 <text class="basic" decode="{{true}}" style="margin-bottom: 0rpx;">
-No.8 Howell\n
+No.9 Howell\n
 </text>
 
 <image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Howell.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
@@ -143,7 +160,7 @@ No.8 Howell\n
 
 <!--Matheson-->
 <text class="basic" decode="{{true}}" style="margin-bottom: 0rpx;">
-No.9 Matheson\n
+No.10 Matheson\n
 </text>
 
 <image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Matheson.png" style="width: 650rpx; height:808rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
@@ -158,7 +175,7 @@ Freshman Hill 山脚下，走路快的话走到CULC 5分钟，Howey （物理楼
 
 <!--Perry-->
 <text class="basic" decode="{{true}}" style="margin-bottom: 0rpx;">
-No.10 Perry\n
+No.11 Perry\n
 </text>
 
 <image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Perry.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
@@ -173,7 +190,7 @@ No.10 Perry\n
 
 <!--Smith-->
 <text class="basic" decode="{{true}}" style="margin-bottom: 0rpx;">
-No.11 Smith\n
+No.12 Smith\n
 </text>
 
 <image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Smith.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
@@ -193,22 +210,5 @@ No.11 Smith\n
 4.澡堂的设计非常奇怪：六个隔间只是简单地用帘子隔开而不是用墙，如此一来，进去洗澡的时候就必须经过其他隔间，如果那个隔间恰好有人，就……。不过实际操作中大家都很自觉地先用不和入口只有一帘之隔的隔间，真正看光的事情极少发生。
 
 —— By Yue
-</text>
-
-<!--Fulmer-->
-<text class="basic" decode="{{true}}" style="margin-bottom: 0rpx;">
-No.12 Towers\n
-</text>
-
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Towers.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
-
-<text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
-[地理位置]
-Towers和Glenn号称东边校内最好宿舍。出门左拐距离距离Brittain 2分钟，North Ave 4分钟，吃饭非常方便。里教学楼、图书馆也不远，步行五分钟左右（最近路线需要爬freshman hill）。交通很便利，出门就有校车red，blue和trolley的车站。离frat house很近。可以搭车去西校。
-
-[基础设施]
-Towers是2014年才翻新的，所以配置比较好，配有电梯，搬东西比较方便。一共4层（从Ground到Towers L3），每层都是男女混合住宿。每层配备一个洗衣间（4个洗衣机和6个烘干机），只要不是高峰期（比如周日晚上、假期最后一天、final期间），洗衣机还是比较够用的；一个lounge，lounge是开放式厨房和客厅混合设计；还有一个公共女洗手间一个公共男洗手间和一个特殊洗手间，洗手间空间比较大的，一般都不会不够用。最最方便的还是可以直接负一层通到GT connector（有几间study room，小型gym、打印机和vending machine）。整体来说房间空间较小，有双人间和四人间两种，四人间相当于两个连一起的双人间（没有门隔着，需要的同学需要自己装隔帘）。
-
-—— By Yihan   
 </text>
 </view>
