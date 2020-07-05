@@ -33,3 +33,7 @@ page {
   flex-direction: column;
   justify-content: flex-start;
 }
+
+image {
+  border-radius: 10rpx;
+}
