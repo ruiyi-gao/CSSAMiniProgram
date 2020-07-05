@@ -29,6 +29,10 @@
       </view>
     </view>
 
+    <view class="version-control my-2" style="margin-top: 20rpx;">
+      <text style="display: flex; flex-direction: column; align-items: center !important;">Version: 1.0</text>
+    </view>
+
     
   </view>
   
