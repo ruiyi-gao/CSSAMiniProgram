@@ -1,7 +1,7 @@
 <!--pages/CSSA_home/CSSA_home.wxml-->
 <view class="bg-wrap">
 
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/CSSA.PNG" style="width: 750rpx; height: 441.6rpx; margin-left: 0rpx; margin-right: 0rpx;"></image>
+<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/CSSA.PNG" style="width: 750rpx; height: 441.6rpx; margin-left: 0rpx; margin-right: 0rpx;"></image>
 
 <text class="title" style="margin-top:70rpx;">GTCSSA</text>
 

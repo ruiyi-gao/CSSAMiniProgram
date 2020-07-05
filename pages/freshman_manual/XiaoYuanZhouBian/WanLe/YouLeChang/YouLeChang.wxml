@@ -21,7 +21,7 @@ $43.19/Adult (Summer sale)
 
 </text>
 
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/six_flags.png" style="width: 650rpx; height:447rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/six_flags.png" style="width: 650rpx; height:447rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
 <text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
 [体验]
@@ -52,8 +52,8 @@ $38 (2 Races, 2 X 14 Laps)
 $38 (3 Races, 3 X 14 Laps)
 8人以上的 group reservation还可能打折哦
 </text>
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/k1_speed1.png" style="width: 650rpx; height:488rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/k1_speed2.png" style="width: 650rpx; height:433rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/k1_speed1.png" style="width: 650rpx; height:488rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/k1_speed2.png" style="width: 650rpx; height:433rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 <text class="annotation">2018-19活动部团建</text>
 
 <text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
@@ -77,7 +77,7 @@ Fri - Sat 10:00am - 1:00am
 [价格]
 游戏卡充值详情见官网
 </text>
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/dave&busters.png" style="width: 650rpx; height:433rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/dave&busters.png" style="width: 650rpx; height:433rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
 <text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
 [体验]
@@ -100,7 +100,7 @@ FRI & SAT: 10AM – 11PM	SUN: 11AM – 8PM
 [价格]
 套餐详情见官网
 </text>
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/adventure_air_sports_kennesaw.png" style="width: 650rpx; height:487rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/adventure_air_sports_kennesaw.png" style="width: 650rpx; height:487rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
 <text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
 [体验]

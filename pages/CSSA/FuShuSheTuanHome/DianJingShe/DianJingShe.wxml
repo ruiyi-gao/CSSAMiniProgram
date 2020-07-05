@@ -7,7 +7,7 @@
 <text style="font-weight: bold;">打游戏，开心最重要。</text>
 </text>
 
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/DianJingShe.png" style="width:650rpx; height: 455rpx; margin-left: 55rpx; margin-right: 55rpx;" alt="abscd"></image>
+<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/DianJingShe.png" style="width:650rpx; height: 455rpx; margin-left: 55rpx; margin-right: 55rpx;" alt="abscd"></image>
 
 <text class="basic" decode="{{true}}" style="margin-top:-20rpx;">
 
@@ -22,7 +22,7 @@
 【创始人介绍】
 &ensp;-&ensp;冯沐灏
 </text>
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/DianJing_ChuangShiRen.png" style="width:650rpx; height: 455rpx; margin-left: 55rpx; margin-right: 55rpx;margin-top: -40rpx;" alt="DianJingSheChuangShiRen"></image>
+<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/DianJing_ChuangShiRen.png" style="width:650rpx; height: 455rpx; margin-left: 55rpx; margin-right: 55rpx;margin-top: -40rpx;" alt="DianJingSheChuangShiRen"></image>
 
 <text class="basic" decode="{{true}}" style="margin-top:-20rpx">
 【创始人的话】

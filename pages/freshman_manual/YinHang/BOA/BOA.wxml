@@ -7,7 +7,7 @@
 Bank of America (with Drive-thru ATM)
 </text>
 
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/boa.png" style="width: 650rpx; height:362rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/boa.png" style="width: 650rpx; height:362rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
 <text class="basic" decode="{{true}}" style="margin-top: -20rpx; margin-bottom: 0rpx;">
 [官网]

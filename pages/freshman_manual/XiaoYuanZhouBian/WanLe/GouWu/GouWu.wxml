@@ -17,7 +17,7 @@ Sunday: 11A.M. ~ 7P.M.
 
 </text>
 
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/lenox_square.png" style="width: 650rpx; height:434rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/lenox_square.png" style="width: 650rpx; height:434rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
 <text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
 [体验]
@@ -39,7 +39,7 @@ https://www.theoutletshoppesatatlanta.com
 Monday ~ Saturday: 11A.M. ~ 7P.M.
 Sunday: 12P.M. ~ 6P.M.
 </text>
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/outlet.png" style="width: 650rpx; height:402rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/outlet.png" style="width: 650rpx; height:402rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
 
 <text class="basic" decode="{{true}}">
@@ -57,7 +57,7 @@ https://www.amctheatres.com/movie-theatres/atlanta/amc-parkway-pointe-15
 [价格]
 Around $20 per ticket (Depends on movie)
 </text>
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/AMC_Theater.png" style="width: 650rpx; height:260rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/AMC_Theater.png" style="width: 650rpx; height:260rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
 <text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
 [体验]
@@ -83,7 +83,7 @@ Sunday: 10am – 7pm
 [价格]
 $10/Adult
 </text>
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/java_cats_cafe.png" style="width: 650rpx; height:433rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/java_cats_cafe.png" style="width: 650rpx; height:433rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
 <text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
 [体验]

@@ -8,19 +8,19 @@ Page({
     swiperList: [{
       id: 0,
       type: 'image',
-      url: 'https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/ZhuoYouShe1.png'
+      url: 'https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/ZhuoYouShe1.png'
     }, {
       id: 1,
       type: 'image',
-        url: 'https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/ZhuoYouShe2.png'
+        url: 'https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/ZhuoYouShe2.png'
     }, {
       id: 2,
       type: 'image',
-        url: 'https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/ZhuoYouShe3.png'
+        url: 'https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/ZhuoYouShe3.png'
     }, {
       id: 3,
       type: 'image',
-        url: 'https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/ZhuoYouShe4.png'
+        url: 'https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/ZhuoYouShe4.png'
     }]
   },
 

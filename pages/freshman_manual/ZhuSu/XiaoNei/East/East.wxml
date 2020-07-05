@@ -18,7 +18,7 @@ No.1 Brown
 
 </text>
 
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Brown.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/Brown.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
 <text class="basic" decode="{{true}}" style="margin-top: 0rpx; margin-bottom: 0rpx;">
 [地理位置]
@@ -33,7 +33,7 @@ No.1 Brown
 No.2 Cloudman\n
 </text>
 
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Cloudman.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/Cloudman.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
 <text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
 [地理位置]
@@ -54,7 +54,7 @@ Cld比较好的地方就是上述的这样，整个community的氛围很好，�
 No.3 Field\n
 </text>
 
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Field.png" style="width: 650rpx; height:469rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/Field.png" style="width: 650rpx; height:469rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
 <text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
 [地理位置]
@@ -69,7 +69,7 @@ No.3 Field\n
 No.4 Glenn\n
 </text>
 
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Glenn.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/Glenn.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
 <text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
 [地理位置]
@@ -84,7 +84,7 @@ No.4 Glenn\n
 No.5 Towers\n
 </text>
 
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Towers.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/Towers.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
 <text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
 [地理位置]
@@ -101,7 +101,7 @@ Towers是2014年才翻新的，所以配置比较好，配有电梯，搬东西�
 No.6 Hanson\n
 </text>
 
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Hanson.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/Hanson.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
 <text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
 [地理位置]
@@ -116,7 +116,7 @@ No.6 Hanson\n
 No.7 Harrison\n
 </text>
 
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Harrison.png" style="width: 650rpx; height:758rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/Harrison.png" style="width: 650rpx; height:758rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
 <text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
 [地理位置]
@@ -131,7 +131,7 @@ No.7 Harrison\n
 No.8 Hopkins\n
 </text>
 
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Hopkins.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/Hopkins.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
 <text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
 [地理位置]
@@ -146,7 +146,7 @@ No.8 Hopkins\n
 No.9 Howell\n
 </text>
 
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Howell.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/Howell.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
 <text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
 [地理位置]
@@ -163,7 +163,7 @@ No.9 Howell\n
 No.10 Matheson\n
 </text>
 
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Matheson.png" style="width: 650rpx; height:808rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/Matheson.png" style="width: 650rpx; height:808rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
 <text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
 [地理位置]
@@ -178,7 +178,7 @@ Freshman Hill 山脚下，走路快的话走到CULC 5分钟，Howey （物理楼
 No.11 Perry\n
 </text>
 
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Perry.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/Perry.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
 <text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
 [地理位置]
@@ -193,7 +193,7 @@ No.11 Perry\n
 No.12 Smith\n
 </text>
 
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/Smith.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/Smith.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
 <text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
 [优点]

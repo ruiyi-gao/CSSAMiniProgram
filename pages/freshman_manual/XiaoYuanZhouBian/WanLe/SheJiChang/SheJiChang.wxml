@@ -23,7 +23,7 @@ $15 on Ladies' Day
 
 </text>
 
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/stoddards_range_and_guns.png" style="width: 650rpx; height:365rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/stoddards_range_and_guns.png" style="width: 650rpx; height:365rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
 
 <text class="basic" decode="{{true}}">
@@ -43,7 +43,7 @@ Sunday: 12pm to 6pm
 [价格]
 会波动，详情见官网
 </text>
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/quickshot_shooting_range.png" style="width: 650rpx; height:487rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/quickshot_shooting_range.png" style="width: 650rpx; height:487rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
 <text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
 [体验]
@@ -67,7 +67,7 @@ Walk-Ons Welcome:
 Reservation:
 &emsp;&emsp;Everyday
 </text>
-<image src="https://raw.githubusercontent.com/ruiyi-gao/CSSAMiniProgram/images/images/paintball_atlanta.png" style="width: 650rpx; height:366rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/paintball_atlanta.png" style="width: 650rpx; height:366rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
 <text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
 [体验]
