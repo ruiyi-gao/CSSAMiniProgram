@@ -9,7 +9,7 @@ Page({
     cardCur: 0,
     departmentList: [{
         id: 0,
-        icon: '../../../images/MinYue.jpg',
+        icon: '../../../images/MinYue.png',
         color: 'white',
         name: '民乐社',
         bindtap: 'MinYueShe'
