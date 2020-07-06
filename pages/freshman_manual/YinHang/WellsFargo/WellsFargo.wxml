@@ -7,7 +7,7 @@
 Tech Parkway Wells Fargo Bank
 </text>
 
-<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/wells_fargo.png" style="width: 650rpx; height:380rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://gtcssaminiprogram.oss-accelerate.aliyuncs.com/miniprogrampic/wells_fargo.png" style="width: 650rpx; height:380rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
 <text class="basic" decode="{{true}}" style="margin-top: -20rpx; margin-bottom: 0rpx;">
 [官网]

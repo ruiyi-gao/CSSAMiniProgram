@@ -3,7 +3,7 @@
 <text class="title">摄影社</text>
 <text class="center">Photography and Motion Pictures</text>
 
-<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/SheYingShe1.png" style="width:650rpx; height: 345rpx; margin-left: 55rpx; margin-right: 55rpx;" alt="SheYingShe1"></image>
+<image src="https://gtcssaminiprogram.oss-accelerate.aliyuncs.com/miniprogrampic/SheYingShe1.png" style="width:650rpx; height: 345rpx; margin-left: 55rpx; margin-right: 55rpx;" alt="SheYingShe1"></image>
 
 <text class="basic" decode="{{true}}" style="margin-top:-20rpx;  margin-bottom:0rpx;">
 【招新对象】
@@ -22,14 +22,14 @@
 
 </text>
 
-<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/SheYingShe2.png" style="width:650rpx; height: 433rpx; margin-left: 55rpx; margin-right: 55rpx;" alt="SheYingShe2"></image>
+<image src="https://gtcssaminiprogram.oss-accelerate.aliyuncs.com/miniprogrampic/SheYingShe2.png" style="width:650rpx; height: 433rpx; margin-left: 55rpx; margin-right: 55rpx;" alt="SheYingShe2"></image>
 
 <text class="basic" decode="{{true}}" style="margin-top:-20rpx;">
 
 【创始人介绍】
 &ensp;-&ensp;柴能 Ben
 </text>
-<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/SheYing_ChuangShiRen1.png" style="width:650rpx; height: 973rpx; margin-left: 55rpx; margin-right: 55rpx;margin-top: -40rpx;" alt="SheYing_ChuangShiRen1"></image>
+<image src="https://gtcssaminiprogram.oss-accelerate.aliyuncs.com/miniprogrampic/SheYing_ChuangShiRen1.png" style="width:650rpx; height: 973rpx; margin-left: 55rpx; margin-right: 55rpx;margin-top: -40rpx;" alt="SheYing_ChuangShiRen1"></image>
 
 <text class="indent1" decode="{{true}}">
 大一CompE，萌新
@@ -40,7 +40,7 @@ Photography 和Vlogger 一只。
 <text class="basic" decode="{{true}}">
 &ensp;-&ensp;杨宏毅 Leo
 </text>
-<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/SheYing_ChuangShiRen2.png" style="width:650rpx; height: 978rpx; margin-left: 55rpx; margin-right: 55rpx;margin-top: -40rpx;" alt="SheYing_ChuangShiRen2"></image>
+<image src="https://gtcssaminiprogram.oss-accelerate.aliyuncs.com/miniprogrampic/SheYing_ChuangShiRen2.png" style="width:650rpx; height: 978rpx; margin-left: 55rpx; margin-right: 55rpx;margin-top: -40rpx;" alt="SheYing_ChuangShiRen2"></image>
 
 <text class="indent1" decode="{{true}}">
 哈喽！我是杨弘毅，也可以叫我Leo。 

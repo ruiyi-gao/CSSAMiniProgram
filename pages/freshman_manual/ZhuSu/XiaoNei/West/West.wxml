@@ -10,7 +10,7 @@
 3.每栋楼的具体位置如图所示
 </text>
 
-<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/West_Campus_Map.PNG" style="width: 650rpx; height: 600rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://gtcssaminiprogram.oss-accelerate.aliyuncs.com/miniprogrampic/West_Campus_Map.PNG" style="width: 650rpx; height: 600rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
 
 <!--Armstrong-->
@@ -22,7 +22,7 @@ No.1 Armstrong/Hefner (Honors Program)
 
 </text>
 
-<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/Armsrtong.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://gtcssaminiprogram.oss-accelerate.aliyuncs.com/miniprogrampic/Armsrtong.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
 <text class="basic" decode="{{true}}" style="margin-top: 0rpx; margin-bottom: 0rpx;">
 [地址]
@@ -41,7 +41,7 @@ Hefner 和 Armstrong 都是属于Honor Program LLC（Living Learning Community�
 No.2 Fulmer\n
 </text>
 
-<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/Fulmer.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://gtcssaminiprogram.oss-accelerate.aliyuncs.com/miniprogrampic/Fulmer.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
 <text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
 [地址]
@@ -64,7 +64,7 @@ Fulmer没有电梯，搬宿舍的时候花了好长时间。Fulmer大部分洗�
 No.3 Fitten\n
 </text>
 
-<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/Fitten.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://gtcssaminiprogram.oss-accelerate.aliyuncs.com/miniprogrampic/Fitten.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
 <text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
 [地址]
@@ -84,7 +84,7 @@ Fitten是西边比较新的楼，所以基础设施都特别新，西边几个�
 No.4 Montag/Freeman\n
 </text>
 
-<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/Montag.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://gtcssaminiprogram.oss-accelerate.aliyuncs.com/miniprogrampic/Montag.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
 <text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
 [地址]
@@ -105,7 +105,7 @@ FFM家庭成员。火警最多获奖者。这三个宿舍楼偶尔会共同举�
 No.5 Folk/Caldwell\n
 </text>
 
-<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/Folk.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://gtcssaminiprogram.oss-accelerate.aliyuncs.com/miniprogrampic/Folk.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
 <text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
 [地址]
@@ -124,7 +124,7 @@ Caldwell: 521 Turner Place NW, Atlanta, GA 30318
 No.6 Woodruff\n
 </text>
 
-<image src="https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/Woodruff.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
+<image src="https://gtcssaminiprogram.oss-accelerate.aliyuncs.com/miniprogrampic/Woodruff.png" style="width: 650rpx; height:284rpx; margin-left: 55rpx; margin-right: 55rpx;"></image>
 
 <text class="basic" decode="{{true}}" style="margin-top: 0rpx;">
 [地址]

@@ -35,15 +35,15 @@ Page({
     swiperList: [{
       id: 0,
       type: 'image',
-      url: 'https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/Welcome.PNG'
+      url: 'https://gtcssaminiprogram.oss-accelerate.aliyuncs.com/miniprogrampic/Welcome.PNG'
     }, {
       id: 1,
       type: 'image',
-        url: 'https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/CSSA.PNG',
+        url: 'https://gtcssaminiprogram.oss-accelerate.aliyuncs.com/miniprogrampic/CSSA.PNG',
     }, {
       id: 2,
       type: 'image',
-        url: 'https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/CSSA_2.PNG'
+        url: 'https://gtcssaminiprogram.oss-accelerate.aliyuncs.com/miniprogrampic/CSSA_2.PNG'
     }],
 
   },

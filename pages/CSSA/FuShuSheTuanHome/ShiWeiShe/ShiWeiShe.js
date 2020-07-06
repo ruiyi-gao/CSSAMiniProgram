@@ -8,15 +8,15 @@ Page({
     swiperList: [{
       id: 0,
       type: 'image',
-      url: 'https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/ShiWeiShe1.png'
+      url: 'https://gtcssaminiprogram.oss-accelerate.aliyuncs.com/miniprogrampic/ShiWeiShe1.png'
     }, {
       id: 1,
       type: 'image',
-        url: 'https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/ShiWeiShe2.png',
+        url: 'https://gtcssaminiprogram.oss-accelerate.aliyuncs.com/miniprogrampic/ShiWeiShe2.png',
     }, {
       id: 2,
       type: 'image',
-        url: 'https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/ShiWeiShe3.png'
+        url: 'https://gtcssaminiprogram.oss-accelerate.aliyuncs.com/miniprogrampic/ShiWeiShe3.png'
     }]
   },
 
