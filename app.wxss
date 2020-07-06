@@ -12,7 +12,8 @@
 
 .bg_wrap{
  width: 750rpx;
- margin: 50rpx auto
+ margin: 50rpx auto;
+ overflow-x:hidden;
 }
 
 .title{
