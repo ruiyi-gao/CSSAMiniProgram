@@ -5,5 +5,5 @@
     <text style="font-size:37rpx;">校内实习</text>
 </button>
 <button class="cu-btn bg-pink lg" style="height:{{height}}px; width:{{width}}px" bindtap="SSN_CPT">
-    <text style="font-size:37rpx;" decode="{{true}}">SSN&ensp;&&ensp;CTP</text>
+    <text style="font-size:37rpx;" decode="{{true}}">SSN&ensp;&&ensp;CPT</text>
 </button>
