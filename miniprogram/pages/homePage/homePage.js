@@ -1,3 +1,5 @@
+const db = wx.cloud.database() //连接数据库
+
 // pages/homePage/homePage.js
 Page({
 

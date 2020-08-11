@@ -1,0 +1,15 @@
+.left{
+  width: 400rpx;
+}
+
+.placeholder{
+  width: 350rpx;
+  height: 72rpx;
+  line-height: 72rpx;
+  font-size: 28rpx;
+  color: black;
+  border: 1rpx solid #CECECE;
+  border-radius: 5rpx;
+  display: inline-block;
+ }
+

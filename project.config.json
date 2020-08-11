@@ -3,6 +3,8 @@
 	"packOptions": {
 		"ignore": []
 	},
+	"miniprogramRoot": "miniprogram/",
+	"cloudfunctionRoot": "cloudfunctions/",
 	"setting": {
 		"urlCheck": true,
 		"es6": true,
@@ -44,13 +46,35 @@
 			"current": -1,
 			"list": []
 		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
 		"game": {
 			"currentL": -1,
 			"list": []
 		},
-		"miniprogram": {
+		"gamePlugin": {
 			"current": -1,
 			"list": []
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": [
+				{
+					"id": -1,
+					"name": "pages/freshman_manual/Email_Verify1/Email_Verify1",
+					"pathName": "pages/freshman_manual/Email_Verify1/Email_Verify1",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/freshman_manual/Email_Verify1/Email_Verify2",
+					"pathName": "pages/freshman_manual/Email_Verify2/Email_Verify2",
+					"scene": null
+				}
+			]
 		}
 	}
 }

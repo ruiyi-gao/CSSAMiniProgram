@@ -1,0 +1,25 @@
+<view class="bg_wrap">
+
+  <text class="title">邮箱验证</text>
+
+  <text class="basic" style="padding-top: 40rpx;">请输入验证码</text>
+
+  <view style="padding-left: 100rpx;">
+    <view class="left">
+      <input class="placeholder"></input>
+    </view>
+
+    <view style="display:flex">
+      <button type="primary" style="width: 170rpx; height: 72rpx; background-color: rgb(255, 156, 166); margin-left: 370rpx; margin-top: -80rpx;">重发</button>
+    </view>
+  </view>
+
+  <text class="basic" decode="{{true}}" style="margin-top: 20rpx;">
+    Tips: 请不要和别人分享您的二维码，谢谢！
+  </text>
+
+  <view style="padding-top: 50rpx;">
+  <button type="primary" style="background-color: rgb(255, 156, 166); " bindtap="buttonPressed">点击提交</button>
+  </view>
+
+</view>

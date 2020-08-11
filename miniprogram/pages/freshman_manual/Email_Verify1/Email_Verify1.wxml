@@ -1,0 +1,27 @@
+<view class="bg_wrap" style="">
+
+  <text class="title">邮箱验证</text>
+
+  <text class="basic" decode="{{true}}">
+    您好，
+    我们的专业群只针对佐治亚理工的学生学者开放。
+
+    为了验证您的身份，请输入您的GT邮箱，谢谢。
+
+    验证码将在稍后发送到您的邮箱内，若5分钟没有收到邮件，请检查您的Spam Folder
+  </text>
+
+  <view style="display: flex; item-align: center; padding-left:30rpx;">
+    <text class="basic" style="margin-top: 7rpx;">Email:</text>
+    <input class="placeholder" style="border: 1px solid black" placeholder="" value="{{email}}" bindinput="bindKeyInputEmail" />
+  </view>
+
+  <text class="basic" decode="{{true}}" style="margin-top: -30rpx;">
+  Tips: 请不要和别人分享您的二维码，谢谢！
+  </text>
+
+  <view style="padding-top: 50rpx;">
+  <button type="primary" style="background-color: rgb(255, 156, 166); " bindtap="buttonPressed">点击发送验证码</button>
+  </view>
+
+</view>
