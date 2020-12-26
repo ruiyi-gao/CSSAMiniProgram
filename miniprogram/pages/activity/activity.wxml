@@ -1,2 +1,14 @@
 <!--pages/activity/activity.wxml-->
-<text>lalala</text>
+<view class="bg_wrap">
+
+  <text class="title">活动页面</text>
+  <view class='basic' wx:for="{{activity}}">
+    <!--index为每个数据对应的下标-->
+    <view>
+      <text>活动：{{index+1}}</text>
+    </view>
+    <view>{{item.name}}</view>
+    <view>{{item.time.toLocaleDateString()}}</view>
+    <view>{{item.activity_content}}</view>
+  </view>
+</view>

@@ -73,8 +73,14 @@
           "scene": null
         },
         {
-          "name": "activity",
+          "name": "activity_page",
           "pathName": "pages/activity/activity",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "ZhuXiTuan",
+          "pathName": "pages/CSSA/ZhuXiTuan/ZhuXiTuan",
           "query": "",
           "scene": null
         }
