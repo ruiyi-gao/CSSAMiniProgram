@@ -47,28 +47,16 @@
   "simulatorType": "wechat",
   "simulatorPluginLibVersion": {},
   "condition": {
-    "search": {
-      "current": -1,
-      "list": []
-    },
-    "conversation": {
-      "current": -1,
-      "list": []
-    },
     "plugin": {
-      "current": -1,
       "list": []
     },
     "game": {
-      "currentL": -1,
       "list": []
     },
     "gamePlugin": {
-      "current": -1,
       "list": []
     },
     "miniprogram": {
-      "current": -1,
       "list": [
         {
           "id": -1,
@@ -81,6 +69,13 @@
           "id": -1,
           "name": "pages/freshman_manual/Email_Verify1/Email_Verify2",
           "pathName": "pages/freshman_manual/Email_Verify2/Email_Verify2",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "activity",
+          "pathName": "pages/activity/activity",
+          "query": "",
           "scene": null
         }
       ]
