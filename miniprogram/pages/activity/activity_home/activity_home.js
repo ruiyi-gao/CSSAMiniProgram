@@ -1,3 +1,6 @@
+/**
+ * connect DB to the database named "activities"
+ */
 const DB = wx.cloud.database().collection("activities")
 Page({
 
@@ -12,12 +15,22 @@ Page({
    * Lifecycle function--Called when page load
    */
   onLoad: function (options) {
+    /**
+     * store data to activity
+     */
     DB.get({
       success: res => {
         this.setData({
           activity: res.data
         })
       }
+    })
+  },
+
+  queryItemClick: function(e) {
+    var id = e.target.dataset.id
+    wx.navigateTo({
+      url: '../activity_template/activity_template?id=' + id
     })
   },
 
