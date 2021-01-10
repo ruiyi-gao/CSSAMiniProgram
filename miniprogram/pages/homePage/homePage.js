@@ -15,15 +15,15 @@ Page({
       bindtap: 'XiaoYuanZhouBian'
     }, {
       id: 1,
-      icon: 'shopfill',
+      icon: 'activity',
       color: 'orange',
-      name: '住宿',
-      bindtap: 'ZhuSu'
+      name: '附属社团',
+      bindtap: 'FuShuSheTuan'
     }, {
       id: 2,
-      icon: 'card',
+      icon: 'goods',
       color: 'yellow',
-      name: '银行',
+      name: '生活必需',
       bindtap: 'YinHang'
     }, {
       id: 3,
@@ -72,6 +72,12 @@ Page({
   XiaoYuanZhouBian: function () {
     wx.navigateTo({
       url: '../freshman_manual/XiaoYuanZhouBian/XiaoYuanZhouBian'
+    })
+  },
+
+  FuShuSheTuan: function () {
+    wx.navigateTo({
+      url: '../CSSA/FuShuSheTuanHome/FuShuSheTuanHome'
     })
   },
 
