@@ -9,7 +9,7 @@ Page({
   data: {
     iconList: [{
       id: 0,
-      icon: 'discoverfill',
+      icon: 'discover',
       color: 'red',
       name: '校园周边',
       bindtap: 'XiaoYuanZhouBian'
@@ -27,7 +27,7 @@ Page({
       bindtap: 'YinHang'
     }, {
       id: 3,
-      icon: 'noticefill',
+      icon: 'notice',
       color: 'olive',
       name: '选课/学习',
       bindtap: 'XuanKe'
