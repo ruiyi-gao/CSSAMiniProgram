@@ -37,8 +37,9 @@ Page({
               console.log(res);
               // 计算主体部分高度,单位为px
               that.setData({
-                width: res.windowWidth,
-                height: res.windowHeight / 3,
+                leftBorderWidth: res.windowWidth/22,
+                width: res.windowWidth/1.10,
+                height: res.windowHeight / 4.55
               })
             },
           }) 

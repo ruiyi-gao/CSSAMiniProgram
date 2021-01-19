@@ -1,1 +1,4 @@
 /* pages/freshman_manual/ZhiYeGuiHua/XiaoWaiShiXi/XiaoWaiHome.wxss */
+page{
+  background-color: rgb(41,40,53);
+}

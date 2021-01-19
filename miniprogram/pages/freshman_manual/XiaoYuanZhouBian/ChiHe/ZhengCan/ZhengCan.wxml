@@ -1,3 +1,4 @@
+<!--
 <button class="cu-btn bg-pink lg" style="height:{{height}}px; width:{{width}}px" bindtap="Barcelona">
     <text style="font-size:37rpx;">Barcelona Wine Bar</text>
 </button>
@@ -7,3 +8,16 @@
 <button class="cu-btn bg-pink lg" style="height:{{height}}px; width:{{width}}px" bindtap="Jia">
     <text style="font-size:37rpx;">Jia</text>
 </button>
+-->
+<view class="bg-img radius shadow-blur margin-top bg-img" style="background-image: url('https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/Barcelona.png');height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
+    <view class="cuIcon-edit" bindtap="Barcelona" style="font-size: 100rpx; padding-left: 310rpx;padding-top: 100rpx;color:rgb(41,40,53)"></view>
+          <text bindtap="Barcelona" style="font-size:40rpx; padding-left: 200rpx; color:rgb(41,40,53)">Barcelona Wine Bar</text>
+</view>
+<view class="bg-img radius shadow-blur margin-top bg-img" style="background-image: url('https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/Wagaya.png');height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
+    <view class="cuIcon-edit" bindtap="Wagaya" style="font-size: 100rpx; padding-left: 310rpx;padding-top: 100rpx;color:rgb(41,40,53)"></view>
+          <text bindtap="Wagaya" style="font-size:40rpx; padding-left: 280rpx; color:rgb(41,40,53)">Wagaya</text>
+</view>
+<view class="bg-img radius shadow-blur margin-top bg-img" style="background-image: url('https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/Jia.png');height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
+    <view class="cuIcon-home" bindtap="Jia" style="font-size: 100rpx; padding-left: 310rpx;padding-top: 100rpx;color:rgb(41,40,53)"></view>
+          <text bindtap="Jia" style="font-size:40rpx; padding-left: 323rpx; color:rgb(41,40,53)">Jia</text>
+</view>

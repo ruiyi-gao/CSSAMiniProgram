@@ -1,3 +1,4 @@
+<!--
 <button class="cu-btn bg-blue lg" style="height:{{height}}px; width:{{width}}px" bindtap="BoWuGuan">
     <text style="font-size:37rpx;">博物馆</text>
 </button>
@@ -13,3 +14,26 @@
 <button class="cu-btn bg-blue lg" style="height:{{height}}px; width:{{width}}px" bindtap="GouWu">
     <text style="font-size:37rpx;">购物休闲</text>
 </button>
+-->
+
+<view class="bg-img radius shadow-blur margin-top bg-img" style="background-image: url('https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/Bowuguan.png');height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
+    <view class="cuIcon-ticket" bindtap="BoWuGuan" style="font-size: 100rpx; padding-left: 310rpx;padding-top: 30rpx;color:rgb(41,40,53)"></view>
+          <text bindtap="BoWuGuan" style="font-size:40rpx; padding-left: 300rpx; color:rgb(41,40,53)">博物馆</text>
+</view>
+<view class="bg-img radius shadow-blur margin-top bg-img" style="background-image: url('https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/Jingdianyouwan.png');height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
+    <view class="cuIcon-camerarotate" bindtap="YouLeChang" style="font-size: 100rpx; padding-left: 310rpx;padding-top: 30rpx;color:rgb(41,40,53)"></view>
+          <text bindtap="YouLeChang" style="font-size:40rpx; padding-left: 280rpx; color:rgb(41,40,53)">景点游玩</text>
+</view>
+<view class="bg-img radius shadow-blur margin-top bg-img" style="background-image: url('https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/Youlechang.png');height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
+    <view class="cuIcon-location" bindtap="YouLeChang" style="font-size: 100rpx; padding-left: 310rpx;padding-top: 30rpx;color:rgb(41,40,53)"></view>
+          <text bindtap="YouLeChang" style="font-size:40rpx; padding-left: 300rpx; color:rgb(41,40,53)">游乐场</text>
+</view>
+<view class="bg-img radius shadow-blur margin-top bg-img" style="background-image: url('https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/Sheji.png');height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
+    <view class="cuIcon-explore" bindtap="SheJiChang" style="font-size: 100rpx; padding-left: 310rpx;padding-top: 30rpx;color:rgb(41,40,53)"></view>
+          <text bindtap="SheJiChang" style="font-size:40rpx; padding-left: 240rpx; color:rgb(41,40,53)">射击场/真人CS</text>
+</view>
+<view class="bg-img radius shadow-blur margin-top bg-img" style="background-image: url('https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/Gouwu.png');height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
+    <view class="cuIcon-goods" bindtap="GouWu" style="font-size: 100rpx; padding-left: 310rpx;padding-top: 30rpx;color:rgb(41,40,53)"></view>
+          <text bindtap="GouWu" style="font-size:40rpx; padding-left: 280rpx; color:rgb(41,40,53)">购物休闲</text>
+</view>
+

@@ -1,1 +1,4 @@
 /* pages/freshman_manual/XiaoYuanZhouBian/ChiHeHome/ChiHeHome.wxss */
+page{
+  background-color: rgb(41,40,53);
+}
