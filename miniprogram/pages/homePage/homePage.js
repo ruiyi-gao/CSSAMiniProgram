@@ -63,6 +63,12 @@ Page({
     })
   },
 
+  Activity: function(){
+    wx.navigateTo({
+      url: '../activity/activity_home/activity_home'
+    })
+  },
+
   freshman_manual: function () {
     wx.navigateTo({
       url: '../freshman_manual_home/freshman_manual_home'
