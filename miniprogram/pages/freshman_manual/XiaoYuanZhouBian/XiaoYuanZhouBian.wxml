@@ -6,12 +6,13 @@
     <text style="font-size:37rpx;">玩乐</text>
 </button>
 -->
-<view class="bg-img radius shadow-blur margin-top bg-img" style="background-image: url('https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/Recommendpage.png');height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
+<!--'https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/Recommendpage.png'-->
+<view class="bg-img radius shadow-blur margin-top bg-img " style="background-image: url('https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/RecommendUpdate.jpeg');height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
     <view class="cuIcon-appreciate" bindtap="TeBieTuiJian" style="font-size: 100rpx; padding-left: 310rpx;padding-top: 100rpx;color:rgb(41,40,53)"></view>
           <text bindtap="TeBieTuiJian" style="font-size:40rpx; padding-left: 280rpx; color:rgb(41,40,53)">特别推荐</text>
 </view>
 
-<view class="bg-img radius shadow-blur margin-top bg-img" style="background-image: url('https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/Chihe.png');height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
+<view class="bg-img radius shadow-blur margin-top bg-img" style="background-image: url('https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/chihe5.jpg');height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
     <view class="cuIcon-shop" bindtap="ChiHe" style="font-size: 100rpx; padding-left: 310rpx;padding-top: 100rpx;color:rgb(41,40,53)"></view>
           <text bindtap="ChiHe" style="font-size:40rpx; padding-left: 320rpx; color:rgb(41,40,53)">吃喝</text>
 </view>
