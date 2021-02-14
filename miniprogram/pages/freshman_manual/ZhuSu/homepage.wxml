@@ -6,7 +6,7 @@
     <text style="font-size:37rpx;">校外</text>
 </button>
 -->
-<view class="bg-img radius shadow-blur margin-top bg-img" style="background-image: url('https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/RecommendUpdate.jpeg');height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
+<view class="bg-img radius shadow-blur margin-top bg-img" style="background-image: url('https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/sponsor_recommend.jpg');height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
     <view class="cuIcon-appreciate" bindtap="" style="font-size: 100rpx;  padding-left: 290rpx;padding-top: 100rpx;color:rgb(41,40,53)"></view>
           <text bindtap="" style="font-size:40rpx; padding-left: 270rpx; color:rgb(41,40,53)">特别推荐</text>
 </view>
