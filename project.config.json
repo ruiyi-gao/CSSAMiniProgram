@@ -38,7 +38,8 @@
     "userConfirmedBundleSwitch": false,
     "packNpmManually": false,
     "packNpmRelationList": [],
-    "minifyWXSS": true
+    "minifyWXSS": true,
+    "bundle": false
   },
   "compileType": "miniprogram",
   "libVersion": "2.10.2",
@@ -51,6 +52,12 @@
   "simulatorType": "wechat",
   "simulatorPluginLibVersion": {},
   "condition": {
+    "search": {
+      "list": []
+    },
+    "conversation": {
+      "list": []
+    },
     "plugin": {
       "list": []
     },
@@ -74,6 +81,12 @@
           "name": "pages/freshman_manual/Email_Verify1/Email_Verify2",
           "pathName": "pages/freshman_manual/Email_Verify2/Email_Verify2",
           "query": "",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "pages/sponsor/sponsor",
+          "pathName": "pages/sponsor/sponsor",
           "scene": null
         },
         {
