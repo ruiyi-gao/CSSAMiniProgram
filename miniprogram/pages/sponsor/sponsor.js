@@ -1,6 +1,13 @@
 // pages/sponsor/sponsor.js
 const d = wx.cloud.database()
-const id = 0 //from 0 to 3
+/** Sponsorship
+  * index : 广告类型
+  * 0     : 吃喝玩乐
+  * 1     : 选课/学习
+  * 2     : 银行
+  * 3     : 职业规划
+  * 4     : 住宿
+  */
 
 Page({
 
@@ -51,6 +58,7 @@ Page({
     })
   },*/
   onLoad: function (options) {
+    var id = options.id
     d.collection("sponsor_info").get({
       success: res => {
         this.setData({

@@ -11,8 +11,8 @@
 -->
 
 <view class="bg-img radius shadow-blur margin-top bg-img" style="background-image: url('https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/sponsor_recommend.jpg');height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
-    <view class="cuIcon-appreciate" bindtap="" style="font-size: 100rpx;  padding-left: 310rpx;padding-top: 100rpx;color:rgb(41,40,53)"></view>
-          <text bindtap="" style="font-size:40rpx; padding-left: 290rpx; color:rgb(41,40,53)">特别推荐</text>
+    <view class="cuIcon-appreciate" bindtap="TeBieTuiJian" style="font-size: 100rpx;  padding-left: 310rpx;padding-top: 100rpx;color:rgb(41,40,53)"></view>
+          <text bindtap="TeBieTuiJian" style="font-size:40rpx; padding-left: 290rpx; color:rgb(41,40,53)">特别推荐</text>
 </view>
 <view class="bg-img radius shadow-blur margin-top bg-img" style="background-image: url('https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/study.webp');height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
     <view class="cuIcon-write" bindtap="XueXi" style="font-size: 100rpx; padding-left: 310rpx;padding-top: 50rpx;color:rgb(41,40,53)"></view>
