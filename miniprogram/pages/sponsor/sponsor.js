@@ -1,6 +1,6 @@
 // pages/sponsor/sponsor.js
 const d = wx.cloud.database()
-const id = 3
+const id = 1
 
 Page({
 
