@@ -1,6 +1,22 @@
+<!--
 <button class="cu-btn bg-pink lg" style="height:{{height}}px; width:{{width}}px" bindtap="XiaoNei">
     <text style="font-size:37rpx;">校内</text>
 </button>
 <button class="cu-btn bg-blue lg" style="height:{{height}}px; width:{{width}}px" bindtap="XiaoWai">
     <text style="font-size:37rpx;">校外</text>
 </button>
+-->
+<view class="bg-img radius shadow-blur margin-top bg-img" style="background-image: url('https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/sponsor_recommend.jpg');height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
+    <view class="cuIcon-appreciate" bindtap="" style="font-size: 100rpx;  padding-left: 290rpx;padding-top: 100rpx;color:rgb(41,40,53)"></view>
+          <text bindtap="" style="font-size:40rpx; padding-left: 270rpx; color:rgb(41,40,53)">特别推荐</text>
+</view>
+ 
+<view class="bg-img radius shadow-blur margin-top bg-img" style="background-image: url('https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/XiaoneiRevise.png');height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
+    <view class="cuIcon-home" bindtap="XiaoNei" style="font-size: 100rpx;  padding-left: 290rpx;padding-top: 100rpx;color:rgb(41,40,53)"></view>
+          <text bindtap="XueXi" style="font-size:40rpx; padding-left: 300rpx; color:rgb(41,40,53);">校内</text>
+</view>
+
+<view class="bg-img radius shadow-blur margin-top bg-img" style="background-image: url('https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/XiaoWaiRevised.png');height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
+    <view class="cuIcon-home" bindtap="XiaoWai" style="font-size: 100rpx;  padding-left: 290rpx;padding-top: 100rpx;color:rgb(41,40,53)"></view>
+          <text bindtap="XueXi" style="font-size:40rpx; padding-left: 300rpx; color:rgb(41,40,53);font-weight:bold">校外</text>
+</view>

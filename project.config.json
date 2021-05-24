@@ -23,13 +23,15 @@
     "checkSiteMap": true,
     "uploadWithSourceMap": true,
     "compileHotReLoad": false,
-    "useMultiFrameRuntime": false,
+    "useMultiFrameRuntime": true,
     "useApiHook": true,
+    "useApiHostProcess": false,
     "babelSetting": {
       "ignore": [],
       "disablePlugins": [],
       "outputPath": ""
     },
+    "bundle": false,
     "useIsolateContext": true,
     "useCompilerModule": true,
     "userConfirmedUseCompilerModuleSwitch": false,
@@ -60,7 +62,6 @@
       "list": []
     },
     "game": {
-      "currentL": -1,
       "list": []
     },
     "gamePlugin": {
@@ -86,6 +87,12 @@
           "id": -1,
           "name": "pages/sponsor/sponsor",
           "pathName": "pages/sponsor/sponsor",
+          "scene": null
+        },
+        {
+          "name": "activity_home",
+          "pathName": "pages/activity/activity_home/activity_home",
+          "query": "",
           "scene": null
         }
       ]

@@ -1,41 +1,43 @@
-// pages/freshman_manual/XiaoYuanZhouBian/XiaoYuanZhouBian.js
+/**
+ * connect DB to the database named "activities"
+ */
+const DB = wx.cloud.database().collection("activities")
 Page({
 
   /**
    * Page initial data
    */
   data: {
-    width: 200, height: 500,
-  },
-
-  ChiHe: function () {
-    wx.navigateTo({
-      url: 'ChiHe/ChiHeHome'
-    })
-  },
-
-  WanLe: function () {
-    wx.navigateTo({
-      url: 'WanLe/WanLeHome'
-    })
+    activity: [],
   },
 
   /**
    * Lifecycle function--Called when page load
    */
   onLoad: function (options) {
-    var that = this;
-    wx.getSystemInfo({
-            success: function (res) {
-              console.log(res);
-              // 计算主体部分高度,单位为px
-              that.setData({
-        leftBorderWidth: res.windowWidth/22,
-          width: res.windowWidth/1.10,
-        height: res.windowHeight / 3.4
-              })
-            },
-          }) 
+    /**
+     * store data to activity
+     */
+    DB.get({
+      success: res => {
+        //将云端储存的data.item转为String, 移除秒数
+        var modified = res.data
+        for (let i in res.data) {
+          modified[i].time = res.data[i].time.toLocaleString()
+          modified[i].time = modified[i].time.substring(0, modified[i].time.length - 3)
+        }
+        this.setData({
+          activity: modified
+        })
+      }
+    })
+  },
+
+  queryItemClick: function(e) {
+    var id = e.target.dataset.id
+    wx.navigateTo({
+      url: '../activity_template/activity_template?id=' + id
+    })
   },
 
   /**

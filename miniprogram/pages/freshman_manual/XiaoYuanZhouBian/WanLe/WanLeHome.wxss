@@ -1,1 +1,4 @@
 /* pages/freshman_manual/XiaoYuanZhouBian/WanLe/WanLeHome.wxss */
+page{
+  background-color: rgb(41,40,53);
+}

@@ -58,6 +58,9 @@
     "pages/freshman_manual/Email_Verify1/Email_Verify1",
     "pages/freshman_manual/Email_Verify2/Email_Verify2",
     "pages/freshman_manual/ZhuanYeQun/ZhuanYeQun",
+    
+    "pages/activity/activity_home/activity_home",
+    "pages/activity/activity_template/activity_template",
 
     "pages/sponsor/sponsor",
 

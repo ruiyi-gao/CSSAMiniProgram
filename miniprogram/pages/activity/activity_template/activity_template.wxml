@@ -1,0 +1,12 @@
+<!--pages/activity/activity.wxml-->
+<view class="bg_wrap">
+
+  <text class="title" style="color:white">{{activity.name}}</text>
+  <view class="basic">
+        <view> 
+          <image src="{{activity.image_ID}}" style="width:480rpx; height:270rpx;"> </image>
+        </view>
+        <text>{{activity.name}}</text>
+        <view style="height:50rpx; "></view>
+  </view>
+</view>

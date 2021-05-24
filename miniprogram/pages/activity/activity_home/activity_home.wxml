@@ -1,0 +1,26 @@
+<!--pages/activity/activity.wxml-->
+
+<view class="bg_wrap">
+
+  <!--<text class="title" style="color:white;font-weight:bold;">近期活动</text>-->
+  <view class="basic" wx:for="{{activity}}" wx:key="id">
+        <div class="activity_info">
+          <view> 
+            <image data-id='{{index}}' src="{{item.image_ID}}" bindtap='queryItemClick' class="data_image"> </image>
+          </view>
+          <div data-id='{{index}}' class="bottom_info" bindtap='queryItemClick'>
+            <view data-id='{{index}}' class="name">
+              <text>{{item.name}}</text>
+            </view>
+            <view data-id='{{index}}' class="time">
+              <text>{{item.time}}</text>
+            </view>
+            <view data-id='{{index}}' class="location">
+              <image src="../../../images/locationIcon.png" style="height:32rpx;width:32rpx"></image>
+              <text>{{item.location}}</text>
+            </view>
+          </div>
+          <view style="height:50rpx; "></view>
+        </div>
+  </view>
+</view>

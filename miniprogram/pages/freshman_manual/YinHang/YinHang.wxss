@@ -1,1 +1,8 @@
 /* pages/freshman_manual/YinHang/YinHang.wxss */
+page{
+  background-color: rgb(41,40,53);
+}
+text{
+  opacity: 1;
+}
+

@@ -1,4 +1,5 @@
 // pages/freshman_manual_home/freshman_manual_home.js
+const db = wx.cloud.database() //连接数据库
 Page({
 
   /**

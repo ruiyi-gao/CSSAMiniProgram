@@ -1,47 +1,25 @@
-// pages/freshman_manual/ZhiYeGuiHua/ZhiYeGuiHua.js
+const DB = wx.cloud.database().collection("activities")
 Page({
 
   /**
    * Page initial data
    */
   data: {
-    width: 0, height: 0,
-  },
-
-  XiaoNeiShiXi: function () {
-    wx.navigateTo({
-      url: 'XiaoNeiShiXi/XiaoNeiShiXi'
-    })
-  },
-
-  XiaoWaiShiXi: function () {
-    wx.navigateTo({
-      url: 'XiaoWaiShiXi/XiaoWaiHome'
-    })
-  },
-
-  SSN_CPT: function () {
-    wx.navigateTo({
-      url: 'SSN_CPT/SSN_CPT'
-    })
+    activity: {},
   },
 
   /**
    * Lifecycle function--Called when page load
    */
   onLoad: function (options) {
-    var that = this;
-    wx.getSystemInfo({
-            success: function (res) {
-              console.log(res);
-              // 计算主体部分高度,单位为px
-              that.setData({
-                  leftBorderWidth: res.windowWidth/22,
-                  width: res.windowWidth/1.10,
-                  height: res.windowHeight / 4.5
-              })
-            },
-          }) 
+    var id = options.id
+    DB.get({
+      success: res => {
+        this.setData({
+          activity: res.data[id]
+        })
+      }
+    })
   },
 
   /**
