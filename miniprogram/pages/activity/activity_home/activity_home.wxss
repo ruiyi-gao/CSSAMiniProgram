@@ -6,7 +6,7 @@ page{
   margin-left: 50rpx;
   margin-right: 50rpx;
   margin-top: 10rpx;
-  margin-bottom: 10rpx;
+  margin-bottom: 30rpx;
   display: flex;
 }
 
@@ -32,7 +32,7 @@ page{
   position: absolute;
   height: 140rpx;
   width: 690rpx;
-  background: rgba(240,255,255, 0.2);
+  background: rgba(240,255,255, 0.6);
   border-radius: 8px;
   bottom: 30rpx;
   left: -20rpx;
