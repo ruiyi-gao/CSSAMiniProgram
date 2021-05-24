@@ -59,6 +59,8 @@
     "pages/freshman_manual/Email_Verify2/Email_Verify2",
     "pages/freshman_manual/ZhuanYeQun/ZhuanYeQun",
 
+    "pages/sponsor/sponsor",
+
     "pages/me/me",
 
     "pages/logs/logs"
