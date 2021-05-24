@@ -8,14 +8,14 @@
           <view> 
             <image data-id='{{index}}' src="{{item.image_ID}}" bindtap='queryItemClick' class="data_image"> </image>
           </view>
-          <div data-id='{{index}}' class="bottom_info" bindtap='queryItemClick'>
-            <view data-id='{{index}}' class="name">
+          <div class="bottom_info">
+            <view class="name">
               <text>{{item.name}}</text>
             </view>
-            <view data-id='{{index}}' class="time">
+            <view class="time">
               <text>{{item.time}}</text>
             </view>
-            <view data-id='{{index}}' class="location">
+            <view class="location">
               <image src="../../../images/locationIcon.png" style="height:32rpx;width:32rpx"></image>
               <text>{{item.location}}</text>
             </view>

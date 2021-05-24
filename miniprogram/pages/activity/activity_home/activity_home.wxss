@@ -36,6 +36,7 @@ page{
   border-radius: 8px;
   bottom: 30rpx;
   left: -20rpx;
+  pointer-events: none;
 }
 
 .name {

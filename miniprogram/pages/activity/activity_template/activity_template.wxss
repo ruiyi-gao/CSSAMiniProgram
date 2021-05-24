@@ -8,9 +8,35 @@ page{
   margin-top: 10rpx;
   margin-bottom: 10rpx;
   display: flex;
+  position:relative;
 }
 
 .bg_wrap {
   width:100%;
   overflow-x:hidden;
+}
+
+.title{
+  color:white;
+  position:relative;
+  margin-bottom:12px;
+  font-size:20px;
+  font-weight:bold;
+}
+
+.text{
+  color: rgb(240,255,255);
+  font-size: 16px;
+}
+
+.subtitle{
+  color: #33CCFF;
+  font-size: 18px;
+  font-family: 'Microsoft JhengHei';
+}
+.bottom_left{
+  color: rgb(240,255,255);
+  position: relative;
+  bottom: -32px;
+  font-size: 10px;
 }

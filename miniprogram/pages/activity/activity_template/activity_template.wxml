@@ -1,12 +1,34 @@
 <!--pages/activity/activity.wxml-->
 <view class="bg_wrap">
 
-  <text class="title" style="color:white">{{activity.name}}</text>
+  <text class="title" >{{activity.name}}</text>
   <view class="basic">
         <view> 
-          <image src="{{activity.image_ID}}" style="width:480rpx; height:270rpx;"> </image>
+          <text class="subtitle">活动简介</text>
         </view>
-        <text>{{activity.name}}</text>
         <view style="height:50rpx; "></view>
+  </view>
+  <view class="basic">
+          <text class="text">时间：</text>
+          <text class="text">{{activity.time}}</text>
+  </view>
+  <view class="basic">
+          <text class="text">地点：</text>
+          <text class="text">{{activity.location}}</text>
+  </view>
+  <view class="basic" style="margin-top:12px">
+          <text class="text">{{activity.introduction}}</text>
+  </view>
+  <view class="basic">
+          <image src="{{activity.image_ID}}" style="width:740rpx; height:420rpx;border-radius:12px"> </image>
+  </view>
+  <view class="basic" style="margin-top:12px">
+          <text class="subtitle">具体流程</text>
+  </view>
+  <view class="basic">
+          <text class="text">{{activity.activity_content}}</text>
+  </view>
+  <view class="basic">
+          <text class="bottom_left">联系人：GTCSSA小助手</text>
   </view>
 </view>

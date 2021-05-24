@@ -15,8 +15,11 @@ Page({
     var id = options.id
     DB.get({
       success: res => {
+        var modified = res.data[id]
+        modified.time = modified.time.toLocaleString()
+        modified.time = modified.time.substring(0, modified.time.length - 3)
         this.setData({
-          activity: res.data[id]
+          activity: modified
         })
       }
     })
