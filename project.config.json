@@ -23,14 +23,14 @@
     "checkSiteMap": true,
     "uploadWithSourceMap": true,
     "compileHotReLoad": false,
-    "useMultiFrameRuntime": true,
+    "useMultiFrameRuntime": false,
     "useApiHook": true,
-    "useApiHostProcess": false,
     "babelSetting": {
       "ignore": [],
       "disablePlugins": [],
       "outputPath": ""
     },
+    "enableEngineNative": false,
     "bundle": false,
     "useIsolateContext": true,
     "useCompilerModule": true,
@@ -79,6 +79,12 @@
         {
           "name": "activity_home",
           "pathName": "pages/activity/activity_home/activity_home",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "sponsor_page",
+          "pathName": "pages/sponsor/sponsor",
           "query": "",
           "scene": null
         }

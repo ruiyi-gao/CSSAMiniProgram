@@ -62,6 +62,8 @@
     "pages/activity/activity_home/activity_home",
     "pages/activity/activity_template/activity_template",
 
+    "pages/sponsor/sponsor",
+
     "pages/me/me",
 
     "pages/logs/logs"
