@@ -1,3 +1,7 @@
+page{
+  background-color: rgb(41,40,53);
+}
+
 .basic{
   margin-left: 50rpx;
   margin-right: 50rpx;
@@ -9,4 +13,51 @@
 .bg_wrap {
   width:100%;
   overflow-x:hidden;
+}
+
+.activity_info{
+  position:relative;
+}
+
+.data_image{
+  height:420rpx;
+  width:740rpx;
+  position:relative;
+  border-radius:12px;
+  margin-left:-12px;
+  margin-bottom: -16px;
+}
+
+.bottom_info{
+  position: absolute;
+  height: 140rpx;
+  width: 690rpx;
+  background: rgba(240,255,255, 0.2);
+  border-radius: 8px;
+  bottom: 30rpx;
+  left: -20rpx;
+}
+
+.name {
+  position: relative;
+  color: black;
+  font-weight: bold;
+  font-size: 14px;
+  left: 8rpx;
+}
+
+.time {
+  position: relative;
+  color: black;
+  left: 8rpx;
+  font-size: 12px;
+  top: 8rpx;
+}
+
+.location {
+  position: relative;
+  color: black;
+  left: 8rpx;
+  font-size: 12px;
+  top: 12rpx;
 }

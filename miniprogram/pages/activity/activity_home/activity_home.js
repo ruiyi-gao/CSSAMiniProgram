@@ -20,8 +20,14 @@ Page({
      */
     DB.get({
       success: res => {
+        //将云端储存的data.item转为String, 移除秒数
+        var modified = res.data
+        for (let i in res.data) {
+          modified[i].time = res.data[i].time.toLocaleString()
+          modified[i].time = modified[i].time.substring(0, modified[i].time.length - 3)
+        }
         this.setData({
-          activity: res.data
+          activity: modified
         })
       }
     })
