@@ -1,6 +1,7 @@
 <!--pages/CSSA_home/CSSA_home.wxml-->
 <view class="bg-wrap">
-  <text class="title" style="margin-top:70rpx;" bindtap="{{bindtap}}">{{name}}</text>
+  <text class="title" style="margin-top:70rpx;" bindtap="{{bindtap}}">{{name}}</text> 
+  <image src="{{logo}}" style="width:480rpx; height:270rpx;"> </image>
   <text class="basic" decode="{{true}}">{{contact}}</text>
   <text class="basic" decode="{{true}}">{{address}}</text>
   <text class="basic" decode="{{true}}">{{website}}</text>

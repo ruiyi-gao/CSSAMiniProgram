@@ -77,13 +77,6 @@
           "scene": null
         },
         {
-          "id": -1,
-          "name": "pages/sponsor/sponsor",
-          "pathName": "pages/sponsor/sponsor",
-          "query": "",
-          "scene": null
-        },
-        {
           "name": "activity_home",
           "pathName": "pages/activity/activity_home/activity_home",
           "query": "",

@@ -1,6 +1,6 @@
 // pages/sponsor/sponsor.js
 const d = wx.cloud.database()
-const id = 1
+const id = 0 //from 0 to 3
 
 Page({
 
@@ -10,6 +10,7 @@ Page({
   data: {
     //name of sponsor 例子：中国电信美洲公司
     name: "",
+    logo: "",
     contact: "",
     address: "",
     website: "",
@@ -54,6 +55,7 @@ Page({
       success: res => {
         this.setData({
           name: res.data[id].name,
+          logo: res.data[id].logo,
           contact: res.data[id].contact,
           address: res.data[id].address,
           website: res.data[id].website,
