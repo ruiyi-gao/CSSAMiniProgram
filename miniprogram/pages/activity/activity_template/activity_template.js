@@ -18,6 +18,7 @@ Page({
         var modified = res.data[id]
         modified.time = modified.time.toLocaleString()
         modified.time = modified.time.substring(0, modified.time.length - 3)
+        console.log(modified);
         this.setData({
           activity: modified
         })

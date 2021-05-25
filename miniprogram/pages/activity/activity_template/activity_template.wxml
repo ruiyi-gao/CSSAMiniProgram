@@ -20,7 +20,7 @@
           <text class="text">{{activity.introduction}}</text>
   </view>
   <view class="basic">
-          <image src="{{activity.image_ID}}" style="width:740rpx; height:420rpx;border-radius:12px"> </image>
+          <image src="{{activity.image_ID}}" style="width:740rpx; height:420rpx;border-radius:12px; margin-top: 30rpx; margin-bottom: 30rpx"> </image>
   </view>
   <view class="basic" style="margin-top:12px">
           <text class="subtitle">【具体流程】</text>
