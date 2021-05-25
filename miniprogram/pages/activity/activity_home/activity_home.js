@@ -2,6 +2,11 @@
  * connect DB to the database named "activities"
  */
 const DB = wx.cloud.database().collection("activities")
+
+//refresh 为当前用户刷新了多少页的计数，每下拉至底部一次，refresh都会加1
+var refresh = 1;
+//numOfCont 为每次刷新会显示多少个活动
+var numOfCont = 3;
 Page({
 
   /**
@@ -18,6 +23,7 @@ Page({
     /**
      * store data to activity
      */
+    refresh = 1
     DB.get({
       success: res => {
         //将云端储存的data.item转为String, 移除秒数
@@ -26,8 +32,10 @@ Page({
           modified[i].time = res.data[i].time.toLocaleString()
           modified[i].time = modified[i].time.substring(0, modified[i].time.length - 3)
         }
+
+        var data = modified.slice(0, refresh * numOfCont)
         this.setData({
-          activity: modified
+          activity: data
         })
       }
     })
@@ -79,7 +87,24 @@ Page({
    * Called when page reach bottom
    */
   onReachBottom: function () {
-
+    DB.get({
+      success: res => {
+        if ((res.data.length / numOfCont) < refresh){
+          wx.showToast({title:'已显示所有活动',icon:'none'})
+          return
+        }
+        refresh++
+        var modified = res.data
+        for (let i in res.data) {
+          modified[i].time = res.data[i].time.toLocaleString()
+          modified[i].time = modified[i].time.substring(0, modified[i].time.length - 3)
+        }
+        var data = modified.slice(0, refresh * numOfCont)
+        this.setData({
+          activity: data
+        })
+      }
+    })
   },
 
   /**

@@ -4,7 +4,7 @@
   <text class="title" >{{activity.name}}</text>
   <view class="basic">
         <view> 
-          <text class="subtitle">活动简介</text>
+          <text class="subtitle">【活动简介】</text>
         </view>
         <view style="height:50rpx; "></view>
   </view>
@@ -23,7 +23,7 @@
           <image src="{{activity.image_ID}}" style="width:740rpx; height:420rpx;border-radius:12px"> </image>
   </view>
   <view class="basic" style="margin-top:12px">
-          <text class="subtitle">具体流程</text>
+          <text class="subtitle">【具体流程】</text>
   </view>
   <view class="basic">
           <text class="text">{{activity.activity_content}}</text>
