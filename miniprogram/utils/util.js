@@ -14,6 +14,22 @@ const formatNumber = n => {
   return n[1] ? n : '0' + n
 }
 
+/**
+ * 用于activity_home.js 将数据以时间顺序排列
+ * 将储存的data.time转为String, 移除秒数
+ * 
+ * @param {*} data input data
+ */
+const modifyData = data => {
+  var modified = data.sort((a, b) => b.time - a.time)
+  for (let i in modified) {
+    modified[i].time = formatTime(modified[i].time)
+    modified[i].time = modified[i].time.substring(0, modified[i].time.length - 3)
+  }
+  return modified
+}
+
 module.exports = {
-  formatTime: formatTime
+  formatTime: formatTime,
+  modifyData: modifyData
 }

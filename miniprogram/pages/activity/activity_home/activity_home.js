@@ -7,6 +7,8 @@ const DB = wx.cloud.database().collection("activities")
 var refresh = 1;
 //numOfCont 为每次刷新会显示多少个活动
 var numOfCont = 3;
+
+var util = require('../../../utils/util.js')
 Page({
 
   /**
@@ -27,12 +29,7 @@ Page({
     DB.get({
       success: res => {
         //将云端储存的data.item转为String, 移除秒数
-        var modified = res.data
-        for (let i in res.data) {
-          modified[i].time = res.data[i].time.toLocaleString()
-          modified[i].time = modified[i].time.substring(0, modified[i].time.length - 3)
-        }
-
+        var modified = util.modifyData(res.data)
         var data = modified.slice(0, refresh * numOfCont)
         this.setData({
           activity: data
@@ -94,11 +91,7 @@ Page({
           return
         }
         refresh++
-        var modified = res.data
-        for (let i in res.data) {
-          modified[i].time = res.data[i].time.toLocaleString()
-          modified[i].time = modified[i].time.substring(0, modified[i].time.length - 3)
-        }
+        var modified = util.modifyData(res.data)
         var data = modified.slice(0, refresh * numOfCont)
         this.setData({
           activity: data
