@@ -1,4 +1,6 @@
 const DB = wx.cloud.database().collection("activities")
+
+var util = require('../../../utils/util.js')
 Page({
 
   /**
@@ -15,10 +17,7 @@ Page({
     var id = options.id
     DB.get({
       success: res => {
-        var modified = res.data[id]
-        modified.time = modified.time.toLocaleString()
-        modified.time = modified.time.substring(0, modified.time.length - 3)
-        console.log(modified);
+        var modified =  util.modifyData(res.data)[id]
         this.setData({
           activity: modified
         })
