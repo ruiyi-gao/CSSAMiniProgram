@@ -7,6 +7,20 @@ Page({
   data: {
     width: 200, height: 500,
   },
+
+/** Sponsorship
+  * index : 广告类型
+  * 0     : 吃喝玩乐
+  * 1     : 选课/学习  <--此处类型
+  * 2     : 银行
+  * 3     : 职业规划
+  * 4     : 住宿
+  */
+  TeBieTuiJian: function () {
+    wx.navigateTo({
+      url: '../../sponsor/sponsor?id=' + 1
+    })
+  },
   
   TuShuGuan: function () {
     wx.navigateTo({

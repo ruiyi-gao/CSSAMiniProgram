@@ -87,6 +87,12 @@
           "pathName": "pages/sponsor/sponsor",
           "query": "",
           "scene": null
+        },
+        {
+          "name": "特别推荐_选课",
+          "pathName": "pages/freshman_manual/XuanKe/XuanKe",
+          "query": "",
+          "scene": null
         }
       ]
     }

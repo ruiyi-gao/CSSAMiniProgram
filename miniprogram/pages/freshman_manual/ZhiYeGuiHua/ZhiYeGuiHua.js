@@ -8,6 +8,20 @@ Page({
     width: 0, height: 0,
   },
 
+/** Sponsorship
+  * index : 广告类型
+  * 0     : 吃喝玩乐
+  * 1     : 选课/学习
+  * 2     : 银行
+  * 3     : 职业规划  <--此处类型
+  * 4     : 住宿
+  */
+  TeBieTuiJian: function () {
+    wx.navigateTo({
+      url: '../../sponsor/sponsor?id=' + 3
+    })
+  },
+
   XiaoNeiShiXi: function () {
     wx.navigateTo({
       url: 'XiaoNeiShiXi/XiaoNeiShiXi'
