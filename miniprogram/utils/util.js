@@ -17,7 +17,6 @@ const formatNumber = n => {
 /**
  * 用于activity_home.js 将数据以时间顺序排列
  * 将储存的data.time转为String, 移除秒数
- * 
  * @param {*} data input data
  */
 const modifyData = data => {

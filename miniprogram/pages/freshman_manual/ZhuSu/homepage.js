@@ -18,7 +18,7 @@ Page({
   */
  TeBieTuiJian: function () {
   wx.navigateTo({
-    url: '../../sponsor/sponsor?id=' + 4
+    url: '../../sponsor/sponsor_1/sponsor_1?id=' + 4
   })
 },
 

@@ -1,4 +1,8 @@
 <!--pages/activity/activity.wxml-->
+<view class="bg"  style="opacity:{{0.1}}">
+    <image class="bg-image" mode="widthFix"></image>
+</view>
+
 <view class="bg_wrap">
 
   <text class="title" >{{activity.name}}</text>

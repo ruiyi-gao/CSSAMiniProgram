@@ -28,7 +28,6 @@ Page({
     refresh = 1
     DB.get({
       success: res => {
-        //将云端储存的data.item转为String, 移除秒数
         var modified = util.modifyData(res.data)
         var data = modified.slice(0, refresh * numOfCont)
         this.setData({

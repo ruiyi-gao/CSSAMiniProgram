@@ -16,23 +16,7 @@ Page({
    */
   data: {
     //name of sponsor 例子：中国电信美洲公司
-    name: "",
-    logo: "",
-    contact: "",
-    address: "",
-    website: "",
-    article:"",
-    bindtap: "toWeb",
-    //branding image object
-    branding: {
-      type: 'image',
-      url: ''
-    },
-    pictures: [{
-      id: 0,
-      type: 'image',
-      url: ''
-    }]
+    sponsor: [],
   },
 
   toWeb: function () {
@@ -61,13 +45,15 @@ Page({
     var id = options.id
     d.collection("sponsor_info").get({
       success: res => {
+        var data = null
+        //将输入的id转为指定index的数据
+        for (let i in res.data) {
+          if (res.data[i].index == id) {
+            data = res.data[i]
+          }
+        }
         this.setData({
-          name: res.data[id].name,
-          logo: res.data[id].logo,
-          contact: res.data[id].contact,
-          address: res.data[id].address,
-          website: res.data[id].website,
-          article: res.data[id].article,
+          sponsor: data,
         })
       }
     })

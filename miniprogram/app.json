@@ -1,7 +1,6 @@
 {
   "pages": [
     "pages/homePage/homePage",
-
     "pages/CSSA_home/CSSA_home",
     "pages/CSSA/ZhuXiTuan/ZhuXiTuan",
     "pages/CSSA/JiShuBu/JiShuBu",
@@ -20,7 +19,6 @@
     "pages/CSSA/FuShuSheTuanHome/DianJingShe/DianJingShe",
     "pages/CSSA/FuShuSheTuanHome/BiQiuShe/BiQiuShe",
     "pages/CSSA/FuShuSheTuanHome/MinYueShe/MinYueShe",
-
     "pages/freshman_manual_home/freshman_manual_home",
     "pages/freshman_manual/XiaoYuanZhouBian/XiaoYuanZhouBian",
     "pages/freshman_manual/XiaoYuanZhouBian/ChiHe/ChiHeHome",
@@ -58,14 +56,10 @@
     "pages/freshman_manual/Email_Verify1/Email_Verify1",
     "pages/freshman_manual/Email_Verify2/Email_Verify2",
     "pages/freshman_manual/ZhuanYeQun/ZhuanYeQun",
-    
     "pages/activity/activity_home/activity_home",
     "pages/activity/activity_template/activity_template",
-
-    "pages/sponsor/sponsor",
-
+    "pages/sponsor/sponsor_1/sponsor_1",
     "pages/me/me",
-
     "pages/logs/logs"
   ],
   "window": {
@@ -77,6 +71,6 @@
     "enablePullDownRefresh": false,
     "resizable": true
   },
-    "style": "v2",
-    "sitemapLocation": "sitemap.json"
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
 }

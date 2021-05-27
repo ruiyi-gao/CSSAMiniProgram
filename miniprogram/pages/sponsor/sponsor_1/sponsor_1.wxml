@@ -1,0 +1,80 @@
+<!--pages/CSSA_home/CSSA_home.wxml-->
+<view class="bg"  style="opacity:{{0.1}}">
+    <image class="bg-image" mode="widthFix"></image>
+</view>
+
+<view class="bg-wrap">
+  <!--企业名-->
+  <text class="title" style="margin-top:70rpx;">{{sponsor.name}}</text> 
+  <!--第一段-->  
+  <view class="basic">
+    <text class="subtitle">第一段标题</text>
+  </view>
+  <view class="basic">
+    <text>{{sponsor.paragraphs[0]}}</text>
+  </view>
+  <!--第一张图-->
+  <view wx:if="{{sponsor.images[0]!=null}}">
+    <image class="image" src="{{sponsor.images[0]}}" mode="aspectFit"> </image>
+  </view>
+  <!--第二段--> 
+  <view class="basic">
+    <text class="subtitle">第二段标题</text>
+  </view>
+  <view class="basic">
+    <text>{{sponsor.paragraphs[1]}}</text>
+  </view>
+  <!--第二张图-->
+  <view wx:if="{{sponsor.images[0]!=null}}">
+    <image class="image" src="{{sponsor.images[1]}}" mode="aspectFit"> </image>
+  </view>
+  <!--第三段--> 
+  <view class="basic">
+    <text class="subtitle">第三段标题</text>
+  </view>
+  <view class="basic">
+    <text>{{sponsor.paragraphs[2]}}</text>
+  </view>
+  <!--第三张图-->
+  <view wx:if="{{sponsor.images[2]!=null}}">
+    <image class="image" src="{{sponsor.images[2]}}" mode="aspectFit"> </image>
+  </view>
+  <!--第四段--> 
+  <view class="basic">
+    <text class="subtitle">第四段标题</text>
+  </view>
+  <view class="basic">
+    <text>{{sponsor.paragraphs[3]}}</text>
+  </view>
+  <!--第四张图-->
+  <view wx:if="{{sponsor.images[3]!=null}}">
+    <image class="image" src="{{sponsor.images[3]}}" mode="aspectFit"> </image>
+  </view>
+  <!--第五段--> 
+  <view class="basic">
+    <text class="subtitle">第五段标题</text>
+  </view>
+  <view class="basic">
+    <text>{{sponsor.paragraphs[4]}}</text>
+  </view>
+  <!--第五张图-->
+  <view wx:if="{{sponsor.images[4]!=null}}">
+    <image class="image" src="{{sponsor.images[4]}}" mode="aspectFit"> </image>
+  </view>
+  <!--第六段--> 
+  <view class="basic">
+    <text class="subtitle">第六段标题</text>
+  </view>
+  <view class="basic">
+    <text>{{sponsor.paragraphs[5]}}</text>
+  </view>
+
+  <view class="bottom_left">
+    <image class="logo" src="{{sponsor.logo}}"></image>
+    <view>
+      <text class="basic" decode="{{true}}">电话：{{sponsor.contact}}</text>
+      <text class="basic" decode="{{true}}">地址：{{sponsor.address}}</text>
+      <text class="basic" decode="{{true}}">官网：{{sponsor.website}}</text>
+    </view>
+  </view>
+</view>
