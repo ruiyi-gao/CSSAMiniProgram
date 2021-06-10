@@ -16,7 +16,7 @@
 .title{
   position:relative;
   margin-bottom:50rpx;
-  font-size:16px;
+  font-size:20px;
   font-weight:bold;
 }
 
@@ -26,11 +26,11 @@
 
 .subtitle{
   color: black;
-  font-size: 12px;
+  font-size: 16px;
 }
 .bottom_left{
   color: black;
   position: relative;
   bottom: -32px;
-  font-size: 10px;
+  font-size: 12px;
 }

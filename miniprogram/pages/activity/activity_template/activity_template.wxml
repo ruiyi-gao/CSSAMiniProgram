@@ -28,7 +28,7 @@
   <view class="basic">
           <text class="text">{{activity.activity_content}}</text>
   </view>
-  <view class="basic">
+  <view class="basic" >
           <text class="bottom_left">联系人：GTCSSA小助手</text>
   </view>
 </view>
