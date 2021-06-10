@@ -15,22 +15,22 @@ Page({
       bindtap: 'XiaoYuanZhouBian'
     }, {
       id: 1,
-      icon: 'activity',
+      icon: 'profile',
       color: 'orange',
-      name: '附属社团',
-      bindtap: 'FuShuSheTuan'
+      name: '职业规划',
+      bindtap: 'ZhiYeGuiHua'
     }, {
       id: 2,
-      icon: 'goods',
-      color: 'yellow',
-      name: '生活必需',
-      bindtap: 'YinHang'
-    }, {
-      id: 3,
       icon: 'notice',
-      color: 'olive',
+      color: 'yellow',
       name: '选课/学习',
       bindtap: 'XuanKe'
+    }, {
+      id: 3,
+      icon: 'pay',
+      color: 'olive',
+      name: '银行',
+      bindtap: 'YinHang'
     }],
     gridCol: 2,
     cardCur: 0,
@@ -102,6 +102,12 @@ Page({
   XuanKe: function () {
     wx.navigateTo({
       url: '../freshman_manual/XuanKe/XuanKe'
+    })
+  },
+
+  ZhiYeGuiHua: function () {
+    wx.navigateTo({
+      url: '../freshman_manual/ZhiYeGuiHua/ZhiYeGuiHua',
     })
   },
 
