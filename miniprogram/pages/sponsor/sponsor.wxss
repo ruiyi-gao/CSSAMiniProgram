@@ -25,7 +25,15 @@
   align-items:center;                
 }
 
-.imagesize image {
-  width:400rpx;
-  height:400rpx;
+.sponsor_img{
+  padding-top: 50rpx; 
+  padding-bottom: 50rpx; 
+  width: 650rpx !important;
+  margin: auto;
+  display: flex;
+}
+
+.basic {
+  margin-top: 0px;
+  margin-bottom: 0px;
 }

@@ -17,12 +17,22 @@ Page({
   data: {
     //name of sponsor 例子：中国电信美洲公司
     name: "",
-    logo: "",
-    contact: "",
-    address: "",
-    website: "",
-    article:"",
-    bindtap: "toWeb",
+
+    // Paragraphs
+    paragraph1: null,
+    paragraph2: null,
+    paragraph3: null,
+    paragraph4: null,
+    paragraph5: null,
+    paragraph6: null,
+
+    // Images
+    image1: null,
+    image2: null,
+    image3: null,
+    image4: null,
+    image5: null,
+
     //branding image object
     branding: {
       type: 'image',
@@ -35,11 +45,6 @@ Page({
     }]
   },
 
-  toWeb: function () {
-    wx.navigateTo({
-      url: 'https://www.ctexcel.us/'
-    })
-  },
 
   /**
    * Lifecycle function--Called when page load
@@ -61,13 +66,37 @@ Page({
     var id = options.id
     d.collection("sponsor_info").get({
       success: res => {
+        // Replace \\n with \n so we can use \n in database
+        var paragraphs = [];
+        for (var i = 0; i < res.data[id].paragraphs.length; i++) {
+          var p = res.data[id].paragraphs[i];
+          if (p != null) {
+            p = p.replace(/\\n/g,'\n')
+          } else {
+            p = ""
+          }
+          paragraphs.push(p);
+        }
+
         this.setData({
           name: res.data[id].name,
           logo: res.data[id].logo,
           contact: res.data[id].contact,
           address: res.data[id].address,
-          website: res.data[id].website,
           article: res.data[id].article,
+
+          paragraph1: paragraphs[0],
+          paragraph2: paragraphs[1],
+          paragraph3: paragraphs[2],
+          paragraph4: paragraphs[3],
+          paragraph5: paragraphs[4],
+          paragraph6: paragraphs[5],
+
+          image1: res.data[id].images[0],
+          image2: res.data[id].images[1],
+          image3: res.data[id].images[2],
+          image4: res.data[id].images[3],
+          image5: res.data[id].images[4],
         })
       }
     })

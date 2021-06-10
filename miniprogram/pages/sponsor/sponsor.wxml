@@ -4,14 +4,32 @@
 </view>
 
 <view class="bg-wrap">
-  <text class="title" style="margin-top:70rpx;" bindtap="{{bindtap}}">{{name}}
-  
-  </text> 
-  <view class='imagesize'>
-    <image src="{{logo}}" mode="aspectFit" class="in-image"> </image>
-  </view>
-  <text class="basic" decode="{{true}}">{{contact}}</text>
-  <text class="basic" decode="{{true}}">{{address}}</text>
-  <text class="basic" decode="{{true}}">{{website}}</text>
-  <text class="basic" decode="{{true}}">{{article}}</text>
+  <!-- Title -->
+  <text class="title" style="margin-top:70rpx; margin-bottom:50rpx;" >{{name}}</text> 
+
+  <!-- Main Page -->
+  <text class="basic" decode="{{true}}">{{paragraph1}}</text>
+
+  <image class="sponsor_img" wx:if="{{image1 != null}}" src= "{{image1}}" mode="widthFix"> </image> 
+
+  <text class="basic" decode="{{true}}" >{{paragraph2}}</text>
+
+  <image class="sponsor_img" wx:if="{{image2 != null}}" src= "{{image2}}" mode="widthFix"> </image> 
+
+  <text class="basic" decode="{{true}}">{{paragraph3}}</text>
+
+  <image class="sponsor_img" wx:if="{{image3 != null}}" src= "{{image3}}" mode="widthFix"> </image> 
+
+  <text class="basic" decode="{{true}}">{{paragraph4}}</text>
+
+  <image class="sponsor_img" wx:if="{{image4 != null}}" src= "{{image4}}" mode="widthFix"> </image> 
+
+  <text class="basic" decode="{{true}}">{{paragraph5}}</text>
+
+  <image class="sponsor_img" wx:if="{{image5 != null}}" src= "{{image5}}" mode="widthFix"> </image> 
+
+  <text class="basic" decode="{{true}}">{{paragraph6}}</text>
+
+  <view style="height:100rpx"></view>
+
 </view>
