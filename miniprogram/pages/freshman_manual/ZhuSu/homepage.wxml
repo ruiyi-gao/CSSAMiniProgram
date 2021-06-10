@@ -6,10 +6,11 @@
     <text style="font-size:37rpx;">校外</text>
 </button>
 -->
-<view class="bg-img radius shadow-blur margin-top bg-img" style="background-color: white; height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
+<!-- 特别推荐板块 -->
+<!-- <view class="bg-img radius shadow-blur margin-top bg-img" style="background-color: white; height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
     <view class="cuIcon-appreciate" bindtap="TeBieTuiJian" style="font-size: 100rpx;  padding-left: 290rpx;padding-top: {{height/2 - 40}}px; color:rgb(41,40,53)"></view>
           <text bindtap="TeBieTuiJian" style="font-size:40rpx; padding-left: 270rpx; color:rgb(41,40,53)">特别推荐</text>
-</view>
+</view> -->
  
 <view class="bg-img radius shadow-blur margin-top bg-img" style="background-image: url('https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/XiaoneiRevise.png');height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
     <view class="cuIcon-home" bindtap="XiaoNei" style="font-size: 100rpx;  padding-left: 290rpx;padding-top: {{height/2 - 40}}px; color:rgb(41,40,53)"></view>
