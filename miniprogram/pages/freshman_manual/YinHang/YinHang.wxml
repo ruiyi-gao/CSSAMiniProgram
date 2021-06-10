@@ -6,19 +6,19 @@
     <text style="font-size:37rpx;">Bank of America</text>
 </button>
 -->
-<view class="bg-img radius shadow-blur margin-top bg-img" style="background-image: url('https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/sponsor_recommend.jpg');height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
-    <view class="cuIcon-appreciate" bindtap="TeBieTuiJian" style="font-size: 100rpx;  padding-left: 290rpx;padding-top: 100rpx;color:rgb(41,40,53)"></view>
+<view class="bg-img radius shadow-blur margin-top bg-img" style="background-color: white; height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
+    <view class="cuIcon-appreciate" bindtap="TeBieTuiJian" style="font-size: 100rpx;  padding-left: 290rpx;padding-top: {{height/2 - 40}}px; color:rgb(41,40,53)"></view>
           <text bindtap="TeBieTuiJian" style="font-size:40rpx; padding-left: 270rpx; color:rgb(41,40,53)">特别推荐</text>
 </view>
 
 <view class="bg-img radius shadow-blur margin-top bg-img" style="background-image: url('https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/Yinhang1.png');height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
-    <view class="cuIcon-card" bindtap="WellsFargo" style="font-size: 100rpx; padding-left: 290rpx;padding-top: 100rpx;color:rgb(41,40,53)"></view>
+    <view class="cuIcon-card" bindtap="WellsFargo" style="font-size: 100rpx; padding-left: 290rpx;padding-top: {{height/2 - 40}}px; color:rgb(41,40,53)"></view>
     <text bindtap="XueXi" style="font-size:40rpx; padding-left: 230rpx; color:rgb(41,40,53);opacity:1.5">Wells Fargo</text>
 </view>
 
 
 
 <view class="bg-img radius shadow-blur margin-top bg-img" style="background-image: url('https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/Yinhang1.png');height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
-    <view class="cuIcon-card" bindtap="BOA" style="font-size: 100rpx; padding-left: 300rpx;padding-left: 290rpx;padding-top: 100rpx;color:rgb(41,40,53)"></view>
-          <text bindtap="XueXi" style="font-size:40rpx; padding-left: 230rpx; color:rgb(41,40,53)">Bank of America</text>
+    <view class="cuIcon-card" bindtap="BOA" style="font-size: 100rpx; padding-left: 300rpx;padding-left: 290rpx;padding-top: {{height/2 - 40}}px; color:rgb(41,40,53)"></view>
+          <text bindtap="XueXi" style="font-size:40rpx; padding-left: 200rpx; color:rgb(41,40,53)">Bank of America</text>
 </view>
