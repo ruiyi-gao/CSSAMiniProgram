@@ -13,7 +13,7 @@
               <text>{{item.name}}</text>
             </view>
             <view class="time">
-              <text>{{item.time}}</text>
+              <text>{{item.time}} EST</text>
             </view>
             <view class="location">
               <image src="../../../images/locationIcon.png" style="height:32rpx;width:32rpx"></image>

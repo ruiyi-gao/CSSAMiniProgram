@@ -79,11 +79,8 @@ Page({
         }
 
         this.setData({
-          name: res.data[id].name,
+          name: res.data[id].name.replace(/\\n/g,'\n'),
           logo: res.data[id].logo,
-          contact: res.data[id].contact,
-          address: res.data[id].address,
-          article: res.data[id].article,
 
           paragraph1: paragraphs[0],
           paragraph2: paragraphs[1],

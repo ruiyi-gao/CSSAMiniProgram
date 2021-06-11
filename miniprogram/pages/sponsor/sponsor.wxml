@@ -5,7 +5,7 @@
 
 <view class="bg-wrap">
   <!-- Title -->
-  <text class="title" style="margin-top:70rpx; margin-bottom:50rpx;" >{{name}}</text> 
+  <text class="title" style="margin-top:70rpx; margin-bottom:50rpx; margin-left: 50rpx; margin-right: 50rpx;" >{{name}}</text> 
 
   <!-- Main Page -->
   <text class="basic" decode="{{true}}">{{paragraph1}}</text>
