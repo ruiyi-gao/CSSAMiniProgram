@@ -15,10 +15,10 @@ Page({
         bindtap: 'MinYueShe'
     }, {
         id: 1,
-        icon: '../../../images/BiQiu.png',
+        icon: '../../../images/ShiWei.png',
         color: 'white',
-        name: '壁球社',
-        bindtap: 'BiQiuShe'
+        name: '食味社',
+        bindtap: 'ShiWeiShe'
     }, {
         id: 2,
         icon: '../../../images/DianJing.png',
@@ -33,24 +33,12 @@ Page({
         bindtap: 'WuDaoShe'
       }, {
         id: 4,
-        icon: '../../../images/ShuHua.png',
-        color: 'white',
-        name: '书画社',
-        bindtap: 'ShuHuaShe'
-      }, {
-        id: 5,
-        icon: '../../../images/ShiWei.png',
-        color: 'white',
-        name: '食味社',
-        bindtap: 'ShiWeiShe'
-      }, {
-        id: 6,
         icon: '../../../images/SheYing.png',
         color: 'white',
         name: '摄影社',
         bindtap: 'SheYingShe'
       }, {
-        id: 7,
+        id: 5,
         icon: '../../../images/ZhuoYou.png',
         color: 'white',
         name: '桌游社',
