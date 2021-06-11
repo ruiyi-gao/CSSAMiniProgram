@@ -7,7 +7,7 @@
 </button>
 -->
 <!--'https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/Recommendpage.png'-->
-<view class="bg-img radius shadow-blur margin-top bg-img " style="background-color: white; height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
+<view class="bg-img radius shadow-blur margin-top bg-img " style="background-color: rgb(249, 229, 166); height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
     <view class="cuIcon-appreciate" bindtap="TeBieTuiJian" style="font-size: 100rpx; padding-left: 310rpx;padding-top: {{height / 2 - 40}}px; color:rgb(41,40,53)"></view>
           <text bindtap="TeBieTuiJian" style="font-size:40rpx; padding-left: 280rpx; color:rgb(41,40,53)">特别推荐</text>
 </view>
