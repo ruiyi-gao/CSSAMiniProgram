@@ -60,5 +60,5 @@ page{
   color: black;
   left: 8rpx;
   font-size: 12px;
-  top: 12rpx;
+  top: 15rpx;
 }

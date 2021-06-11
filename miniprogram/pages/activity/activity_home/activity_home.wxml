@@ -16,7 +16,7 @@
               <text>{{item.time}} EST</text>
             </view>
             <view class="location">
-              <image src="../../../images/locationIcon.png" style="height:32rpx;width:32rpx"></image>
+              <image src="../../../images/locationIcon.png" style="height:32rpx;width:32rpx;vertical-align: bottom;"></image>
               <text>{{item.location}}</text>
             </view>
           </div>
