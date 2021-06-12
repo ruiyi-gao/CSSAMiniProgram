@@ -25,6 +25,7 @@ Page({
     paragraph4: null,
     paragraph5: null,
     paragraph6: null,
+    paragraph7: null,
 
     // Images
     image1: null,
@@ -32,6 +33,7 @@ Page({
     image3: null,
     image4: null,
     image5: null,
+    image6: null,
 
     //branding image object
     branding: {
@@ -88,12 +90,14 @@ Page({
           paragraph4: paragraphs[3],
           paragraph5: paragraphs[4],
           paragraph6: paragraphs[5],
+          paragraph7: paragraphs[6],
 
           image1: res.data[id].images[0],
           image2: res.data[id].images[1],
           image3: res.data[id].images[2],
           image4: res.data[id].images[3],
           image5: res.data[id].images[4],
+          image6: res.data[id].images[5],
         })
       }
     })

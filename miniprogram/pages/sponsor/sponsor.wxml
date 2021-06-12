@@ -5,7 +5,7 @@
 
 <view class="bg-wrap">
   <!-- Title -->
-  <text class="title" style="margin-top:70rpx; margin-bottom:50rpx; margin-left: 50rpx; margin-right: 50rpx;" >{{name}}</text> 
+  <text class="title" decode="{{true}}" style="margin-top:70rpx; margin-bottom:50rpx; margin-left: 50rpx; margin-right: 50rpx;" >{{name}}</text> 
 
   <!-- Main Page -->
   <text class="basic" decode="{{true}}">{{paragraph1}}</text>
@@ -29,6 +29,10 @@
   <image class="sponsor_img" wx:if="{{image5 != null}}" src= "{{image5}}" mode="widthFix"> </image> 
 
   <text class="basic" decode="{{true}}">{{paragraph6}}</text>
+
+  <image class="sponsor_img" wx:if="{{image6 != null}}" src= "{{image6}}" mode="widthFix"> </image> 
+
+  <text class="basic" decode="{{true}}">{{paragraph7}}</text>
 
   <view style="height:100rpx"></view>
 
