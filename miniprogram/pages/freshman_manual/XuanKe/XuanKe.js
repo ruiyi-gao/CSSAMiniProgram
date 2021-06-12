@@ -1,4 +1,5 @@
 // pages/freshman_manual/XuanKe/XuanKe.js
+const d = wx.cloud.database()
 Page({
 
   /**
@@ -6,6 +7,7 @@ Page({
    */
   data: {
     width: 200, height: 500,
+    name_on_list: "",
   },
 
 /** Sponsorship
@@ -47,16 +49,27 @@ Page({
   onLoad: function (options) {
     var that = this;
     wx.getSystemInfo({
-            success: function (res) {
-              console.log(res);
-              // 计算主体部分高度,单位为px
-              that.setData({
-                leftBorderWidth: res.windowWidth/22,
-                width: res.windowWidth/1.10,
-                height: res.windowHeight / 4.55
-              })
-            },
-          }) 
+      success: function (res) {
+        console.log(res);
+        // 计算主体部分高度,单位为px
+        that.setData({
+          leftBorderWidth: res.windowWidth/22,
+          width: res.windowWidth/1.10,
+          height: res.windowHeight / 4.55
+        })
+      },
+    }) 
+
+    var index = 1;
+    d.collection("sponsor_info").where({
+      index: 1
+    }).get({
+      success: res => {
+        this.setData({
+          name_on_list: res.data[0].name_on_list
+        })
+      }
+    })
   },
 
   /**

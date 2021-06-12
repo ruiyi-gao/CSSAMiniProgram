@@ -1,4 +1,5 @@
 // pages/freshman_manual/XiaoYuanZhouBian/XiaoYuanZhouBian.js
+const d = wx.cloud.database()
 Page({
 
   /**
@@ -6,6 +7,7 @@ Page({
    */
   data: {
     width: 200, height: 500,
+    name_on_list: ""
   },
 
 /** Sponsorship
@@ -50,6 +52,17 @@ Page({
               })
             },
           }) 
+    
+      var index = 0;
+      d.collection("sponsor_info").where({
+        index: 0
+      }).get({
+        success: res => {
+          this.setData({
+            name_on_list: res.data[0].name_on_list
+          })
+        }
+      })
   },
 
   /**
