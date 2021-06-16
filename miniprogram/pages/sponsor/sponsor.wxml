@@ -1,6 +1,6 @@
 <!--pages/CSSA_home/CSSA_home.wxml-->
-<view class="bg"  style="opacity:{{0.1}}">
-    <image class="bg-image" mode="widthFix"></image>
+<view class="bg"  style="opacity:{{0.2}}">
+    <image class="bg-image" mode="widthFix" src="cloud://dev-dt0db.6465-dev-dt0db-1301626594/CSSA_logo/GTCSSA Logo.jpg"></image>
 </view>
 
 <view class="bg-wrap">
