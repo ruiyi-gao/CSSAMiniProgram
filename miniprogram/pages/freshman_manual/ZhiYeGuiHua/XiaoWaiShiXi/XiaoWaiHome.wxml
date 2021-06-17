@@ -9,15 +9,15 @@
     <text style="font-size:37rpx;">C2D2</text>
 </button>
 -->
-<view class="bg-img radius shadow-blur margin-top bg-img" bindtap="ZhaoPin" style="background-image: url({{zhaopinURL}});height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
-    <view class="cuIcon-profile" bindtap="ZhaoPin" style="font-size: 100rpx; padding-left: 310rpx;padding-top: {{height/2 - 50}}px; color:rgb(41,40,53)"></view>
-          <text bindtap="ZhaoPin" style="font-size:40rpx; padding-left: 320rpx; color:rgb(41,40,53)">招聘</text>
+<view class="bg-img radius shadow-blur margin-top bg-img" bindtap="ZhaoPin" style="background-image: url({{zhaopinURL}});height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px;  display: flex; justify-content: center; align-items: center; flex-direction: column;">
+    <view class="cuIcon-profile" bindtap="ZhaoPin" style="font-size: 100rpx; color:rgb(41,40,53)"></view>
+    <text bindtap="ZhaoPin" style="font-size:40rpx; color:rgb(41,40,53)">招聘</text>
 </view>
-<view class="bg-img radius shadow-blur margin-top bg-img" bindtap="RenMai" style="background-image: url({{renmaiURL}});height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
-    <view class="cuIcon-group" bindtap="RenMai" style="font-size: 100rpx; padding-left: 310rpx;padding-top: {{height/2 - 40}}px; color:rgb(41,40,53)"></view>
-          <text bindtap="RenMai" style="font-size:40rpx; padding-left: 320rpx; color:rgb(41,40,53)">人脉</text>
+<view class="bg-img radius shadow-blur margin-top bg-img" bindtap="RenMai" style="background-image: url({{renmaiURL}});height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px; display: flex; justify-content: center; align-items: center; flex-direction: column;">
+    <view class="cuIcon-group" bindtap="RenMai" style="font-size: 100rpx; color:rgb(41,40,53)"></view>
+    <text bindtap="RenMai" style="font-size:40rpx; color:rgb(41,40,53)">人脉</text>
 </view>
-<view class="bg-img radius shadow-blur margin-top bg-img" bindtap="C2D2" style="background-image: url('https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/C2D2.png');height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
-    <view class="cuIcon-new" bindtap="C2D2" style="font-size: 100rpx; padding-left: 310rpx;padding-top:  {{height/2 - 40}}px; color:rgb(41,40,53)"></view>
-          <text bindtap="C2D2" style="font-size:40rpx; padding-left: 300rpx; color:rgb(41,40,53)">C2D2</text>
+<view class="bg-img radius shadow-blur margin-top bg-img" bindtap="C2D2" style="background-image: url('https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/C2D2.png');height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px; display: flex; justify-content: center; align-items: center; flex-direction: column;">
+    <view class="cuIcon-new" bindtap="C2D2" style="font-size: 100rpx; color:rgb(41,40,53)"></view>
+    <text bindtap="C2D2" style="font-size:40rpx; color:rgb(41,40,53)">C2D2</text>
 </view>
