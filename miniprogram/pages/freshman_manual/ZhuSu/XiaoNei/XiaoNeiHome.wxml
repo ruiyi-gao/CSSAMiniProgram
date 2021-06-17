@@ -10,7 +10,7 @@
 <view class="bg-img radius shadow-blur margin-top bg-img"bindtap="West" style="background-image: url('https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/west.jpg');height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
 
 
-    <button class="cu-btn " style = "background: rgba(0,0,0,0); padding-left: 300rpx;" bindtap="West">
+    <button class="cu-btn " style = "background: rgba(0,0,0,0); padding-left: {{width / 2}}px;" bindtap="West">
  
     <text style="font-size:37rpx; padding-top:{{height}}px;">West Campus\n\n西校区</text>
 </button>
@@ -18,7 +18,7 @@
 </view>
 
 <view class="bg-img radius shadow-blur  margin-top bg-img" style="background-image: url('https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/east_2.jpg');height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
-    <button class="cu-btn " style = "background: rgba(0,0,0,0); padding-left: 300rpx;" bindtap="East">
+    <button class="cu-btn " style = "background: rgba(0,0,0,0); padding-left: {{width / 2}}px;" bindtap="East">
  <text style="font-size:37rpx; padding-top: {{height}}px;">East Campus\n\n东校区</text>
 </button>
 </view>
