@@ -1,11 +1,11 @@
 <view class="bg_wrap">
 
-<text class="title">WCF2020新生活动</text>
+<text class="title">WIF2021新生活动</text>
 
-<text class="basic" decode="{{true}}">
-从2000年开始, Westminster International Friends (WIF) 都会为中国新生提供接机和临时住宿服务。因为今年疫情的原因，无法为新生提供临时住宿服务，但接机服务依旧照常进行。欢迎2021届新生去WCF官网注册报名。
+<text class="basic" decode="{{true}}" user-select="{{true}}">
+从2000年开始, Westminster International Friends (WIF) 都会为中国新生提供接机和临时住宿服务。因为今年疫情的原因，无法为新生提供临时住宿服务，但接机服务依旧照常进行。欢迎2021届新生去WIF官网注册报名。
 
-注：本次活动由WCF主办，CSSA没有参与活动筹办，只是为大家推荐这个平台，欢迎大家踊跃参与~
+注：本次活动由WIF主办，CSSA没有参与活动筹办，只是为大家推荐这个平台，欢迎大家踊跃参与~
 
 以下为信件全部内容：
 

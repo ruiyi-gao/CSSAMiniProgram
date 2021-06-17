@@ -9,27 +9,27 @@
     <text style="font-size:37rpx;">图书馆</text>
 </button>
 -->
-<view class="bg-img radius shadow-blur margin-top bg-img" style="background-color: rgb(249, 229, 166); height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
+<view class="bg-img radius shadow-blur margin-top bg-img" bindtap="TeBieTuiJian" style="background-color: rgb(249, 229, 166); height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
     <view style="display: flex;justify-content: center; height: 100%; align-items: center; flex-direction: column;">
         <view class="cuIcon-appreciate" bindtap="TeBieTuiJian" style="font-size: 100rpx; color:rgb(41,40,53)"></view>
         <text bindtap="TeBieTuiJian" style="font-size:40rpx; color:rgb(41,40,53)">{{name_on_list}}</text>
     </view>
 </view>
-<view class="bg-img radius shadow-blur margin-top bg-img" style="background-image: url('https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/study.webp');height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
+<view class="bg-img radius shadow-blur margin-top bg-img" bindtap="XueXi" style="background-image: url('https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/study.webp');height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
     <view style="display: flex;justify-content: center; height: 100%; align-items: center; flex-direction: column;">
         <view class="cuIcon-write" bindtap="XueXi" style="font-size: 100rpx; color:rgb(41,40,53)"></view>
         <text bindtap="XueXi" style="font-size:40rpx; color:rgb(41,40,53)">学习</text>
     </view>
 </view>
 
-<view class="bg-img radius margin-top shadow-blur" style="background-image: url('https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/xuanke2.jpg');height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
+<view class="bg-img radius margin-top shadow-blur" bindtap="XuanKeNeiRong" style="background-image: url('https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/xuanke2.jpg');height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
     <view style="display: flex;justify-content: center; height: 100%; align-items: center; flex-direction: column;">
         <view class="cuIcon-selection ;" bindtap="XuanKeNeiRong" style="font-size: 100rpx; color:rgb(41,40,53)"></view>
         <text bindtap="XuanKeNeiRong" style="font-size:40rpx; color:rgb(41,40,53)">选课</text>
     </view>
 </view>
 
-<view class="bg-img radius shadow-blur margin-top bg-img" style="background-image: url('https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/library.jpg');height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
+<view class="bg-img radius shadow-blur margin-top bg-img" bindtap="TuShuGuan" style="background-image: url('https://gtcssaminiprogram.oss-cn-beijing.aliyuncs.com/miniprogrampic/library.jpg');height:{{height}}px; width:{{width}}px;border-radius: 20px;left:{{leftBorderWidth}}px">
     <view style="display: flex;justify-content: center; height: 100%; align-items: center; flex-direction: column;">
         <view class="cuIcon-post" bindtap="TuShuGuan" style="font-size: 100rpx; color:rgb(41,40,53)"></view>
         <text bindtap="TuShuGuan" style="font-size:40rpx; color:rgb(41,40,53)">图书馆</text>

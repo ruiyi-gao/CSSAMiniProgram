@@ -8,6 +8,8 @@ Page({
   data: {
     width: 200, height: 500,
     name_on_list: "",
+    wellsFargoURL: '',
+    boaURL: '',
   },
 
 /** Sponsorship
@@ -52,6 +54,20 @@ Page({
         })
       },
     }) 
+
+    // Transfer fileID to URL for image showing 
+    wx.cloud.getTempFileURL({
+      fileList: ['cloud://dev-dt0db.6465-dev-dt0db-1301626594/freshman_manuel/boa.jpg', 
+      'cloud://dev-dt0db.6465-dev-dt0db-1301626594/freshman_manuel/wellsFargo.jpg'],
+      success: res => {
+        console.log(res.fileList)
+        this.setData({
+          boaURL:res.fileList[0].tempFileURL,
+          wellsFargoURL: res.fileList[1].tempFileURL,
+        })
+      },
+    })
+
 
     var index = 2;
     d.collection("sponsor_info").where({

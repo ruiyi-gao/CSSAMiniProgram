@@ -42,6 +42,20 @@ Page({
               })
             },
           }) 
+
+    // Transfer fileID to URL for image showing 
+    wx.cloud.getTempFileURL({
+      fileList: ['cloud://dev-dt0db.6465-dev-dt0db-1301626594/freshman_manuel/zhaopin.jpg', 
+      'cloud://dev-dt0db.6465-dev-dt0db-1301626594/freshman_manuel/renmai.jpg'],
+      success: res => {
+        console.log(res.fileList)
+        this.setData({
+          zhaopinURL:res.fileList[0].tempFileURL,
+          renmaiURL: res.fileList[1].tempFileURL,
+        })
+      },
+    })
+
   },
 
   /**

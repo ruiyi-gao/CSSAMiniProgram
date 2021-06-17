@@ -18,6 +18,8 @@ Page({
     DB.get({
       success: res => {
         var modified =  util.modifyData(res.data)[id]
+        modified.introduction = modified.introduction.replace(/\\n/g,'\n')
+        modified.activity_content = modified.activity_content.replace(/\\n/g,'\n')
         this.setData({
           activity: modified
         })
